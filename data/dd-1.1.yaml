@@ -1,0 +1,45 @@
+---
+id: OMGDD11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Diagram Definition
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/DD/1.1/About-DD
+- type: pdf
+  content: https://www.omg.org/spec/DD/1.1/PDF
+docidentifier:
+- content: OMG DD 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2015-08-31'
+version:
+- content: 1.1 (2015-08-31)
+abstract:
+- language: en
+  script: Latn
+  content: The DD specification provides a framework for other modeling language specifications to define their diagrams. Therefore, the DD specification does not have conformance criteria to vendors and tools directly, but rather to the modeling language specifications using it.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG DD 1.0
+    docidentifier:
+    - content: OMG DD 1.0
+      type: OMG
+license:
+- RF-Limited
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Platform

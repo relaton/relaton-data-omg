@@ -1,0 +1,45 @@
+---
+id: OMGTEX11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: TACSIT DATA EXCHANGE
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/TEX/1.1/About-TEX
+- type: pdf
+  content: https://www.omg.org/spec/TEX/1.1/PDF
+docidentifier:
+- content: OMG TEX 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2024-08-17'
+version:
+- content: 1.1 (2024-08-17)
+abstract:
+- language: en
+  script: Latn
+  content: "The domain of military and operational Command and Control systems is characterized by a huge variety of underlying computing platforms. A standard-based interface to common TACtical SITuation (TACSIT) services is thus essential for interoperable and open systems. In this scope, a first standard has already been issued by the OMG: the TACSIT Controller Interface consists of set of interfaces to interact with TACSIT display systems. \r\nThis specification offers data interfaces to TACSIT systems. More specifically, it standardizes:\r\n- The data that need to be exchanged with TACSIT systems. \r\n- The interfaces needed to exchange data from/to TACSIT systems."
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG TEX 1.0
+    docidentifier:
+    - content: OMG TEX 1.0
+      type: OMG
+license:
+- RAND
+keyword:
+- vocab:
+    content: C4i
+- vocab:
+    content: Domain

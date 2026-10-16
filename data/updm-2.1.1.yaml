@@ -1,0 +1,59 @@
+---
+id: OMGUPDM211
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Unified Profile for DoDAF and MODAF
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/UPDM/2.1.1/About-UPDM
+- type: pdf
+  content: https://www.omg.org/spec/UPDM/2.1.1/PDF
+docidentifier:
+- content: OMG UPDM 2.1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2017-05-26'
+version:
+- content: 2.1.1 (2017-05-26)
+abstract:
+- language: en
+  script: Latn
+  content: "UPDM 2.1.1 supports the capability to:\r\n- model architectures for a broad range of complex systems, which may include hardware, software, data, personnel, and facility elements;\r\n- model consistent architectures for system-of-systems down to lower levels of design and implementation;\r\n- model service oriented architectures;\r\n- support the analysis, specification, design, and verification of complex systems; and\r\n- improve the ability to exchange architecture information among related tools that are UML based and tools that are based on other standards."
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG UPDM 2.0.1
+    docidentifier:
+    - content: OMG UPDM 2.0.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG UPDM 1.1
+    docidentifier:
+    - content: OMG UPDM 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG UPDM 1.0.1
+    docidentifier:
+    - content: OMG UPDM 1.0.1
+      type: OMG
+license:
+- RF-RAND
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Enterprise Modeling

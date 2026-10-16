@@ -1,0 +1,50 @@
+---
+id: OMGWATM12
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Wireless Access and Terminal Mobility
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/WATM/1.2/About-WATM
+- type: pdf
+  content: https://www.omg.org/spec/WATM/1.2/PDF
+docidentifier:
+- content: OMG WATM 1.2
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2005-05-02'
+version:
+- content: 1.2 (2005-05-02)
+abstract:
+- language: en
+  script: Latn
+  content: This specification specifies an architecture and interfaces to support wireless access and terminal mobility in CORBA.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG WATM 1.1
+    docidentifier:
+    - content: OMG WATM 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG WATM 1.0
+    docidentifier:
+    - content: OMG WATM 1.0
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Platform

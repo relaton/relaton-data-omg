@@ -1,0 +1,57 @@
+---
+id: OMGRoIS20
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Robotic Interaction Service Framework
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/RoIS/2.0/About-RoIS
+- type: pdf
+  content: https://www.omg.org/spec/RoIS/2.0/PDF
+docidentifier:
+- content: OMG RoIS 2.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2026-06-26'
+version:
+- content: 2.0 (2026-06-26)
+abstract:
+- language: en
+  script: Latn
+  content: This specification defines a framework that can handle messages and data exchanged between human-robot interaction service components and service applications. It includes a platform-independent model (PIM) of the framework.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG RoIS 1.2
+    docidentifier:
+    - content: OMG RoIS 1.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG RoIS 1.1
+    docidentifier:
+    - content: OMG RoIS 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG RoIS 1.0
+    docidentifier:
+    - content: OMG RoIS 1.0
+      type: OMG
+license:
+- RF-Limited
+keyword:
+- vocab:
+    content: Domain

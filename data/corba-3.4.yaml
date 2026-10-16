@@ -1,0 +1,138 @@
+---
+id: OMGCORBA34
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Common Object Request Broker Architecture
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/CORBA/3.4/About-CORBA
+- type: pdf
+  content: https://www.omg.org/spec/CORBA/3.4/Interoperability/PDF
+docidentifier:
+- content: OMG CORBA 3.4
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2021-02-02'
+version:
+- content: 3.4 (2021-02-02)
+abstract:
+- language: en
+  script: Latn
+  content: "Part 1 specifies the CORBA Object Model and uses concepts from that model to define the operation of the\r\nObject Request Broker (ORB). The ORB is the basic mechanism by which objects transparently make requests to - and\r\nreceive responses from - each other on the same machine or across a network. A client need not be aware of the\r\nmechanisms used to communicate with or activate an object, how the object is implemented, or where the object is\r\nlocated.\r\n\r\nPart 2 specifies a comprehensive, flexible approach to supporting networks of objects that are distributed across\r\nand managed by multiple, heterogeneous CORBA-compliant Object Request Brokers (ORBs). The approach to inter-ORB\r\noperation is universal, because elements can be combined in many ways to satisfy a very broad range of needs.\r\n\r\nPart 3 defines the syntax and semantics of a component model (CCM), based on CORBA IDL, and its corresponding meta-model, \r\ngeneric interaction support allowing to define new interactions in CCM, a language to describe the structure and state of \r\ncomponent implementations and its corresponding meta-model, a programming model for constructing component \r\nimplementations, a runtime environment for component implementations, interaction between components and \r\nEnterprise Java Beans, meta-data for describing component-based applications and interfaces for their deployment,\r\nand a lightweight subset of the component model, programming model and runtime environment."
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG CORBA 3.3
+    docidentifier:
+    - content: OMG CORBA 3.3
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG CORBA 3.2
+    docidentifier:
+    - content: OMG CORBA 3.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG CORBA 3.1.1
+    docidentifier:
+    - content: OMG CORBA 3.1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG CORBA 3.0.3
+    docidentifier:
+    - content: OMG CORBA 3.0.3
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG CORBA 2.6.1
+    docidentifier:
+    - content: OMG CORBA 2.6.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG CORBA 2.5
+    docidentifier:
+    - content: OMG CORBA 2.5
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG CORBA 2.4.2
+    docidentifier:
+    - content: OMG CORBA 2.4.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG CORBA 2.3.1
+    docidentifier:
+    - content: OMG CORBA 2.3.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG CORBA 2.2
+    docidentifier:
+    - content: OMG CORBA 2.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG CORBA 2.1
+    docidentifier:
+    - content: OMG CORBA 2.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG CORBA 2.0
+    docidentifier:
+    - content: OMG CORBA 2.0
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG CORBA 1.2
+    docidentifier:
+    - content: OMG CORBA 1.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG CORBA 1.1
+    docidentifier:
+    - content: OMG CORBA 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG CORBA 1.0
+    docidentifier:
+    - content: OMG CORBA 1.0
+      type: OMG
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Middleware
+- vocab:
+    content: Corba Platform
+- vocab:
+    content: Platform

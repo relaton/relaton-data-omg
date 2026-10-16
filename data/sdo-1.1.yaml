@@ -1,0 +1,47 @@
+---
+id: OMGSDO11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Super Distributed Object
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SDO/1.1/About-SDO
+- type: pdf
+  content: https://www.omg.org/spec/SDO/1.1/PDF
+docidentifier:
+- content: OMG SDO 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2008-10-01'
+version:
+- content: 1.1 (2008-10-01)
+abstract:
+- language: en
+  script: Latn
+  content: A Super Distributed Object (SDO) is a logical representation of a hardware device or a software component that provides well-known functionality and services. One of the key characteristics in super distribution is to incorporate a massive number of objects, each of which performs its own task autonomously or cooperatively with other objects.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG SDO 1.0
+    docidentifier:
+    - content: OMG SDO 1.0
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Embedded Intelligence
+- vocab:
+    content: Industrial Systems
+- vocab:
+    content: Domain

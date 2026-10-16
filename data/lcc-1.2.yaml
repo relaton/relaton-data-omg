@@ -1,0 +1,47 @@
+---
+id: OMGLCC12
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Languages, Countries And Codes
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/LCC/1.2/About-LCC
+- type: pdf
+  content: https://www.omg.org/spec/LCC/1.2/PDF
+docidentifier:
+- content: OMG LCC 1.2
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2022-03-31'
+version:
+- content: 1.2 (2022-03-31)
+abstract:
+- language: en
+  script: Latn
+  content: "Languages, Countries and Codes (LCC) Specification and Ontologies\r\n\r\nThe Languages, Countries, and Codes (LCC) Specification provides metamodels, in the form of ontologies, and model files that consist of individuals defined by those metamodels, representing commonly used codes for the representation of languages and regions, including countries and their subdivisions. While most organizations recognize the ISO 639 standard as the primary source for definition of languages world-wide, and many organizations use the country codes contained in ISO 3166, most governments maintain their own extensions and modifications to the ISO 3166 codes for political and other purposes.\r\n\r\nLCC includes:\r\n   - Core ontologies that provide the 'schema' for the ISO and United Nations code sets\r\n   - Language codes corresponding to ISO 639-1 and 639-2\r\n   - Country codes corresponding to ISO 3166-1\r\n   - Country subdivision codes corresponding to ISO 3166-2\r\n   - Region codes specified in the UN M49 code set\r\n   \r\nThe ontologies are partitioned such that they can be extended as appropriate for various national and international government purposes, as well as mapped to other code systems for countries or regions including those used by the International Olympic Committee and others.  For more information, please see the Object Management Group (OMG) [specification home page](https://www.omg.org/spec/LCC)."
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG LCC 1.1
+    docidentifier:
+    - content: OMG LCC 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG LCC 1.0
+    docidentifier:
+    - content: OMG LCC 1.0
+      type: OMG
+license:
+- Non-Assert

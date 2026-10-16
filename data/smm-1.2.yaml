@@ -1,0 +1,54 @@
+---
+id: OMGSMM12
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Structured Metrics Metamodel
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SMM/1.2/About-SMM
+- type: pdf
+  content: https://www.omg.org/spec/SMM/1.2/PDF
+docidentifier:
+- content: OMG SMM 1.2
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2018-03-29'
+version:
+- content: 1.2 (2018-03-29)
+abstract:
+- language: en
+  script: Latn
+  content: This specification defines a metamodel for representing measurement information related to any structured information model. Referred to as the Structured Metrics Metamodel (SMM), this specification is an extensible metamodel for exchanging both measures and measurement information concerning artifacts contained or expressed by structured models, such as MOF.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG SMM 1.1.1
+    docidentifier:
+    - content: OMG SMM 1.1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG SMM 1.0
+    docidentifier:
+    - content: OMG SMM 1.0
+      type: OMG
+license:
+- RF-Limited
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Software Modernization
+- vocab:
+    content: Platform

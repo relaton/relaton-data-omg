@@ -1,0 +1,52 @@
+---
+id: OMGSOLM12
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Satellite Operations Language Metamodel
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SOLM/1.2/About-SOLM
+- type: pdf
+  content: https://www.omg.org/spec/SOLM/1.2/PDF
+docidentifier:
+- content: OMG SOLM 1.2
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2025-12-22'
+version:
+- content: 1.2 (2025-12-22)
+abstract:
+- language: en
+  script: Latn
+  content: Updated SpacePython implementation changes that allow for pluggable UI and data backing implementations.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG SOLM 1.1
+    docidentifier:
+    - content: OMG SOLM 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG SOLM 1.0
+    docidentifier:
+    - content: OMG SOLM 1.0
+      type: OMG
+license:
+- RF-Limited
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Space

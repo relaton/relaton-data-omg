@@ -1,0 +1,50 @@
+---
+id: OMGC2WSDL121
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: CORBA to WSDL/SOAP Interworking
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/C2WSDL/1.2.1/About-C2WSDL
+- type: pdf
+  content: https://www.omg.org/spec/C2WSDL/1.2.1/PDF
+docidentifier:
+- content: OMG C2WSDL 1.2.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2008-08-01'
+version:
+- content: 1.2.1 (2008-08-01)
+abstract:
+- language: en
+  script: Latn
+  content: This specification maps a valid set of OMG IDL constructs to WSDL. The mapping is done based on SOAP 1.1 and WSDL 1.1 versions.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG C2WSDL 1.1
+    docidentifier:
+    - content: OMG C2WSDL 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG C2WSDL 1.0
+    docidentifier:
+    - content: OMG C2WSDL 1.0
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Platform

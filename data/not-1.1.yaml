@@ -1,0 +1,50 @@
+---
+id: OMGNOT11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Notification Service
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/NOT/1.1/About-NOT
+- type: pdf
+  content: https://www.omg.org/spec/NOT/1.1/PDF
+docidentifier:
+- content: OMG NOT 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2004-09-30'
+version:
+- content: 1.1 (2004-09-30)
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This specification describes a CORBA-based Notification Service, a service which extends the existing OMG Event Service, adding to it the following new capabilities:
+    - The ability to transmit events in the form of a well-defined data structure, in addition to Anys and Typed-events as supported by the existing Event Service.
+    - The ability for clients to specify exactly which events they are interested in receiving, by attaching filters to each proxy in a channel.
+    - The ability for the event types required by all consumers of a channel to be discovered by suppliers of that channel, so that suppliers can produce events on demand, or avoid transmitting events in which no consumers have interest.
+    - The ability for the event types offered by suppliers to an event channel to be discovered by consumers of that channel so that consumers may subscribe to new event types as they become available.
+    - The ability to configure various quality of service properties on a per-channel, perproxy, or per-event basis.
+    - An optional event type repository which, if present, facilitates the formation of filter constraints by end-users, by making information about the structure of events which will flow through the channel readily available.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG NOT 1.0.1
+    docidentifier:
+    - content: OMG NOT 1.0.1
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Services

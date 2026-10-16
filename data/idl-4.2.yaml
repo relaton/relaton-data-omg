@@ -1,0 +1,57 @@
+---
+id: OMGIDL42
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Interface Definition Language
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/IDL/4.2/About-IDL
+- type: pdf
+  content: https://www.omg.org/spec/IDL/4.2/PDF
+docidentifier:
+- content: OMG IDL 4.2
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2018-03-23'
+version:
+- content: 4.2 (2018-03-23)
+abstract:
+- language: en
+  script: Latn
+  content: This document specifies the OMG Interface Definition Language (IDL). IDL is a descriptive language used to define data types and interfaces in a way that is independent of the programming language or operating system/processor platform. The IDL specifies only the syntax used to define the data types and interfaces. It is normally used in connection with other specifications that further define how these types/interfaces are utilized in specific contexts and platforms.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG IDL 4.1
+    docidentifier:
+    - content: OMG IDL 4.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG IDL 4.0
+    docidentifier:
+    - content: OMG IDL 4.0
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG IDL 3.5
+    docidentifier:
+    - content: OMG IDL 3.5
+      type: OMG
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Interface Definition Language

@@ -1,0 +1,59 @@
+---
+id: OMGDDS14
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Data Distribution Service
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/DDS/1.4/About-DDS
+- type: pdf
+  content: https://www.omg.org/spec/DDS/1.4/PDF
+docidentifier:
+- content: OMG DDS 1.4
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2015-03-30'
+version:
+- content: 1.4 (2015-03-30)
+abstract:
+- language: en
+  script: Latn
+  content: The DDS specification describes a Data-Centric Publish-Subscribe (DCPS) model for distributed application communication and integration. This specification defines both the Application Interfaces (APIs) and the Communication Semantics (behavior and quality of service) that enable the efficient delivery of information from information producers to matching consumers. The purpose of the DDS specification can be summarized as enabling the 'Efficient and Robust Delivery of the Right Information to the Right Place at the Right Time.'
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG DDS 1.2
+    docidentifier:
+    - content: OMG DDS 1.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG DDS 1.1
+    docidentifier:
+    - content: OMG DDS 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG DDS 1.0
+    docidentifier:
+    - content: OMG DDS 1.0
+      type: OMG
+license:
+- RF-Limited
+keyword:
+- vocab:
+    content: Omg Data Distribution Service
+- vocab:
+    content: Platform

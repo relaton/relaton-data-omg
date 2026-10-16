@@ -1,0 +1,43 @@
+---
+id: OMGLtLOG11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Lightweight Log Service
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/LtLOG/1.1/About-LtLOG
+- type: pdf
+  content: https://www.omg.org/spec/LtLOG/1.1/PDF
+docidentifier:
+- content: OMG LtLOG 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2005-05-01'
+version:
+- content: 1.1 (2005-05-01)
+abstract:
+- language: en
+  script: Latn
+  content: The Lightweight Logging Service specification contained in this document is primarily intended as an efficient, central facility inside an embedded or real-time environment to accept and manage logging records. These records are emitted from applications residing in the same environment and stored in a memory-only storage area owned and managed by the Lightweight Logging Service.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG LtLOG 1.0
+    docidentifier:
+    - content: OMG LtLOG 1.0
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Platform

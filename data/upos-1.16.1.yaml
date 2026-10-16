@@ -1,0 +1,40 @@
+---
+id: OMGUPOS1161
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Unified POS
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/UPOS/1.16.1/About-UPOS
+- type: pdf
+  content: https://www.omg.org/spec/UPOS/1.16.1/PDF
+docidentifier:
+- content: OMG UPOS 1.16.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2022-07-13'
+version:
+- content: 1.16.1 (2022-07-13)
+abstract:
+- language: en
+  script: Latn
+  content: "UPOS 1.16.1 is a UPOS 1.16 revised version. After issuing the UPOS 1.16 we found some to be corrected items for the precise device handling. \r\nBased on the detailed discussion we corrected all of the device behavior and corrected and revised the several device chapters.\r\nLatest with Bar Document were clarified by 8 of JIRA categories\r\nThen categorized all of items are assigned into the Issue List Table in the with Bar specification. \r\nAlso, all of the detailed issues are listed in the Issue Reference Table and attached in the with Bar Document. \r\nBy using this with Bar Specification validating document, we  can clarify the issue from JIRA and identify corrected items in specification and can understand the reason and how edited those kinds of things."
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG UPOS 1.15.1
+    docidentifier:
+    - content: OMG UPOS 1.15.1
+      type: OMG
+license:
+- RAND

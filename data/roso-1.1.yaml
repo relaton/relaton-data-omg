@@ -1,0 +1,43 @@
+---
+id: OMGROSO11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Robotic Service Ontology
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/ROSO/1.1/About-ROSO
+- type: pdf
+  content: https://www.omg.org/spec/ROSO/1.1/PDF
+docidentifier:
+- content: OMG ROSO 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2026-06-26'
+version:
+- content: 1.1 (2026-06-26)
+abstract:
+- language: en
+  script: Latn
+  content: "The Robotic Service Ontology (RoSO) defines vocabularies to describe functions and constraints of robotic functional\r\ncomponents for deployment in robotic services. RoSO is intended to work with IEEE1872-2015 [IEEE1872] for robotic\r\nfunctions. RoSO also intended to work with other ontologies for Human-Robot or Human-Agent Interaction (HRI/HAI)\r\nand ontologies for the service domain."
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG ROSO 1.0
+    docidentifier:
+    - content: OMG ROSO 1.0
+      type: OMG
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Domain

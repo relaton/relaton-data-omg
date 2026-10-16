@@ -1,0 +1,59 @@
+---
+id: OMGPYTH12
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Python Language Mapping
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/PYTH/1.2/About-PYTH
+- type: pdf
+  content: https://www.omg.org/spec/PYTH/1.2/PDF
+docidentifier:
+- content: OMG PYTH 1.2
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2002-11-01'
+version:
+- content: 1.2 (2002-11-01)
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This document covers the following aspects of implementing CORBA-based architectures in Python:
+    - Representation of IDL types, constants, and exceptions in Python
+    - Invocation of methods on a CORBA object using a statically generated stub
+    - Invoking methods dynamically (DII)
+    - Providing object implementations using generated stubs
+    - Providing object implementations dynamically (DSI)
+    - Access to ORB services
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG PYTH 1.1
+    docidentifier:
+    - content: OMG PYTH 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG PYTH 1.0
+    docidentifier:
+    - content: OMG PYTH 1.0
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Language Mapping
+- vocab:
+    content: Platform

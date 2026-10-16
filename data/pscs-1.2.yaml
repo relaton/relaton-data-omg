@@ -1,0 +1,54 @@
+---
+id: OMGPSCS12
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Precise Semantics of UML Composite Structures
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/PSCS/1.2/About-PSCS
+- type: pdf
+  content: https://www.omg.org/spec/PSCS/1.2/PDF
+docidentifier:
+- content: OMG PSCS 1.2
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2019-06-02'
+version:
+- content: 1.2 (2019-06-02)
+abstract:
+- language: en
+  script: Latn
+  content: This specification defines an extension of fUML syntax and semantics to enable modeling and execution of UML composite structures.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG PSCS 1.1
+    docidentifier:
+    - content: OMG PSCS 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG PSCS 1.0
+    docidentifier:
+    - content: OMG PSCS 1.0
+      type: OMG
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Software Engineering
+- vocab:
+    content: Platform

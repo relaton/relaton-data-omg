@@ -1,0 +1,59 @@
+---
+id: OMGMOF251
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Meta Object Facility
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/MOF/2.5.1/About-MOF
+- type: pdf
+  content: https://www.omg.org/spec/MOF/2.5.1/PDF
+docidentifier:
+- content: OMG MOF 2.5.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2016-10-31'
+version:
+- content: 2.5.1 (2016-10-31)
+abstract:
+- language: en
+  script: Latn
+  content: This International Standard provides the basis for metamodel definition in the OMG family of MDA languages and is based on a simplification of the UML2 class modeling capabilities.  In addition to providing the means for metamodel definition it adds core capabilities for model management in general, including Identifiers, a simple generic Tag capability and Reflective operations that are defined generically and can be applied regardless of metamodel.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG MOF 2.4.2
+    docidentifier:
+    - content: OMG MOF 2.4.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG MOF 2.0
+    docidentifier:
+    - content: OMG MOF 2.0
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG MOF 1.4
+    docidentifier:
+    - content: OMG MOF 1.4
+      type: OMG
+license:
+- RF-Limited
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Platform

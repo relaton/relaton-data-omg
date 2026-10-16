@@ -1,0 +1,43 @@
+---
+id: OMGMVF11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Multiple Vocabulary Facility
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/MVF/1.1/About-MVF
+- type: pdf
+  content: https://www.omg.org/spec/MVF/1.1/PDF
+docidentifier:
+- content: OMG MVF 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2026-09-25'
+version:
+- content: 1.1 (2026-09-25)
+abstract:
+- language: en
+  script: Latn
+  content: "OMG modeling communities include people that may communicate in different natural or specialized languages. Often the patterns represented in models are reusable, either directly or with minor differences across organizations with a business, discipline, or domain area. For effective interaction and user understanding, models must be expressed in natural languages and sometimes nomenclatures or in terms of other business vocabulary appropriate for the intended users. To facilitate deeper understanding of the models by both domain experts and systems, software and data engineers, there is a need to enable expression of the definitions associated with the model elements in alternative forms as well. \r\n\r\nThe Multiple Vocabulary Facility (MVF) enables modeling tool vendors and users to express any model element in a given model in terms of multiple natural languages and terminologies. While many tools provide at least some form of internationalization, MVF fills a more general requirement to enable the association of alternative vocabularies with model elements so that the model elements themselves can be created, displayed, and referenced using the terms and definitions of a selected vocabulary. The creation of concept definitions and associated term sets may be performed by individual developers or by communities for domains of interest. Therefore the Multiple Vocabulary Facility (MVF) supports use of alternative vocabularies by modeling language tools in addition to enabling creation and maintenance of concepts and associated vocabularies, providing a standard form for the sharing, import and export, of alternative vocabularies containing concept definitions and associated terms."
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG MVF 1.0
+    docidentifier:
+    - content: OMG MVF 1.0
+      type: OMG
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Platform

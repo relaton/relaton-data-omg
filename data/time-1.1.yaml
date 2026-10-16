@@ -1,0 +1,48 @@
+---
+id: OMGTIME11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Time Service
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/TIME/1.1/About-TIME
+- type: pdf
+  content: https://www.omg.org/spec/TIME/1.1/PDF
+docidentifier:
+- content: OMG TIME 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2002-05-01'
+version:
+- content: 1.1 (2002-05-01)
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The requirements explicitly stated in the RFP ask for a service that enables the user to obtain current time together with an error estimate associated with it.
+    Additionally, the RFP suggests that the service also provide the following facilities:
+    - Ascertain the order in which events occurred.
+    - Generate time-based events based on timers and alarms.
+    - Compute the interval between two events.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG TIME 1.0
+    docidentifier:
+    - content: OMG TIME 1.0
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Services

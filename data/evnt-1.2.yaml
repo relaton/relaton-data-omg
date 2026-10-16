@@ -1,0 +1,50 @@
+---
+id: OMGEVNT12
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Event Service
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/EVNT/1.2/About-EVNT
+- type: pdf
+  content: https://www.omg.org/spec/EVNT/1.2/PDF
+docidentifier:
+- content: OMG EVNT 1.2
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2004-10-01'
+version:
+- content: 1.2 (2004-10-01)
+abstract:
+- language: en
+  script: Latn
+  content: 'The Event Service decouples the communication between objects. The Event Service defines two roles for objects: the supplier role and the consumer role.'
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG EVNT 1.1
+    docidentifier:
+    - content: OMG EVNT 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG EVNT 1.0
+    docidentifier:
+    - content: OMG EVNT 1.0
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Services

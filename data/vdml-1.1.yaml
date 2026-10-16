@@ -1,0 +1,45 @@
+---
+id: OMGVDML11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Value Delivery Modeling Language
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/VDML/1.1/About-VDML
+- type: pdf
+  content: https://www.omg.org/spec/VDML/1.1/PDF
+docidentifier:
+- content: OMG VDML 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2018-03-31'
+version:
+- content: 1.1 (2018-03-31)
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of VDML is to provide a standard modeling language for analysis and design of the operation of an enterprise with particular focus on the creation and exchange of value. It provides an abstraction of the operation of an enterprise that is appropriate for business executives, along with representation of supporting detail for business analysts to link strategy and business models to the activities, roles, and capabilities that run the enterprise.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG VDML 1.0
+    docidentifier:
+    - content: OMG VDML 1.0
+      type: OMG
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Business Modeling
+- vocab:
+    content: Domain

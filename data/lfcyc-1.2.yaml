@@ -1,0 +1,43 @@
+---
+id: OMGLFCYC12
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Life Cycle Service
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/LFCYC/1.2/About-LFCYC
+- type: pdf
+  content: https://www.omg.org/spec/LFCYC/1.2/PDF
+docidentifier:
+- content: OMG LFCYC 1.2
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2002-09-01'
+version:
+- content: 1.2 (2002-09-01)
+abstract:
+- language: en
+  script: Latn
+  content: Life Cycle Service defines services and conventions for creating, deleting, copying and moving objects. Because CORBA-based environments support distributed objects, the Life Cycle Service defines conventions that allow clients to perform life cycle operations on objects in different locations. This overview describes the life cycle problem for distributed object systems.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG LFCYC 1.1
+    docidentifier:
+    - content: OMG LFCYC 1.1
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Services

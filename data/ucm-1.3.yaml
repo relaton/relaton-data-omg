@@ -1,0 +1,61 @@
+---
+id: OMGUCM13
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Unified Component Model for Distributed, Real-Time and Embedded Systems
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/UCM/1.3/About-UCM
+- type: pdf
+  content: https://www.omg.org/spec/UCM/1.3/PDF
+docidentifier:
+- content: OMG UCM 1.3
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2022-10-05'
+version:
+- content: 1.3 (2022-10-05)
+abstract:
+- language: en
+  script: Latn
+  content: This specification defines a Unified Component Model (UCM) as new component model targeting Distributed, RealTime and Embedded (DRTE) Systems. UCM aims to be a simple yet complete, lightweight, middleware-agnostic, and flexible component model.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG UCM 1.2
+    docidentifier:
+    - content: OMG UCM 1.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG UCM 1.1
+    docidentifier:
+    - content: OMG UCM 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG UCM 1.0
+    docidentifier:
+    - content: OMG UCM 1.0
+      type: OMG
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Corba Platform
+- vocab:
+    content: Component Architecture
+- vocab:
+    content: Domain

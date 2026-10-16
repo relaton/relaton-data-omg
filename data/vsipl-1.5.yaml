@@ -1,0 +1,45 @@
+---
+id: OMGVSIPL15
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: VSIPL
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/VSIPL/1.5/About-VSIPL
+- type: pdf
+  content: https://www.omg.org/spec/VSIPL/1.5/PDF
+docidentifier:
+- content: OMG VSIPL 1.5
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2014-08-01'
+version:
+- content: 1.5 (2014-08-01)
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of the Vector, Signal, and Image Processing Library (VSIPL) standard is to support portable, high performance application programs. The standard is based upon existing libraries that have evolved and matured over decades of scientific and engineering computing.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG VSIPL 1.4
+    docidentifier:
+    - content: OMG VSIPL 1.4
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: High Performance Computing
+- vocab:
+    content: Domain

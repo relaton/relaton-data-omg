@@ -1,0 +1,53 @@
+---
+id: OMGSPTP11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: UML Profile for Schedulability, Performance, & Time
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SPTP/1.1/About-SPTP
+- type: pdf
+  content: https://www.omg.org/spec/SPTP/1.1/PDF
+docidentifier:
+- content: OMG SPTP 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2005-01-01'
+version:
+- content: 1.1 (2005-01-01)
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Over time, a number of different modeling techniques and concepts have emerged within the real-time software community. Each technique has fostered its own diverse set of terminology and notations. One of the intentions behind this specification is to provide a common framework within UML that fully encompasses this diversity but still leaves enough flexibility for different specializations. In particular, focus was placed on
+    properties that are related to modeling of time and time-related aspects such as the key characteristics of timeliness, performance, and schedulability
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG SPTP 1.0
+    docidentifier:
+    - content: OMG SPTP 1.0
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Uml Profile
+- vocab:
+    content: Real Time
+- vocab:
+    content: Middleware
+- vocab:
+    content: Software Engineering
+- vocab:
+    content: Platform

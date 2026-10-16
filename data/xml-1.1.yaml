@@ -1,0 +1,45 @@
+---
+id: OMGXML11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: XML Valuetype Language Mapping
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/XML/1.1/About-XML
+- type: pdf
+  content: https://www.omg.org/spec/XML/1.1/PDF
+docidentifier:
+- content: OMG XML 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2003-04-01'
+version:
+- content: 1.1 (2003-04-01)
+abstract:
+- language: en
+  script: Latn
+  content: This specification provides two essential scenarios for using XML to create IDL valuetypes. The first scenario, where dynamic information is present, leverages existing standards to provide access to the full contents of an XML document in terms of IDL valuetypes. The second scenario builds upon the first where additional static information is present from XML DTDs and (in the future) XML Schemas. The DTDs / Schemas are metadata used to generate Valuetypes that match the types of information expected to be present in XML documents.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG XML 1.0
+    docidentifier:
+    - content: OMG XML 1.0
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Language Mapping
+- vocab:
+    content: Platform

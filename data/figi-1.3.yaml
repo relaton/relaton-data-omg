@@ -1,0 +1,57 @@
+---
+id: OMGFIGI13
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Financial Instrument Global Identifier®
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/FIGI/1.3/About-FIGI
+- type: pdf
+  content: https://www.omg.org/spec/FIGI/1.3/PDF
+docidentifier:
+- content: OMG FIGI 1.3
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2026-09-24'
+version:
+- content: 1.3 (2026-09-24)
+abstract:
+- language: en
+  script: Latn
+  content: "The Financial Instrument Global Identifier specification details an open data based approach for identifying financial instruments through use of a permanent, semantically meaningless code key with associated identifying metadata.\r\n\r\nThe Financial Instrument Global Identifier provides a data model approach to identifying financial instruments in various contexts. These contexts relate to different processes across asset classes and operational needs where associated metadata needs may differ for the same financial instrument or collection of financial instruments (such as baskets).\r\n\r\nThrough use of a persistent, semantically meaningless code (e.g. the FIGI), the methodology allows for creation of a self referential data model and creation of object entities that can satisfy different needs requiring different levels of granularity through associated metadata based on contextual usage."
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG FIGI 1.2
+    docidentifier:
+    - content: OMG FIGI 1.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG FIGI 1.1
+    docidentifier:
+    - content: OMG FIGI 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG FIGI 1.0
+    docidentifier:
+    - content: OMG FIGI 1.0
+      type: OMG
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Domain

@@ -1,0 +1,51 @@
+---
+id: OMGQFTP11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: UML Profile for Modeling QoS and FT
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/QFTP/1.1/About-QFTP
+- type: pdf
+  content: https://www.omg.org/spec/QFTP/1.1/PDF
+docidentifier:
+- content: OMG QFTP 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2008-04-01'
+version:
+- content: 1.1 (2008-04-01)
+abstract:
+- language: en
+  script: Latn
+  content: This specification defines a set of UML extensions to represent Quality of Service and Fault-Tolerance concepts. These extensions reduce the problems of UML 2.0 for the description of Quality of Service and Fault-Tolerance properties, and integrate the extensions in two basic general frameworks (QoS Modeling Framework, and FT Modeling Framework).
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG QFTP 1.0
+    docidentifier:
+    - content: OMG QFTP 1.0
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Uml Profile
+- vocab:
+    content: Real Time
+- vocab:
+    content: Middleware
+- vocab:
+    content: Software Engineering
+- vocab:
+    content: Platform

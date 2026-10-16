@@ -1,0 +1,50 @@
+---
+id: OMGODM11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Ontology Definition Metamodel
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/ODM/1.1/About-ODM
+- type: pdf
+  content: https://www.omg.org/spec/ODM/1.1/PDF
+docidentifier:
+- content: OMG ODM 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2014-09-02'
+version:
+- content: 1.1 (2014-09-02)
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The ODM specification offers a number of benefits to potential users, including:
+    - Options in the level of expressivity, complexity, and form available for designing and implementing conceptual models, ranging from familiar UML and ER methodologies to formal ontologies represented in description logics or first order logic.
+    - Grounding in formal logic, through standards-based, model-theoretic semantics for the knowledge representation languages supported, sufficient to enable reasoning engines to understand, validate, and apply ontologies developed using the ODM.
+    - Profiles and mappings sufficient to support not only the exchange of models developed independently in various formalisms but to enable consistency checking and validation in ways that have not been feasible to date.
+    - The basis for a family of specifications that marry MDA and Semantic Web technologies to support semantic web services, ontology and policy-based communications and interoperability, and declarative, policy-based applications in general.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG ODM 1.0
+    docidentifier:
+    - content: OMG ODM 1.0
+      type: OMG
+license:
+- RF-Limited
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Platform

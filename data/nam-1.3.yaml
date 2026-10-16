@@ -1,0 +1,57 @@
+---
+id: OMGNAM13
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Naming Service
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/NAM/1.3/About-NAM
+- type: pdf
+  content: https://www.omg.org/spec/NAM/1.3/PDF
+docidentifier:
+- content: OMG NAM 1.3
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2004-10-01'
+version:
+- content: 1.3 (2004-10-01)
+abstract:
+- language: en
+  script: Latn
+  content: The Naming Service provides the principal mechanism through which most clients of an ORB-based system locate objects that they intend to use (make requests of). Given an initial naming context, clients navigate naming contexts retrieving lists of the names bound to that context. In conjunction with properties and security services, clients look for objects with certain 'externally visible' characteristics, for example, for objects with recognized names or objects with a certain time-last-modified (all subject to security considerations). All objects used in such a scheme register their externally visible characteristics with other services (a name service, a properties service, and so on).
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG NAM 1.2
+    docidentifier:
+    - content: OMG NAM 1.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG NAM 1.1
+    docidentifier:
+    - content: OMG NAM 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG NAM 1.0.1
+    docidentifier:
+    - content: OMG NAM 1.0.1
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Services

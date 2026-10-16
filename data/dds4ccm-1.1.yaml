@@ -1,0 +1,45 @@
+---
+id: OMGDDS4CCM11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: DDS For Lightweight CCM
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/DDS4CCM/1.1/About-DDS4CCM
+- type: pdf
+  content: https://www.omg.org/spec/DDS4CCM/1.1/PDF
+docidentifier:
+- content: OMG DDS4CCM 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2012-02-28'
+version:
+- content: 1.1 (2012-02-28)
+abstract:
+- language: en
+  script: Latn
+  content: This specification defines how CCM1  components may interact using DDS and how related DDS entities may be configured using CCM configuration mechanisms.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG DDS4CCM 1.0
+    docidentifier:
+    - content: OMG DDS4CCM 1.0
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Omg Data Distribution Service
+- vocab:
+    content: Platform

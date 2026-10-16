@@ -1,0 +1,45 @@
+---
+id: OMGCMMN11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Case Management Model and Notation
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/CMMN/1.1/About-CMMN
+- type: pdf
+  content: https://www.omg.org/spec/CMMN/1.1/PDF
+docidentifier:
+- content: OMG CMMN 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2016-12-16'
+version:
+- content: 1.1 (2016-12-16)
+abstract:
+- language: en
+  script: Latn
+  content: This specification defines a common meta-model and notation for modeling and graphically expressing a Case, as well as an interchange format for exchanging Case models among different tools.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG CMMN 1.0
+    docidentifier:
+    - content: OMG CMMN 1.0
+      type: OMG
+license:
+- RF-RAND
+keyword:
+- vocab:
+    content: Business Modeling
+- vocab:
+    content: Domain

@@ -1,0 +1,45 @@
+---
+id: OMGEXPRESS11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Express Metamodel
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/EXPRESS/1.1/About-EXPRESS
+- type: pdf
+  content: https://www.omg.org/spec/EXPRESS/1.1/PDF
+docidentifier:
+- content: OMG EXPRESS 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2015-05-02'
+version:
+- content: 1.1 (2015-05-02)
+abstract:
+- language: en
+  script: Latn
+  content: This specification is a metamodel for the EXPRESS information modeling language, as defined by ISO 10303-11.2:2004. The purpose of this specification is to provide a common basis for communication among tools that create or compile EXPRESS models, analyze them, and/or map them to various forms of implementation specifications. It is also intended to serve as a basis for the definition of formal standard mappings to other modeling and implementation languages.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG EXPRESS 1.0
+    docidentifier:
+    - content: OMG EXPRESS 1.0
+      type: OMG
+license:
+- RF-Limited
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Systems Engineering

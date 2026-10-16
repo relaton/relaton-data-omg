@@ -1,0 +1,59 @@
+---
+id: OMGJAV2I14
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Java to IDL Language Mapping
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/JAV2I/1.4/About-JAV2I
+- type: pdf
+  content: https://www.omg.org/spec/JAV2I/1.4/PDF
+docidentifier:
+- content: OMG JAV2I 1.4
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2008-01-04'
+version:
+- content: 1.4 (2008-01-04)
+abstract:
+- language: en
+  script: Latn
+  content: The CORBA Language Mapping specifications contain language mapping information for several languages. Each language is described in a separate stand-alone volume. This particular specification explains how OMG IDL constructs are mapped to the constructs of the Java to IDL programming language.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG JAV2I 1.3
+    docidentifier:
+    - content: OMG JAV2I 1.3
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG JAV2I 1.2
+    docidentifier:
+    - content: OMG JAV2I 1.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG JAV2I 1.0
+    docidentifier:
+    - content: OMG JAV2I 1.0
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Language Mapping
+- vocab:
+    content: Platform

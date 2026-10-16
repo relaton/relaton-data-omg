@@ -1,0 +1,45 @@
+---
+id: OMGRTC11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Robotic Technology Component
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/RTC/1.1/About-RTC
+- type: pdf
+  content: https://www.omg.org/spec/RTC/1.1/PDF
+docidentifier:
+- content: OMG RTC 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2012-09-01'
+version:
+- content: 1.1 (2012-09-01)
+abstract:
+- language: en
+  script: Latn
+  content: This document defines a component model and certain important infrastructure services applicable to the domain of robotics software development. It includes a Platform-Independent Model (PIM) expressed in UML and Platform-Specific Models (PSMs) expressed in OMG IDL.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG RTC 1.0
+    docidentifier:
+    - content: OMG RTC 1.0
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Robotics

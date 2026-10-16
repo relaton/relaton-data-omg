@@ -1,0 +1,40 @@
+---
+id: OMGASCQM11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Automated Source Code Quality Measures
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/ASCQM/1.1/About-ASCQM
+- type: pdf
+  content: https://www.omg.org/spec/ASCQM/1.1/PDF
+docidentifier:
+- content: OMG ASCQM 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2022-07-30'
+version:
+- content: 1.1 (2022-07-30)
+abstract:
+- language: en
+  script: Latn
+  content: Automated measurement of 4 quality characteristics of a software program (Reliability, Security, Performance Efficiency, & Maintainability) by detecting and counting severe weaknesses in source code that affect each of these characteristics.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG ASCQM 1.0
+    docidentifier:
+    - content: OMG ASCQM 1.0
+      type: OMG
+license:
+- Non-Assert

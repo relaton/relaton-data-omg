@@ -1,0 +1,54 @@
+---
+id: OMGMARTE13
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: UML Profile for MARTE
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/MARTE/1.3/About-MARTE
+- type: pdf
+  content: https://www.omg.org/spec/MARTE/1.3/PDF
+docidentifier:
+- content: OMG MARTE 1.3
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2024-08-17'
+version:
+- content: 1.3 (2024-08-17)
+abstract:
+- language: en
+  script: Latn
+  content: "This specification of a UML? profile adds capabilities to UML for model-driven development of Real Time and Embedded Systems (RTES). This extension, called the UML profile for MARTE (in short MARTE for Modeling and Analysis of Real-Time and Embedded systems), provides support for specification, design, and verification/validation stages. MARTE defines foundations for model-based descriptions of real time and embedded systems. These core concepts are then refined for both modeling and analyzing concerns. Modeling parts provides support required from specification to detailed design of real-time and embedded characteristics of systems. MARTE concerns also model-based analysis. In this sense, the intent is not to define new techniques for analyzing real-time and embedded systems, but to support them. Hence, it provides facilities to annotate models with information required to perform specific analysis. Especially, MARTE focuses on performance and schedulability analysis. But, it defines also a general analysis framework that intends to refine/specialize any other kind of analysis.\r\nAmong others, the benefits of using this profile are thus:\r\n? Providing a common way of modeling both hardware and software aspects of an RTES in order to improve communication between developers. \r\n? Enabling interoperability between development tools used for specification, design, verification, code generation, etc.\r\n? Fostering the construction of models that may be used to make quantitative predictions regarding real-time and embedded features of systems taking into account both hardware and software characteristics."
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG MARTE 1.2
+    docidentifier:
+    - content: OMG MARTE 1.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG MARTE 1.1
+    docidentifier:
+    - content: OMG MARTE 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG MARTE 1.0
+    docidentifier:
+    - content: OMG MARTE 1.0
+      type: OMG
+license:
+- Non-Assert

@@ -1,0 +1,55 @@
+---
+id: OMGCCM40
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: CORBA Component Model
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/CCM/4.0/About-CCM
+- type: pdf
+  content: https://www.omg.org/spec/CCM/4.0/PDF
+docidentifier:
+- content: OMG CCM 4.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2006-03-31'
+version:
+- content: 4.0 (2006-03-31)
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This specification defines:
+    - The syntax and semantics of a component model, based on CORBA IDL, and a corresponding meta-model.
+    - A language to describe the structure and state of component implementations, and a corresponding meta-model.
+    - A programming model for constructing component implementations.
+    - A runtime environment for component implementations.
+    - Interaction between components and Enterprise Java Beans.
+    - Meta-data for describing component-based applications, and interfaces for their deployment.
+    - A lightweight subset of the component model, programming model and runtime environment.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG CCM 3.0
+    docidentifier:
+    - content: OMG CCM 3.0
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Platform
+- vocab:
+    content: Component Architecture
+- vocab:
+    content: Domain

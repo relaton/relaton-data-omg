@@ -1,0 +1,52 @@
+---
+id: OMGDSS20
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Distributed Simulation Systems
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/DSS/2.0/About-DSS
+- type: pdf
+  content: https://www.omg.org/spec/DSS/2.0/PDF
+docidentifier:
+- content: OMG DSS 2.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2002-11-19'
+version:
+- content: 2.0 (2002-11-19)
+abstract:
+- language: en
+  script: Latn
+  content: The Facility for Distributed Simulation Systems is a mechanism for combining computer models or simulations so that they interoperate to create one larger simulation.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG DSS 1.1
+    docidentifier:
+    - content: OMG DSS 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG DSS 1.0
+    docidentifier:
+    - content: OMG DSS 1.0
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: C4i

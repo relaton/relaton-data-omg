@@ -1,0 +1,57 @@
+---
+id: OMGEVoT20
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Enhanced View of Time
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/EVoT/2.0/About-EVoT
+- type: pdf
+  content: https://www.omg.org/spec/EVoT/2.0/PDF
+docidentifier:
+- content: OMG EVoT 2.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2008-08-01'
+version:
+- content: 2.0 (2008-08-01)
+abstract:
+- language: en
+  script: Latn
+  content: This is a revised and upgraded version of the Enhanced View of Time (EVoT) v1.2 specification. This version fixes some issues of the previous specification and introduces new features. The changes introduced were motivated by the experience matured in several projects that relied on the EVoT v1.2 for delivering high performance and highly available time services in application domains such as Air Traffic Control (ATC) Systems and Command/Control Systems. As its predecessors, this specification leaves the specification of Time Service unchanged.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG EVoT 1.2
+    docidentifier:
+    - content: OMG EVoT 1.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG EVoT 1.1
+    docidentifier:
+    - content: OMG EVoT 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG EVoT 1.0
+    docidentifier:
+    - content: OMG EVoT 1.0
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Services

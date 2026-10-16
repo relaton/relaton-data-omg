@@ -1,0 +1,54 @@
+---
+id: OMGCTS212
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Common Terminology Services 2
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/CTS2/1.2/About-CTS2
+- type: pdf
+  content: https://www.omg.org/spec/CTS2/1.2/PDF
+docidentifier:
+- content: OMG CTS2 1.2
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2015-04-01'
+version:
+- content: 1.2 (2015-04-01)
+abstract:
+- language: en
+  script: Latn
+  content: This specification defines a PIM that specifies an Information Model as well as a Computational Model. Conformant implementations of this PIM must provide an implementation that represents both the Information Model and Computational Model.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG CTS2 1.1
+    docidentifier:
+    - content: OMG CTS2 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG CTS2 1.0
+    docidentifier:
+    - content: OMG CTS2 1.0
+      type: OMG
+license:
+- RF-Limited
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Business Modeling
+- vocab:
+    content: Healthcare

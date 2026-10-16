@@ -1,0 +1,64 @@
+---
+id: OMGXMI251
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: XML Metadata Interchange
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/XMI/2.5.1/About-XMI
+- type: pdf
+  content: https://www.omg.org/spec/XMI/2.5.1/PDF
+docidentifier:
+- content: OMG XMI 2.5.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2015-06-01'
+version:
+- content: 2.5.1 (2015-06-01)
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This specification defines the following aspects involved in describing objects in XML:
+    - The representation of objects in terms of XML elements and attributes.
+    - The standard mechanisms to link objects within the same file or across files.
+    - The validation of XMI documents using XML Schemas.
+    - Object identity, which allows objects to be referenced from other objects in terms of IDs and UUIDs. XMI describes solutions to the above issues by specifying EBNF production rules to create XML documents and Schemas that share objects consistently.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG XMI 2.4.2
+    docidentifier:
+    - content: OMG XMI 2.4.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG XMI 2.1.1
+    docidentifier:
+    - content: OMG XMI 2.1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG XMI 2.0
+    docidentifier:
+    - content: OMG XMI 2.0
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Platform

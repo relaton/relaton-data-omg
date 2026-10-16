@@ -1,0 +1,54 @@
+---
+id: OMGC2INAV13
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Command and Control Interface for Navigation Systems
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/C2INAV/1.3/About-C2INAV
+- type: pdf
+  content: https://www.omg.org/spec/C2INAV/1.3/PDF
+docidentifier:
+- content: OMG C2INAV 1.3
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2025-12-15'
+version:
+- content: 1.3 (2025-12-15)
+abstract:
+- language: en
+  script: Latn
+  content: C2INav (Command and Control Interface for Navigation Systems) provides a generic interface for providing navigation data from own platform and off-board systems - e.g. autonomous platforms - to command and control (C2) systems. It allows C2 systems to tailor data content and reporting rates to match their requirements, whilst providing for self-description of the navigation systems sensors through an extensible interface.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG C2INAV 1.2
+    docidentifier:
+    - content: OMG C2INAV 1.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG C2INAV 1.1
+    docidentifier:
+    - content: OMG C2INAV 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG C2INAV 1.0
+    docidentifier:
+    - content: OMG C2INAV 1.0
+      type: OMG
+license:
+- RAND

@@ -1,0 +1,63 @@
+---
+id: OMGUAF13
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Unified Architecture Framework
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/UAF/1.3/About-UAF
+- type: pdf
+  content: https://www.omg.org/spec/UAF/1.3/DMM/PDF
+docidentifier:
+- content: OMG UAF 1.3
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2026-04-02'
+version:
+- content: 1.3 (2026-04-02)
+abstract:
+- language: en
+  script: Latn
+  content: "UAF is an OMG standard that assists in development of architectural descriptions in commercial industry firms, federal government agencies and defense organizations. UAF has a variety of use cases from Enterprise and Mission architecting, to System of Systems (SoS) and Cyber-physical Systems engineering, as well as being an enabler for Digital Transformation efforts and for Department of Defense Architecture Framework (DoDAF) and NATO Architecture Framework (NAF) modeling. Architectural Descriptions in UAF are aligned with ISO/IEC/IEEE 42010:2011, Systems and software engineering -- Architecture description. \r\n \r\nUAF provides a specification document that is readily understandable not only by the community of enterprise architects, architects of information technology systems, and systems engineers, but also by a wide range of other users including executives and enterprise managers that sponsor such systems, program managers that oversee their development, developers of supporting hardware and software items (design, implementation, and testing), subject matter experts supporting such activities, and modelers of various sorts. \r\n \r\nThe specification is split into two normative components represented by separate documents: Part 1: containing the Domain Metamodel (DMM) and Part 2: containing the Unified Architecture Framework Modeling Language (UAFML). UAF also has three informative appendixes: Appendix A - Traceability, Appendix B - Sample Problem, and Appendix C - Enterprise Architecture Guide for UAF. Companion elements for Parts 1 and 2 of the UAF specification are provided as two normative machine-readable files (in XMI format).\r\n \r\nPart 1 (UAF DMM) provides a formal domain meta model (DMM) organized as a number of View Specifications, which are organized within a two-dimensional grid consisting of rows representing Viewpoints related to stakeholder concerns and columns representing Aspects of the architecture in terms of different ways of viewing the architectural features. The Viewpoints include the following Architecture Management, Summary and Overview, Strategic, Operational, Services, Personnel, Resources, Security, Project, Standards, and Actual Resources. Each View Specification defines a number of elements required to construct the corresponding View of the architecture. The primary modeling elements in UAF are as follows: Capabilities, Operational Performers and Operational Activities, Resources (including Resource Performers, such as Persons, Organizations, and Systems, plus Software, Technologies, Natural Resources, and Information Elements), Functions, Constraints/Rules, Services, Projects, and Standards. The UAF DMM is based on the IDEAS Ontology. Everything in this ontology has four dimensions (temporal and spatial), subtypes, and measures.\r\n \r\nPart 2 (UAFML) of the specification, defines a number of practical Views and elements that are mapped to the Domain Metamodel described in Part 1 and which serves as a means for modeling an enterprise. UAF ML specifies UAF DMM implementation in terms of the Unified Modeling Language (UML) and Systems Modeling Language (SysML). It defines UML extensions (so-called stereotypes) that characterize the UAF DMM. It is also dependent on a SysML profile, which is another extension to UML. The purpose of this dependency is to inherit SysML graphical notation, and engineering analysis techniques applicable to SysML (e.g., parametric analysis).\r\n\r\nIn addition to being available as an OMG standards, Part 1 (UAF DMM) and Part 2 (UAFML) are both published as international ISO standards ISO/IEC 19540-1:2022 and ISO/IEC 19540-2:2022."
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG UAF 1.2
+    docidentifier:
+    - content: OMG UAF 1.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG UAF 1.1
+    docidentifier:
+    - content: OMG UAF 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG UAF 1.0
+    docidentifier:
+    - content: OMG UAF 1.0
+      type: OMG
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: C4i
+- vocab:
+    content: Enterprise Modeling
+- vocab:
+    content: Systems Engineering

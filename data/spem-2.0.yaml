@@ -1,0 +1,45 @@
+---
+id: OMGSPEM20
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Software & Systems Process Engineering Metamodel
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SPEM/2.0/About-SPEM
+- type: pdf
+  content: https://www.omg.org/spec/SPEM/2.0/PDF
+docidentifier:
+- content: OMG SPEM 2.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2008-04-01'
+version:
+- content: 2.0 (2008-04-01)
+abstract:
+- language: en
+  script: Latn
+  content: This specification defines three compliance points for SPEM 2.0. Implementations are encouraged to conform to one of these compliance points if their goal is to ensure successful data exchange with other compliance point implementers. In addition to these compliance points, the specification provides the freedom to implementers to choose any combination of meta-model packages and package merges that they wish to implement.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG SPEM 1.0
+    docidentifier:
+    - content: OMG SPEM 1.0
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Platform

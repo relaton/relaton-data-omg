@@ -1,0 +1,59 @@
+---
+id: OMGBPMN202
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Business Process Model and Notation
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/BPMN/2.0.2/About-BPMN
+- type: pdf
+  content: https://www.omg.org/spec/BPMN/2.0.2/PDF
+docidentifier:
+- content: OMG BPMN 2.0.2
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2014-01-05'
+version:
+- content: 2.0.2 (2014-01-05)
+abstract:
+- language: en
+  script: Latn
+  content: Business Process Model and Notation has become the de-facto standard for business processes diagrams. It is intended to be used directly by the stakeholders who design, manage and realize business processes, but at the same time be precise enough to allow BPMN diagrams to be translated into software process components. BPMN has an easy-to-use flowchart-like notation that is independent of any particular implementation environment.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG BPMN 1.2
+    docidentifier:
+    - content: OMG BPMN 1.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG BPMN 1.1
+    docidentifier:
+    - content: OMG BPMN 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG BPMN 1.0
+    docidentifier:
+    - content: OMG BPMN 1.0
+      type: OMG
+license:
+- RF-RAND
+keyword:
+- vocab:
+    content: Business Modeling
+- vocab:
+    content: Domain

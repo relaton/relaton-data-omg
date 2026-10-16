@@ -1,0 +1,45 @@
+---
+id: OMGCSRM11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: CubeSat System Reference Model Profile
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/CSRM/1.1/About-CSRM
+- type: pdf
+  content: https://www.omg.org/spec/CSRM/1.1/PDF
+docidentifier:
+- content: OMG CSRM 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2025-09-20'
+version:
+- content: 1.1 (2025-09-20)
+abstract:
+- language: en
+  script: Latn
+  content: The CubeSat System Reference Model Profile (CSRM Profile) defines the necessary stereotypes (extends SysML) for logical CubeSat space-ground architectures. The profile is intended to promote consistency and interoperability of logical CubeSat space/ground architectures models. The profile is intended to be used as-is or extended.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG CSRM 1.0
+    docidentifier:
+    - content: OMG CSRM 1.0
+      type: OMG
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Space
+- vocab:
+    content: Domain

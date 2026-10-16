@@ -1,0 +1,43 @@
+---
+id: OMGPSS20
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Persistent State Service
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/PSS/2.0/About-PSS
+- type: pdf
+  content: https://www.omg.org/spec/PSS/2.0/PDF
+docidentifier:
+- content: OMG PSS 2.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2002-09-29'
+version:
+- content: 2.0 (2002-09-29)
+abstract:
+- language: en
+  script: Latn
+  content: The Persistent State Service provides a service to programmers ('you') who develop CORBA object implementations. A client has no way to tell if the implementation of an object uses this service.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG PSS 1.0
+    docidentifier:
+    - content: OMG PSS 1.0
+      type: OMG
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Services

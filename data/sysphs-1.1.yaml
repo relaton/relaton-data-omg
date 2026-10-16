@@ -1,0 +1,40 @@
+---
+id: OMGSysPhS11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: SysML Extension for Physical Interaction and Signal Flow Simulation
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SysPhS/1.1/About-SysPhS
+- type: pdf
+  content: https://www.omg.org/spec/SysPhS/1.1/PDF
+docidentifier:
+- content: OMG SysPhS 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2021-05-05'
+version:
+- content: 1.1 (2021-05-05)
+abstract:
+- language: en
+  script: Latn
+  content: Extends SysML with additional information needed to model physical interaction and signal flow simulation independently of simulation platforms.  Provides a human-usable textual syntax for mathematical expressions.  Includes a platform-independent SysML library of simulation elements that can be reused in system models.  Gives translations between SysML as extended above and two widely-used simulation languages and tools for physical interaction and signal flow simulation.
+status:
+  stage:
+    content: formal
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG SysPhS 1.0
+    docidentifier:
+    - content: OMG SysPhS 1.0
+      type: OMG
+license:
+- Non-Assert
