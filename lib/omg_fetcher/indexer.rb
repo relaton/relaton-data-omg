@@ -35,7 +35,9 @@ module OmgFetcher
         end
         rel = File.expand_path(f).delete_prefix("#{base}/")
         idx.add_or_update docid.content, rel
-        add_pubid(idx2, item.id, rel) if idx2
+        # The printed citation form (OMG AEP 1.0), not item.id — the model's
+        # computed id (OMGAEP10) is not pubid-parseable and left v2 empty.
+        add_pubid(idx2, docid.content, rel) if idx2
       rescue StandardError => e
         warn "Error processing #{f}: #{e.message}"
       end
