@@ -1,2 +1,691 @@
 ---
-[]
+- :id:
+    _type: pubid:omg:specification
+    acronym: AEP
+    version: '1.0'
+  :file: data/aep-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: AFP
+    version: '1.0'
+  :file: data/afp-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: AML
+    version: '1.0'
+  :file: data/aml-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: API4KP
+    version: '1.0'
+  :file: data/api4kp-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: ASCDPM
+    version: '1.0'
+  :file: data/ascdpm-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: ASCMM
+    version: '1.0'
+  :file: data/ascmm-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: ASCPEM
+    version: '1.0'
+  :file: data/ascpem-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: ASCRM
+    version: '1.0'
+  :file: data/ascrm-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: ASCRSM
+    version: '1.0'
+  :file: data/ascrsm-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: ASCSM
+    version: '1.0'
+  :file: data/ascsm-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: ASTM
+    version: '1.0'
+  :file: data/astm-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: ATC
+    version: '1.0'
+  :file: data/atc-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: ATDM
+    version: '1.0'
+  :file: data/atdm-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: ATDM2
+    version: '1.0'
+  :file: data/atdm2-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: ATLAS
+    version: '1.0'
+  :file: data/atlas-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: AVSTR
+    version: '1.0'
+  :file: data/avstr-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: BPDM
+    version: '1.0'
+  :file: data/bpdm-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: BPMM
+    version: '1.0'
+  :file: data/bpmm-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: BPMNProfile
+    version: '1.0'
+  :file: data/bpmnprofile-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: BQS
+    version: '1.0'
+  :file: data/bqs-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: BSA
+    version: '1.0'
+  :file: data/bsa-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: CCCMP
+    version: '1.0'
+  :file: data/cccmp-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: CCMP
+    version: '1.0'
+  :file: data/ccmp-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: CDSS
+    version: '1.0'
+  :file: data/cdss-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: COAS
+    version: '1.0'
+  :file: data/coas-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: COBOL
+    version: '1.0'
+  :file: data/cobol-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: COLL
+    version: 1.0.1
+  :file: data/coll-1.0.1.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: CONC
+    version: '1.0'
+  :file: data/conc-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: CORBABINDING
+    version: '1.0'
+  :file: data/corbabinding-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: CORBAe
+    version: '1.0'
+  :file: data/corbae-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: CORP
+    version: '1.0'
+  :file: data/corp-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: CSAR
+    version: '1.0'
+  :file: data/csar-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: CURR
+    version: '1.0'
+  :file: data/curr-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: CWM
+    version: '1.1'
+  :file: data/cwm-1.1.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: DAF
+    version: '1.0'
+  :file: data/daf-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: DEPL
+    version: '4.0'
+  :file: data/depl-4.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: DOL
+    version: '1.0'
+  :file: data/dol-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: DPP
+    version: '1.0'
+  :file: data/dpp-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: DRAPI
+    version: '1.0'
+  :file: data/drapi-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: DTV
+    version: '1.3'
+  :file: data/dtv-1.3.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: EAI
+    version: '1.0'
+  :file: data/eai-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: EDOC
+    version: '1.0'
+  :file: data/edoc-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: EXT
+    version: '1.0'
+  :file: data/ext-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: FACE
+    version: '1.0'
+  :file: data/face-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: FSM4RTC
+    version: '1.0'
+  :file: data/fsm4rtc-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: FT
+    version: '1.0'
+  :file: data/ft-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: FTAM
+    version: '1.0'
+  :file: data/ftam-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: FTF
+    version: '1.0'
+  :file: data/ftf-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: GDDI
+    version: '1.0'
+  :file: data/gddi-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: GMAPS
+    version: '1.0'
+  :file: data/gmaps-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: HDAIS
+    version: '1.0'
+  :file: data/hdais-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: Hdata
+    version: '1.0'
+  :file: data/hdata-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: HUTN
+    version: '1.0'
+  :file: data/hutn-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: IEPPV
+    version: '1.0'
+  :file: data/ieppv-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: IFML
+    version: '1.0'
+  :file: data/ifml-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: ITFAC
+    version: '1.0'
+  :file: data/itfac-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: ITPMF
+    version: '1.0'
+  :file: data/itpmf-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: IXS
+    version: 1.0.1
+  :file: data/ixs-1.0.1.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: KerML
+    version: '1.0'
+  :file: data/kerml-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: LECIS
+    version: '1.0'
+  :file: data/lecis-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: LEDG
+    version: '1.0'
+  :file: data/ledg-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: LIC
+    version: '1.0'
+  :file: data/lic-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: LIS
+    version: '1.0'
+  :file: data/lis-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: LISP
+    version: '1.0'
+  :file: data/lisp-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: LQS
+    version: '1.0'
+  :file: data/lqs-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: LSAE
+    version: '1.0'
+  :file: data/lsae-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: LtLOAD
+    version: '1.0'
+  :file: data/ltload-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: LtSVC
+    version: '1.0'
+  :file: data/ltsvc-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: LWFT
+    version: '1.0'
+  :file: data/lwft-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: MACSTR
+    version: '1.0'
+  :file: data/macstr-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: MED
+    version: '1.0'
+  :file: data/med-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: MEF
+    version: '1.0'
+  :file: data/mef-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: MIPS
+    version: '1.0'
+  :file: data/mips-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: MOBFAC
+    version: '1.0'
+  :file: data/mobfac-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: MOF2I
+    version: '2.0'
+  :file: data/mof2i-2.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: MOF2RDF
+    version: '1.0'
+  :file: data/mof2rdf-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: MOFFOL
+    version: '2.0'
+  :file: data/moffol-2.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: MOFM2T
+    version: '1.0'
+  :file: data/mofm2t-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: MOFVD
+    version: '2.0'
+  :file: data/mofvd-2.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: MPG
+    version: '1.0'
+  :file: data/mpg-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: NEG
+    version: '1.0'
+  :file: data/neg-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: NOTJMS
+    version: '1.0'
+  :file: data/notjms-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: ONUP
+    version: '1.0'
+  :file: data/onup-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: PARTY
+    version: '1.0'
+  :file: data/party-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: PC
+    version: '1.0'
+  :file: data/pc-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: PDME
+    version: '1.3'
+  :file: data/pdme-1.3.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: PKI
+    version: '1.0'
+  :file: data/pki-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: PL1
+    version: '1.0'
+  :file: data/pl1-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: PPMN
+    version: '1.0'
+  :file: data/ppmn-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: PROP
+    version: '1.0'
+  :file: data/prop-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: PRR
+    version: '1.0'
+  :file: data/prr-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: PSSM
+    version: '1.0'
+  :file: data/pssm-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: PSUM
+    version: '1.0'
+  :file: data/psum-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: QOSCCM
+    version: '1.1'
+  :file: data/qosccm-1.1.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: QUER
+    version: '1.0'
+  :file: data/quer-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: RAD
+    version: '1.0'
+  :file: data/rad-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: RAS
+    version: '2.2'
+  :file: data/ras-2.2.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: REL
+    version: '1.0'
+  :file: data/rel-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: RFLEC
+    version: '1.0'
+  :file: data/rflec-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: RLUS
+    version: 1.0.1
+  :file: data/rlus-1.0.1.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: RMS
+    version: '1.0'
+  :file: data/rms-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: RT
+    version: '1.2'
+  :file: data/rt-1.2.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: SCCP
+    version: '1.0'
+  :file: data/sccp-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: SCE
+    version: '1.0'
+  :file: data/sce-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: SDMN
+    version: '1.0'
+  :file: data/sdmn-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: SDRP
+    version: '1.0'
+  :file: data/sdrp-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: SENSR
+    version: '1.0'
+  :file: data/sensr-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: ServD
+    version: '1.0'
+  :file: data/servd-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: SFPM
+    version: '1.0'
+  :file: data/sfpm-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: SMART
+    version: '1.0'
+  :file: data/smart-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: smartant
+    version: '1.0'
+  :file: data/smartant-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: SMOF
+    version: '1.0'
+  :file: data/smof-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: SNP
+    version: '1.0'
+  :file: data/snp-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: SoaML
+    version: 1.0.1
+  :file: data/soaml-1.0.1.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: SoCP
+    version: 1.0.1
+  :file: data/socp-1.0.1.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: SOPES
+    version: '1.0'
+  :file: data/sopes-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: SPDX
+    version: '3.0'
+  :file: data/spdx-3.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: ST
+    version: '1.0'
+  :file: data/st-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: STI
+    version: '1.0'
+  :file: data/sti-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: SURV
+    version: '1.0'
+  :file: data/surv-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: SyM
+    version: '1.0'
+  :file: data/sym-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: SystemsModelingAPI
+    version: '1.0'
+  :file: data/systemsmodelingapi-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: TCI
+    version: '1.0'
+  :file: data/tci-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: TelcoML
+    version: '1.0'
+  :file: data/telcoml-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: TestIF
+    version: '1.0'
+  :file: data/testif-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: TLOG
+    version: 1.1.2
+  :file: data/tlog-1.1.2.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: TMN
+    version: '1.0'
+  :file: data/tmn-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: TRADE
+    version: '1.0'
+  :file: data/trade-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: TSAS
+    version: '1.0'
+  :file: data/tsas-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: TSKSES
+    version: '1.0'
+  :file: data/tskses-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: UMLDI
+    version: '1.0'
+  :file: data/umldi-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: UPR
+    version: '1.0'
+  :file: data/upr-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: VIDEOANALYTICS
+    version: '1.0'
+  :file: data/videoanalytics-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: VOICP
+    version: '1.0'
+  :file: data/voicp-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: WfMF
+    version: '1.2'
+  :file: data/wfmf-1.2.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: WSDL2C
+    version: '1.0'
+  :file: data/wsdl2c-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: XUSP
+    version: '1.0'
+  :file: data/xusp-1.0.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: ZIOP
+    version: '1.0'
+  :file: data/ziop-1.0.yaml
