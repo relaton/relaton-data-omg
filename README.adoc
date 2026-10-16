@@ -1,0 +1,26 @@
+= relaton-data-omg
+
+Relaton data repository for OMG (Object Management Group) specifications.
+
+Crawled from https://www.omg.org/spec by link relaton-data-omg::OmgFetcher and
+published as a machine index on GitHub Pages (manifest + per-query shards,
+the relaton#206 contract). Consumed by link:https://github.com/relaton/relaton[relaton]
+and link:https://github.com/relaton/relaton-omg[relaton-omg].
+
+== Contents
+
+* `data/*.yaml` — one Relaton YAML record per spec version, scraped by
+  `Relaton::Omg::Scraper`.
+* `index-v1.yaml` / `index-v1.zip` — flat string docid index.
+* `index-v2.yaml` / `index-v2.zip` — structured `Pubid::Omg` index.
+
+== Development
+
+    bundle install
+    bundle exec rspec
+    bundle exec ruby check_data.rb
+
+The crawl itself runs in CI (`Crawler` workflow, daily 14:00 UTC + manual
+dispatch); a local partial crawl:
+
+    bundle exec ruby -Ilib -romg_fetcher -e 'OmgFetcher::Build.run(store: OmgFetcher::YamlStore.new("data"), acronyms: ["UML"])'

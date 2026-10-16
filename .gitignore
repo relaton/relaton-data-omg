@@ -1,0 +1,14 @@
+Gemfile.lock
+.vscode/
+.claude/
+.bundle/
+.omo/
+tmp/
+# Anchored to the repo root: the gitignored font-tech-notes clone and PDF
+# cache live at ./sources and ./pdfs. Without the leading slash these also
+# match lib/adobe_fetcher/sources/, hiding committed library code.
+/sources/
+/pdfs/
+TODO.impl/
+spec/examples.txt
+*.gem
