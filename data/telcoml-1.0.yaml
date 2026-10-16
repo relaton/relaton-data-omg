@@ -1,0 +1,39 @@
+---
+id: OMGTelcoML10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: UML Profile for Telecommunication Services
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/TelcoML/1.0/About-TelcoML
+- type: pdf
+  content: https://www.omg.org/spec/TelcoML/1.0/PDF
+docidentifier:
+- content: OMG TelcoML 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2013-07-31'
+version:
+- content: 1.0 (2013-07-31)
+abstract:
+- language: en
+  script: Latn
+  content: The objective of this specification is to define a UML Profile for designing advanced and integrated Telecommunication services.
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Uml Profile
+- vocab:
+    content: Communications
+- vocab:
+    content: Domain

@@ -1,0 +1,35 @@
+---
+id: OMGTSAS10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Telecom Service & Access Subscription
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/TSAS/1.0/About-TSAS
+- type: pdf
+  content: https://www.omg.org/spec/TSAS/1.0/PDF
+docidentifier:
+- content: OMG TSAS 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2002-12-01'
+version:
+- content: 1.0 (2002-12-01)
+abstract:
+- language: en
+  script: Latn
+  content: Within TSAS the retailer is giving end-users a single point of contact for all their service needs. Additionally, the retailer enables end-users to customize and personalize services that they use by providing facilities to configure and select services incorporating personal preferences.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain

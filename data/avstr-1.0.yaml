@@ -1,0 +1,37 @@
+---
+id: OMGAVSTR10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Audio/Video Streams
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/AVSTR/1.0/About-AVSTR
+- type: pdf
+  content: https://www.omg.org/spec/AVSTR/1.0/PDF
+docidentifier:
+- content: OMG AVSTR 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2000-01-01'
+version:
+- content: 1.0 (2000-01-01)
+abstract:
+- language: en
+  script: Latn
+  content: 'The Control and Management of Audio/Video Streams specification addresses the following issues: Topologies for streams, multiple flows, stream description and typing, stream interface identification and reference, stream set-up and release, stream modification, stream termination, multiple protocols, Quality of Service (QoS), flow synchronization, interoperability, and security.'
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Communications

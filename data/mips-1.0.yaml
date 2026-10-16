@@ -1,0 +1,39 @@
+---
+id: OMGMIPS10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: CWM Metadata Interchange Patterns
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/MIPS/1.0/About-MIPS
+- type: pdf
+  content: https://www.omg.org/spec/MIPS/1.0/PDF
+docidentifier:
+- content: OMG MIPS 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2004-03-24'
+version:
+- content: 1.0 (2004-03-24)
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of the Common Warehouse Metamodel specification is to define a common interchange specification for metadata in a data warehouse. This definition provides a common language and metamodel definitions for the objects in the data warehouse.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Business Modeling
+- vocab:
+    content: Data Warehousing

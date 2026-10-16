@@ -1,0 +1,39 @@
+---
+id: OMGHDAIS10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Historical Data Acquisition from Industrial Systems
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/HDAIS/1.0/About-HDAIS
+- type: pdf
+  content: https://www.omg.org/spec/HDAIS/1.0/PDF
+docidentifier:
+- content: OMG HDAIS 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2005-06-01'
+version:
+- content: 1.0 (2005-06-01)
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This specification includes interfaces to record and retrieve time series data. It is aimed to support domains as power systems, and industrial processes.
+    It may also be used in the control system domains for: space; rail way systems; air traffic control systems; manufacturing systems; and health monitoring systems.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Industrial Systems

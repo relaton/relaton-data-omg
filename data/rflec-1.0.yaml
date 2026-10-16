@@ -1,0 +1,35 @@
+---
+id: OMGRFLEC10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: CORBA Reflection
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/RFLEC/1.0/About-RFLEC
+- type: pdf
+  content: https://www.omg.org/spec/RFLEC/1.0/PDF
+docidentifier:
+- content: OMG RFLEC 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2006-05-02'
+version:
+- content: 1.0 (2006-05-02)
+abstract:
+- language: en
+  script: Latn
+  content: This specification defines reflective operations for CORBA objects. Such operations provide a way for applications to obtain metadata describing an object's interface directly from the object itself, rather than requiring the presence of a separate metadata service such as an Interface Repository. This specification provides a general approach to metadata discovery based on object narrowing, and it supports multiple metadata formats in an easily extensible manner.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Platform

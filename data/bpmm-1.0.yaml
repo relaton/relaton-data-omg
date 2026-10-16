@@ -1,0 +1,37 @@
+---
+id: OMGBPMM10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Business Process Maturity Model
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/BPMM/1.0/About-BPMM
+- type: pdf
+  content: https://www.omg.org/spec/BPMM/1.0/PDF
+docidentifier:
+- content: OMG BPMM 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2008-06-02'
+version:
+- content: 1.0 (2008-06-02)
+abstract:
+- language: en
+  script: Latn
+  content: Many failed enterprise applications wasted millions of dollars before being terminated. While some of these failures can be blamed on technology issues, the causes of many failures are rooted in the state of the organization into which the application is being deployed. Many, perhaps most of these organizational problems manifest themselves as weaknesses in the business processes that are the target of an enterprise application. Improving organizational readiness for technology deployment is the motivation for creating the Business Process Maturity Model (BPMM).
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Business Modeling
+- vocab:
+    content: Domain

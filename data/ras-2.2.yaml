@@ -1,0 +1,37 @@
+---
+id: OMGRAS22
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Reusable Asset
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/RAS/2.2/About-RAS
+- type: pdf
+  content: https://www.omg.org/spec/RAS/2.2/PDF
+docidentifier:
+- content: OMG RAS 2.2
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2005-11-04'
+version:
+- content: 2.2 (2005-11-04)
+abstract:
+- language: en
+  script: Latn
+  content: 'The Reusable Asset Specification (RAS) addresses the engineering elements of reuse. It attempts to reduce the friction associated with reuse transactions through consistent, standard packaging. This is much like the steering wheel, turn signals, pedals, and fuel gauge in a car: although they are slightly different across car models and makes, there is a familiarity among them that significantly reduces the costs of reuse.'
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Platform

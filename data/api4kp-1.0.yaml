@@ -1,0 +1,32 @@
+---
+id: OMGAPI4KP10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: APIs for Knowledge Platforms
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/API4KP/1.0/About-API4KP
+- type: pdf
+  content: https://www.omg.org/spec/API4KP/1.0/PDF
+docidentifier:
+- content: OMG API4KP 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2024-08-17'
+version:
+- content: 1.0 (2024-08-17)
+abstract:
+- language: en
+  script: Latn
+  content: "This OMG specification defines the Application Programming Interfaces for Knowledge Based Systems and Platforms (API4KP), in response to the OMG?s Application Programming Interfaces for Knowledge Bases (API4KB) RFP. The purpose of these APIs is to facilitate the development and integration of knowledge graphs and knowledge-based systems in a broader enterprise framework. They provide a standard interface between client applications, knowledge resources and the platforms used to manage and deliver them - including but not limited to editors, repositories and reasoners/ rule engines.\r\n\r\nThe development of ?Knowledge Driven? applications is rooted in the discipline of Knowledge (i) Representation and (ii) (Automated) Reasoning, and can be augmented by (iii) Knowledge Acquisition and (iv) Knowledge Management and Delivery. Knowledge Representation and Reasoning (KRR) is part of the broader field that lies at the intersection of Artificial Intelligence (AI), Linguistics and Natural Language Processing (NLP), Machine Learning (ML) and Data Mining, Management, and Governance. Over the years, interest in the different sub-fields has shifted, resulting in a variety of approaches and techniques. Specifically, with respect to KRR, different paradigms (e.g., rules, constraints, ontologies, processes, etc.) have been the subject of attention, resulting in a variety of knowledge representation languages with different expressivity and underlying logic formalisms, with different trade-offs between expressivity, specificity and tractability.  Adoption, then, has been largely influenced by the availability of tooling, from editing to reasoning, both proprietary and open source. Despite the great success of some of these tools and increasing demand for knowledge graph-based decision support, interoperability has been limited, and even then, hardly goes beyond the scope of the individual languages and applications.  For these reasons, although a vast amount of ?knowledge? from a variety of domains has been captured over time, the artifacts (documents, graphs, databases) that include it vary in terms of languages and formats as well as in richness and expressivity, and their combined use is not easily supported except by complex, one-off orchestration of a variety of tools and frameworks.\r\n\r\nThis specification addresses these shortcomings by providing a uniform abstraction layer that simplifies and normalizes the way KRR artifacts are accessed, manipulated, and assembled into rich knowledge graphs and related systems to which a variety of analytics, reasoning, and rules, can be applied for question answering and computation."
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert

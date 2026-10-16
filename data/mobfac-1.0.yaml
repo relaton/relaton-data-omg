@@ -1,0 +1,35 @@
+---
+id: OMGMOBFAC10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Mobile Agent Facility
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/MOBFAC/1.0/About-MOBFAC
+- type: pdf
+  content: https://www.omg.org/spec/MOBFAC/1.0/PDF
+docidentifier:
+- content: OMG MOBFAC 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2000-01-01'
+version:
+- content: 1.0 (2000-01-01)
+abstract:
+- language: en
+  script: Latn
+  content: Mobile Agent System Interoperability Facilities (also called MAF, an acronym for the original proposal, Mobile Agent Facility) is about interoperability between agent systems written in the same language, but potentially by different vendors and systems that are expected to go through many revisions within the life time of an agent.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Facilities

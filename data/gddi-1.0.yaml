@@ -1,0 +1,37 @@
+---
+id: OMGGDDI10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Ground Data Delivery Interface
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/GDDI/1.0/About-GDDI
+- type: pdf
+  content: https://www.omg.org/spec/GDDI/1.0/PDF
+docidentifier:
+- content: OMG GDDI 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2026-07-14'
+version:
+- content: 1.0 (2026-07-14)
+abstract:
+- language: en
+  script: Latn
+  content: The Ground Data Delivery Interface (GDDI) specification defines a lightweight message interface standard to encapsulate spacecraft data and metadata for transfer between ground applications within a common network using a model-driven approach. The purpose of GDDI is to standardize the data/bearer-plane for digital baseband data within satellite ground systems, facilitating interoperability between endpoints that agree to use compatible metadata definitions.
+status:
+  stage:
+    content: formal
+license:
+- RF-Limited
+keyword:
+- vocab:
+    content: Space
+- vocab:
+    content: Domain

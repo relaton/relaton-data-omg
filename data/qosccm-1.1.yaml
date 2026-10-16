@@ -1,0 +1,39 @@
+---
+id: OMGQOSCCM11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Quality of Service for CCM
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/QOSCCM/1.1/About-QOSCCM
+- type: pdf
+  content: https://www.omg.org/spec/QOSCCM/1.1/PDF
+docidentifier:
+- content: OMG QOSCCM 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2008-09-30'
+version:
+- content: 1.1 (2008-09-30)
+abstract:
+- language: en
+  script: Latn
+  content: The specification describes the essential extensions that need to be made to the container architecture to allow the support of separation of functional and non-functional properties of CORBA components.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Platform
+- vocab:
+    content: Component Architecture
+- vocab:
+    content: Domain

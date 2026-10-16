@@ -1,0 +1,35 @@
+---
+id: OMGCOLL101
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Collection Service
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/COLL/1.0.1/About-COLL
+- type: pdf
+  content: https://www.omg.org/spec/COLL/1.0.1/PDF
+docidentifier:
+- content: OMG COLL 1.0.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2002-08-18'
+version:
+- content: 1.0.1 (2002-08-18)
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of an Object Collection Service is to provide a uniform way to create and manipulate the most common collections generically.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Services

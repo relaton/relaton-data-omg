@@ -1,0 +1,41 @@
+---
+id: OMGEDOC10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: UML Profile for Enterprise Distributed Object Computing
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/EDOC/1.0/About-EDOC
+- type: pdf
+  content: https://www.omg.org/spec/EDOC/1.0/PDF
+docidentifier:
+- content: OMG EDOC 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2004-02-01'
+version:
+- content: 1.0 (2004-02-01)
+abstract:
+- language: en
+  script: Latn
+  content: The vision of the Enterprise Collaboration Architecture is to simplify the development of component based EDOC systems by means of a modeling framework and conforming to the OMG Model Driven Architecture
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Uml Profile
+- vocab:
+    content: Domain
+- vocab:
+    content: Modeling
+- vocab:
+    content: Platform

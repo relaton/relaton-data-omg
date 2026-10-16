@@ -1,0 +1,35 @@
+---
+id: OMGLWFT10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Lightweight Fault Tolerance
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/LWFT/1.0/About-LWFT
+- type: pdf
+  content: https://www.omg.org/spec/LWFT/1.0/PDF
+docidentifier:
+- content: OMG LWFT 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2012-03-02'
+version:
+- content: 1.0 (2012-03-02)
+abstract:
+- language: en
+  script: Latn
+  content: This specification extends the Fault Tolerance CORBA specification with capabilities to support real-time applications by providing predictable recovery times and support for application-defined consistency management. Admitting that there is 'no one size fits all' solution for building highly fault tolerant solutions, applications can now provide their own fault detectors, fault analyzers and recovery mechanisms.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Platform

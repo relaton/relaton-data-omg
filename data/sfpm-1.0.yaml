@@ -1,0 +1,32 @@
+---
+id: OMGSFPM10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Software Fault Pattern Metamodel
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SFPM/1.0/About-SFPM
+- type: pdf
+  content: https://www.omg.org/spec/SFPM/1.0/PDF
+docidentifier:
+- content: OMG SFPM 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2024-08-17'
+version:
+- content: 1.0 (2024-08-17)
+abstract:
+- language: en
+  script: Latn
+  content: "One of the key steps in preventing cyber attacks is to collect, analyze and efficiently manage knowledge about exploitable weaknesses.  \r\nCommon Weakness Enumeration (CWE) catalog describes a large collection of weaknesses building upon proposals by various researchers; however, all existing classifications remain informal and resist automation. \r\nThis specification describes the Software Fault Pattern (SFP) approach to building machine-consumable knowledge of software weaknesses. In the SFP approach, weaknesses are not studied as some abstract objects; instead, the SFP approach  focuses on computations that exhibit certain \"faults\". The objective of the SFP approach is to reveal the invariants of such computations, and to provide a framework for describing and cataloguing \"faults\" in terms of these invariants. \r\nThis specification uses the term \"software fault\" as it refers to an identified - adjudged or hypothesized - cause of a failure of the service performed by a piece of software under investigation. SFP apparatus is developed to provide formal, constructive definitions to the class of software faults that can be identified in the software alone. To describe invariants in terms of software, the SFP approach uses ISO/OMG Knowledge Discovery Metamodel (KDM) as a language-neutral, vendor-independent vocabulary for describing software facts. With KDM as the foundation, the SFP framework provides an apparatus for formally specifying invariants of computations; describing and cataloguing faults as invariants of computations. \r\nThe SFP apparatus involves specification of the SFP Metamodel (SFPM) and the SFPM XMI schema. SFPM XMI is a common interoperable format for representing machine-consumable content related to software faults, their formal semantics and their mappings to the elements of the Common Weakness Enumeration (CWE) catalog."
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert

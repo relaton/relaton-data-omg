@@ -1,0 +1,35 @@
+---
+id: OMGZIOP10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: GIOP Compression
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/ZIOP/1.0/About-ZIOP
+- type: pdf
+  content: https://www.omg.org/spec/ZIOP/1.0/PDF
+docidentifier:
+- content: OMG ZIOP 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2010-01-30'
+version:
+- content: 1.0 (2010-01-30)
+abstract:
+- language: en
+  script: Latn
+  content: This specification defines a compression mechanism for the CORBA GIOP protocol. Such a mechanism provides a way for servers to publish objects that accept compressed requests and for clients to make compressed invocations. Pluggable compression algorithms could additionally be defined by clients.
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Corba Platform

@@ -1,0 +1,37 @@
+---
+id: OMGMOFM2T10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: MOF Model to Text Transformation Language
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/MOFM2T/1.0/About-MOFM2T
+- type: pdf
+  content: https://www.omg.org/spec/MOFM2T/1.0/PDF
+docidentifier:
+- content: OMG MOFM2T 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2008-01-01'
+version:
+- content: 1.0 (2008-01-01)
+abstract:
+- language: en
+  script: Latn
+  content: This specification defines the MOF to Text Template Language (Mof2Text), version 1.0. Mof2Text is aligned with UML 2.0, MOF 2.0, and OCL 2.0.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Platform

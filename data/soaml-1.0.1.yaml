@@ -1,0 +1,37 @@
+---
+id: OMGSoaML101
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Service Oriented Architecture Modeling Language
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SoaML/1.0.1/About-SoaML
+- type: pdf
+  content: https://www.omg.org/spec/SoaML/1.0.1/PDF
+docidentifier:
+- content: OMG SoaML 1.0.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2012-05-02'
+version:
+- content: 1.0.1 (2012-05-02)
+abstract:
+- language: en
+  script: Latn
+  content: The Service oriented architecture Modeling Language (SoaML) specification provides a metamodel and a UML profile for the specification and design of services within a service-oriented architecture.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Platform

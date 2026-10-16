@@ -1,0 +1,41 @@
+---
+id: OMGASCRM10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Automated Source Code CISQ Reliability Measure
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/ASCRM/1.0/About-ASCRM
+- type: pdf
+  content: https://www.omg.org/spec/ASCRM/1.0/PDF
+docidentifier:
+- content: OMG ASCRM 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2015-12-30'
+version:
+- content: 1.0 (2015-12-30)
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of this specification is to establish a standard measure of reliability based on detecting violations of good architectural and coding practices that could result in unreliable operation such as outages, data corruption, and lengthy recovery from system failures.
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Software Modernization
+- vocab:
+    content: Cisq
+- vocab:
+    content: Platform

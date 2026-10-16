@@ -1,0 +1,35 @@
+---
+id: OMGSCCP10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: CORBA/TC Interworking and SCCP-Inter ORB Protocol
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SCCP/1.0/About-SCCP
+- type: pdf
+  content: https://www.omg.org/spec/SCCP/1.0/PDF
+docidentifier:
+- content: OMG SCCP 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2001-01-05'
+version:
+- content: 1.0 (2001-01-05)
+abstract:
+- language: en
+  script: Latn
+  content: This specification addresses the interworking between CORBA-based Intelligent Network (IN) applications and the same applications implemented using the existing IN infrastructure.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Platform

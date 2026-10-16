@@ -1,0 +1,35 @@
+---
+id: OMGCORBABINDING10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: CORBA Bindings for WSDL
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/CORBABINDING/1.0/About-CORBABINDING
+- type: pdf
+  content: https://www.omg.org/spec/CORBABINDING/1.0/PDF
+docidentifier:
+- content: OMG CORBABINDING 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2010-05-02'
+version:
+- content: 1.0 (2010-05-02)
+abstract:
+- language: en
+  script: Latn
+  content: This specification defines a CORBA binding for WSDL (Web Services Description Language) to allow CORBA services to be described using WSDL, and to allow native CORBA communication mechanisms to be specified in WSDL.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Platform

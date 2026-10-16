@@ -1,0 +1,51 @@
+---
+id: OMGPPMN10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Pedigree and Provenance Model and Notation
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/PPMN/1.0/About-PPMN
+- type: pdf
+  content: https://www.omg.org/spec/PPMN/1.0/PDF
+docidentifier:
+- content: OMG PPMN 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2026-09-25'
+version:
+- content: 1.0 (2026-09-25)
+abstract:
+- language: en
+  script: Latn
+  content: A Pedigree and Provenance Model and Notation (PPMN) model is a repository of elements capturing the lineage, custody and/or ownership of entities of interest. PPMN models may include elements representing the history of the entities of interest as well as specifications of expected events and processes (herein eferred to generally as 'occurrences') related to types of entities of interest.
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Business Modeling
+- vocab:
+    content: Modeling
+- vocab:
+    content: Retail
+- vocab:
+    content: Manufacturing
+- vocab:
+    content: Government
+- vocab:
+    content: Healthcare
+- vocab:
+    content: Finance
+- vocab:
+    content: Bpm Plus

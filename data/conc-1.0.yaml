@@ -1,0 +1,35 @@
+---
+id: OMGCONC10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Concurrency Service
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/CONC/1.0/About-CONC
+- type: pdf
+  content: https://www.omg.org/spec/CONC/1.0/PDF
+docidentifier:
+- content: OMG CONC 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2000-06-01'
+version:
+- content: 1.0 (2000-06-01)
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of the Concurrency Control Service is to mediate concurrent access to an object such that the consistency of the object is not compromised when accessed by concurrently executing computations.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Services

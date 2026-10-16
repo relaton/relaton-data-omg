@@ -1,0 +1,35 @@
+---
+id: OMGONUP10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Online Upgrades
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/ONUP/1.0/About-ONUP
+- type: pdf
+  content: https://www.omg.org/spec/ONUP/1.0/PDF
+docidentifier:
+- content: OMG ONUP 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2008-01-01'
+version:
+- content: 1.0 (2008-01-01)
+abstract:
+- language: en
+  script: Latn
+  content: This specification presents specifications for CORBA IDL interfaces and also a Platform Independent Model to support Online Upgrades of CORBA object implementations.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Platform

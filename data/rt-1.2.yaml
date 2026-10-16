@@ -1,0 +1,35 @@
+---
+id: OMGRT12
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Real-time CORBA
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/RT/1.2/About-RT
+- type: pdf
+  content: https://www.omg.org/spec/RT/1.2/PDF
+docidentifier:
+- content: OMG RT 1.2
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2005-01-01'
+version:
+- content: 1.2 (2005-01-01)
+abstract:
+- language: en
+  script: Latn
+  content: In any architecture, there is a tension between a general purpose solution and supporting specialist applications. Real-time developers have to pay strict attention to the allocation of resources and to the predictability of system execution. By providing the developer with handles on managing resources and on predictability, Real-time CORBA sacrifices some of the general purpose nature of CORBA in order support the development of real-time systems
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Platform

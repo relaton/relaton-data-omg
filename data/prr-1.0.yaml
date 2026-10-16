@@ -1,0 +1,44 @@
+---
+id: OMGPRR10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Production Rule Representation
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/PRR/1.0/About-PRR
+- type: pdf
+  content: https://www.omg.org/spec/PRR/1.0/PDF
+docidentifier:
+- content: OMG PRR 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2009-12-01'
+version:
+- content: 1.0 (2009-12-01)
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The Production Rule Representation (PRR) fulfills a number of requirements related to business rules, software systems, OMG standards, and other rule standards.
+    - It provides a standard production rule representation that is compatible with rule engine vendors definitions of production rules. It can therefore be used for interchange of business rules amongst rule modeling tools (and other tools that support rule modeling as a function of some other task).
+    - It provides a standard production rule representation that is readily mappable to business rules, as defined by business rule management tool vendors.
+    - It provides a standard production rule definition that supports and encourages system vendors to support production rule execution.
+    - It provides an OMG MDA PIM model with a high probability of support at the PSM level from the contributing rule engine vendors and others, and can be included to add production rule capabilities to other OMG metamodels.
+    - It provides examples of how the OMG UML can be used to support production rules in a standardized and useful way.
+    - It provides a standard production rule representation that can be used as the basis for other efforts such as the W3C Rule Interchange Format and a production rule version of RuleML.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Business Modeling
+- vocab:
+    content: Domain

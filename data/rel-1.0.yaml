@@ -1,0 +1,35 @@
+---
+id: OMGREL10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Relationship Service
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/REL/1.0/About-REL
+- type: pdf
+  content: https://www.omg.org/spec/REL/1.0/PDF
+docidentifier:
+- content: OMG REL 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2000-06-01'
+version:
+- content: 1.0 (2000-06-01)
+abstract:
+- language: en
+  script: Latn
+  content: 'The Relationship Service allows entities and relationships to be explicitly represented. Entities are represented as CORBA objects. The service defines two new kinds of objects: relationships and roles. A role represents a CORBA object in an relationship. A relationship is created by passing a set of roles to a relationship factory.'
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Services

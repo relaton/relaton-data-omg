@@ -1,0 +1,37 @@
+---
+id: OMGRMS10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Records Management Service
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/RMS/1.0/About-RMS
+- type: pdf
+  content: https://www.omg.org/spec/RMS/1.0/PDF
+docidentifier:
+- content: OMG RMS 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2011-09-26'
+version:
+- content: 1.0 (2011-09-26)
+abstract:
+- language: en
+  script: Latn
+  content: This specification provides models for software services to support management activities for electronic records. Following the OMG MDA framework, models are provided that describe the platform independent model (PIM) that defines the business domain of Records Management and the RM services to be provided.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Government

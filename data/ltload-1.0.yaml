@@ -1,0 +1,37 @@
+---
+id: OMGLtLOAD10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Lightweight Load Balancing Service
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/LtLOAD/1.0/About-LtLOAD
+- type: pdf
+  content: https://www.omg.org/spec/LtLOAD/1.0/PDF
+docidentifier:
+- content: OMG LtLOAD 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2010-02-03'
+version:
+- content: 1.0 (2010-02-03)
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The Lightweight Load Balancing Service provides a framework for, per-request, static load balancing. The standard allows the definition of user defined load balancing strategies, while requiring complying
+    implementations to provide at least the round robin and random strategies. This service provides a façade for managing load balancing strategies, along with the creation of load balancing groups.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Platform

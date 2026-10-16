@@ -1,0 +1,37 @@
+---
+id: OMGDRAPI10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Digital Receipt API
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/DRAPI/1.0/About-DRAPI
+- type: pdf
+  content: https://www.omg.org/spec/DRAPI/1.0/RioMapping/PDF
+docidentifier:
+- content: OMG DRAPI 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2025-06-20'
+version:
+- content: 1.0 (2025-06-20)
+abstract:
+- language: en
+  script: Latn
+  content: "This document is a specification document on the standard Digital Receipt API, which has been formulated as a standard specification by the Digital Receipt Subcommittee of the .NET Retail System Council Japan as part of a contract project of the Ministry of Economy, Trade and Industry of Japan.\r\nThis specification can connect POS terminals for various business types of business of various vendors by standardizing APIs related to transmission and reception of digital receipt data between digital receipt server and POS terminal, and between digital receipt server and smartphone. The purpose is to reduce development costs and system integration costs. Another object is to make it easier to use digital receipt data by making it easier to create a smartphone application that uses digital receipt data."
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Retail

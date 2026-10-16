@@ -1,0 +1,35 @@
+---
+id: OMGTSKSES10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Task and Session
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/TSKSES/1.0/About-TSKSES
+- type: pdf
+  content: https://www.omg.org/spec/TSKSES/1.0/PDF
+docidentifier:
+- content: OMG TSKSES 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2000-05-01'
+version:
+- content: 1.0 (2000-05-01)
+abstract:
+- language: en
+  script: Latn
+  content: This specification defines cooperative components that form a framework representing the basic model for users of distributed systems.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain

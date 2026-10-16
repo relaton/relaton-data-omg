@@ -1,0 +1,39 @@
+---
+id: OMGVOICP10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: UML Profile for Voice-based Applications
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/VOICP/1.0/About-VOICP
+- type: pdf
+  content: https://www.omg.org/spec/VOICP/1.0/PDF
+docidentifier:
+- content: OMG VOICP 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2008-04-04'
+version:
+- content: 1.0 (2008-04-04)
+abstract:
+- language: en
+  script: Latn
+  content: The specification expresses the models using OMG modeling languages. The Voice metamodel is defined as a MOF metamodel. In addition UML is used as one of the concrete syntaxes attached to the metamodel. The specification describes compliance points in 'Conformance Points' below. The specification preserves maximum implementation flexibility, no PSM is given to support the specified PIM metamodel. Interoperability and substitutability are guaranteed thanks to the usage of completely defined syntaxes (XMI, UML Profile, and Textual).
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Uml Profile
+- vocab:
+    content: Communications
+- vocab:
+    content: Domain

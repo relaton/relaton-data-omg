@@ -1,0 +1,41 @@
+---
+id: OMGCORBAe10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: CORBA Embedded
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/CORBAe/1.0/About-CORBAe
+- type: pdf
+  content: https://www.omg.org/spec/CORBAe/1.0/PDF
+docidentifier:
+- content: OMG CORBAe 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2008-11-01'
+version:
+- content: 1.0 (2008-11-01)
+abstract:
+- language: en
+  script: Latn
+  content: This specification is targeted to applications or portions of applications that will be executing on an embedded processor with constrained resources and/or that requires predictable real-time behavior.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Platform
+- vocab:
+    content: Corba Real Time
+- vocab:
+    content: Middleware
+- vocab:
+    content: Platform

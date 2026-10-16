@@ -1,0 +1,35 @@
+---
+id: OMGLtSVC10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Lightweight Services
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/LtSVC/1.0/About-LtSVC
+- type: pdf
+  content: https://www.omg.org/spec/LtSVC/1.0/PDF
+docidentifier:
+- content: OMG LtSVC 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2004-10-01'
+version:
+- content: 1.0 (2004-10-01)
+abstract:
+- language: en
+  script: Latn
+  content: This specification defines a compatible subset of three existing CORBA services to make these services suitable for use in resource-constrained systems. These subsets are intended to be inserted as new chapters in the Services documents that they produce the subset of
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Services

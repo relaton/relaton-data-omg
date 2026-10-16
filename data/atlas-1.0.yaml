@@ -1,0 +1,35 @@
+---
+id: OMGATLAS10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Authorization Token Layer Acquisition Service
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/ATLAS/1.0/About-ATLAS
+- type: pdf
+  content: https://www.omg.org/spec/ATLAS/1.0/PDF
+docidentifier:
+- content: OMG ATLAS 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2002-09-30'
+version:
+- content: 1.0 (2002-09-30)
+abstract:
+- language: en
+  script: Latn
+  content: An ATLAS only delivers authorization tokens for one privilege scope. A service that issues authorization tokens of a variety of different token formats and different scopes is outside of this specification.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Platform

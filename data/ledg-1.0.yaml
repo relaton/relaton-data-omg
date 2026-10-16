@@ -1,0 +1,37 @@
+---
+id: OMGLEDG10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: General Ledger
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/LEDG/1.0/About-LEDG
+- type: pdf
+  content: https://www.omg.org/spec/LEDG/1.0/PDF
+docidentifier:
+- content: OMG LEDG 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2001-02-21'
+version:
+- content: 1.0 (2001-02-21)
+abstract:
+- language: en
+  script: Latn
+  content: The OMG General Ledger Facility defines the interfaces and their semantics that are required to enable interoperability between General Ledger systems and accounting applications, as well as other distributed objects and applications for accounting purposes. The business accounting function (of which, General Ledger is the common core) is a statutory requirement for all commercial organizations and individual proprietorship. The vast majority of General Ledger systems are proprietary, non-standard and noninteroperable, even though the underlying accounting concepts have been stable for over 500 years. Applications such as Payroll systems and Report Writers need to interoperate with General Ledger systems, however; this is currently a tedious, difficult, and error prone task due to the general lack of technology standardization. Additionally, many other accounting applications including Accounts Payable, Accounts Receivable, Inventory, Sales and Purchase Order Processing, and Invoicing also need to interoperate with General Ledger systems. Standard interfaces to General Ledger would allow the user to mix and match different vendors implementations of accounting applications, and enable interoperability with other kinds of applications.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Finance

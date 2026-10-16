@@ -1,0 +1,31 @@
+---
+id: OMGSENSR10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Simplified Electronic Notation for Sensor Reporting
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SENSR/1.0/About-SENSR
+- type: pdf
+  content: https://www.omg.org/spec/SENSR/1.0/PDF
+docidentifier:
+- content: OMG SENSR 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2022-07-13'
+version:
+- content: 1.0 (2022-07-13)
+abstract:
+- language: en
+  script: Latn
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert

@@ -1,0 +1,35 @@
+---
+id: OMGSystemsModelingAPI10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Systems Modeling API and Services
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SystemsModelingAPI/1.0/About-SystemsModelingAPI
+- type: pdf
+  content: https://www.omg.org/spec/SystemsModelingAPI/1.0/PDF
+docidentifier:
+- content: OMG SystemsModelingAPI 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2025-09-20'
+version:
+- content: 1.0 (2025-09-20)
+abstract:
+- language: en
+  script: Latn
+  content: The Systems Modeling API and Services includes the following. (1) Platform-Independent Model (PIM)provides a service specificationindependent of anyplatform or technology. This specification defines each of the services and their operations with inputs and outputs. The PIM serves as the logical API model. (2) Platform-Specific Models (PSMs)are bindings of the PIM using a particular technology, such as REST/HTTP, SOAP, Java, and .NET. Multiple platform-specific models can exist for a given PIM.
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Platform

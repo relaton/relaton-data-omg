@@ -1,0 +1,35 @@
+---
+id: OMGSPDX30
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: System Package Data Exchange
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SPDX/3.0/About-SPDX
+- type: pdf
+  content: https://www.omg.org/spec/SPDX/3.0/PDF
+docidentifier:
+- content: OMG SPDX 3.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2025-03-25'
+version:
+- content: 3.0 (2025-03-25)
+abstract:
+- language: en
+  script: Latn
+  content: "The System Package Data Exchange (SPDX®) specification defines an open standard for communicating bill of materials (BOM) information for different topic areas.\r\nSPDX defines an underlying data model as well as multiple serialization formats to encode that data model.\r\nSPDX metadata includes details about creation and distribution, including the following:\r\n"
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Platform

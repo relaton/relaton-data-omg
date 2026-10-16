@@ -1,0 +1,37 @@
+---
+id: OMGPARTY10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Party Management Facility
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/PARTY/1.0/About-PARTY
+- type: pdf
+  content: https://www.omg.org/spec/PARTY/1.0/PDF
+docidentifier:
+- content: OMG PARTY 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2001-02-01'
+version:
+- content: 1.0 (2001-02-01)
+abstract:
+- language: en
+  script: Latn
+  content: This specification defines specific interfaces for Party Management that each of the other (future) finance related components will request information from. The goal of this specification and the Party Management Facility (PMF) in general is to define these interfaces at a level where, for example, an insurance company can easily replace their current OMG-compliant PMF component with a new one in a seamless manner.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Finance

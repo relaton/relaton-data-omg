@@ -1,0 +1,35 @@
+---
+id: OMGWSDL2C10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: WSDL/SOAP CORBA Interworking
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/WSDL2C/1.0/About-WSDL2C
+- type: pdf
+  content: https://www.omg.org/spec/WSDL2C/1.0/PDF
+docidentifier:
+- content: OMG WSDL2C 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2004-03-31'
+version:
+- content: 1.0 (2004-03-31)
+abstract:
+- language: en
+  script: Latn
+  content: This specification defines a mapping between WSDL specifications, with a SOAP Binding, to a corresponding set of OMG IDL interface specifications. This specification is applicable to the domain of WSDL specifications that use only the constructs that result from the CORBA to WSDL-SOAP specification. This simplifies the mapping and allows for mapping from a restricted WSDLSOAP subset to CORBA IDL interfaces.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Platform

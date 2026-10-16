@@ -1,0 +1,37 @@
+---
+id: OMGSMOF10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: MOF Support for Semantic Structures
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SMOF/1.0/About-SMOF
+- type: pdf
+  content: https://www.omg.org/spec/SMOF/1.0/PDF
+docidentifier:
+- content: OMG SMOF 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2013-04-02'
+version:
+- content: 1.0 (2013-04-02)
+abstract:
+- language: en
+  script: Latn
+  content: This extension to MOF modifies MOF 2 to support dynamically mutable multiple classifications of elements and to declare the circumstances under which such multiple classifications are allowed, required, and prohibited.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Platform

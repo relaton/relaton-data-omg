@@ -1,0 +1,32 @@
+---
+id: OMGPSSM10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Precise Semantics of UML State Machines
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/PSSM/1.0/About-PSSM
+- type: pdf
+  content: https://www.omg.org/spec/PSSM/1.0/PDF
+docidentifier:
+- content: OMG PSSM 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2019-05-19'
+version:
+- content: 1.0 (2019-05-19)
+abstract:
+- language: en
+  script: Latn
+  content: The Precise Semantics of UML State Machines (PSSM) specification is an extension of the Semantics of a Foundational Subset for Executable UML Models standard (known as 'Foundational UML' or 'fUML') [fUML] that defines the execution semantics for UML state machines. Syntactically, this specification extends fUML with a (large) subset of the abstract syntax of state machines as given in the OMG Unified Modeling Language specification.
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert

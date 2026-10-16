@@ -1,0 +1,37 @@
+---
+id: OMGST10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Smalltalk Language Mapping
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/ST/1.0/About-ST
+- type: pdf
+  content: https://www.omg.org/spec/ST/1.0/PDF
+docidentifier:
+- content: OMG ST 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '1999-07-01'
+version:
+- content: 1.0 (1999-07-01)
+abstract:
+- language: en
+  script: Latn
+  content: 'The CORBA Language Mapping specifications contain language mapping information for the following languages: Ada; C; C++; COBOL; IDL to Java; Java to IDL; and Smalltalk.  Each language is described in a separate stand-alone volume.  This volume describes Smalltalk.'
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Language Mapping
+- vocab:
+    content: Platform

@@ -1,0 +1,41 @@
+---
+id: OMGAFP10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Automated Function Points
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/AFP/1.0/About-AFP
+- type: pdf
+  content: https://www.omg.org/spec/AFP/1.0/PDF
+docidentifier:
+- content: OMG AFP 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2013-12-29'
+version:
+- content: 1.0 (2013-12-29)
+abstract:
+- language: en
+  script: Latn
+  content: This specification defines a method for automating the counting of Function Points that is generally consistent with the Function Point Counting Practices Manual, Release 4.3.1 (IFPUG CPM) produced by the International Function Point Users Group (IFPUG). Guidelines in this specification may differ from those in the IFPUG CPM at points where subjective judgments have to be replaced by the rules needed for  automation. The IFPUG CPM was selected as the anchor for this specification because it is the most widely used functional measurement specification with a large supporting infrastructure maintained by a professional organization
+status:
+  stage:
+    content: formal
+license:
+- RF-Limited
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Software Modernization
+- vocab:
+    content: Cisq
+- vocab:
+    content: Platform

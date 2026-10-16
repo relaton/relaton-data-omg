@@ -1,0 +1,37 @@
+---
+id: OMGServD10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Services Directory
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/ServD/1.0/About-ServD
+- type: pdf
+  content: https://www.omg.org/spec/ServD/1.0/PDF
+docidentifier:
+- content: OMG ServD 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2014-02-19'
+version:
+- content: 1.0 (2014-02-19)
+abstract:
+- language: en
+  script: Latn
+  content: The Services Directory (ServD) specification provides an SOA model to support the discovery of, and access to, service provider, individual, and organizational information including; locations, associations, contact details, services, identifiers, and many other relevant characteristics/attributes.
+status:
+  stage:
+    content: formal
+license:
+- RF-Limited
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Healthcare

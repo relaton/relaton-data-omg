@@ -1,0 +1,37 @@
+---
+id: OMGSCE10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Specification Common Elements
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SCE/1.0/About-SCE
+- type: pdf
+  content: https://www.omg.org/spec/SCE/1.0/PDF
+docidentifier:
+- content: OMG SCE 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2026-06-26'
+version:
+- content: 1.0 (2026-06-26)
+abstract:
+- language: en
+  script: Latn
+  content: Specification Common Elements (SCE) generalizes structural elements and patterns that have been introduced by the Business Process Model and Notation (BPMN) 2.0 specification and were later adopted by other standards, such as Decision Model and Notation (DMN). The concept of defining SCE emerged during the development of Shared Data Model and Notation (SDMN), which is the first specification directly based on SCE and a good example of how it is applied. SCE is backwards compatible with BPMN and DMN, which may adopt SCE as they are updated in the future to eliminate redundancy. Other specifications may leverage SCE components, especially if they want to be compatible with BPMN's ecosystem of standards.
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Business Modeling

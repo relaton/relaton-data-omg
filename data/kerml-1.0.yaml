@@ -1,0 +1,35 @@
+---
+id: OMGKerML10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Kernel Modeling Language
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/KerML/1.0/About-KerML
+- type: pdf
+  content: https://www.omg.org/spec/KerML/1.0/PDF
+docidentifier:
+- content: OMG KerML 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2025-09-20'
+version:
+- content: 1.0 (2025-09-20)
+abstract:
+- language: en
+  script: Latn
+  content: The Kernel Modeling Language (KerML) is an application-independent modeling language with a well-grounded formal semantics for modeling existing or planned systems. The language includes general syntactic constructs for structuring models, such as relationships, annotations and namespaces; core semantic constructs that have semantics based on classification; and additional constructs for commonly needed modeling capabilities, such as associations and behaviors.
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Platform

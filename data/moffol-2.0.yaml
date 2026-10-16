@@ -1,0 +1,37 @@
+---
+id: OMGMOFFOL20
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: MOF 2.0 Facility And Object  Lifecycle Specification
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/MOFFOL/2.0/About-MOFFOL
+- type: pdf
+  content: https://www.omg.org/spec/MOFFOL/2.0/PDF
+docidentifier:
+- content: OMG MOFFOL 2.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2010-03-02'
+version:
+- content: 2.0 (2010-03-02)
+abstract:
+- language: en
+  script: Latn
+  content: This specification separates out those aspects of MOF related to communicating with and managing the facilities responsible for providing the capabilities covered by the other MOF specifications. These facilities may be at many different levels, from a modeling tool to a full multi-user, multi-model repository.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Platform

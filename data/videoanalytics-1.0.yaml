@@ -1,0 +1,37 @@
+---
+id: OMGVIDEOANALYTICS10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Arts Xml Video Analytics
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/VIDEOANALYTICS/1.0/About-VIDEOANALYTICS
+- type: pdf
+  content: https://www.omg.org/spec/VIDEOANALYTICS/1.0/PDF
+docidentifier:
+- content: OMG VIDEOANALYTICS 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2019-01-03'
+version:
+- content: 1.0 (2019-01-03)
+abstract:
+- language: en
+  script: Latn
+  content: Video Analytics is the emerging technology where computer vision is used to capture behavior and events as well as filter and manage real time video for security and store intelligence.
+status:
+  stage:
+    content: formal
+license:
+- RAND
+keyword:
+- vocab:
+    content: Retail
+- vocab:
+    content: Domain

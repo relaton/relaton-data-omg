@@ -1,0 +1,277 @@
+---
+- :id: OMG AEP 1.0
+  :file: data/aep-1.0.yaml
+- :id: OMG AFP 1.0
+  :file: data/afp-1.0.yaml
+- :id: OMG AML 1.0
+  :file: data/aml-1.0.yaml
+- :id: OMG API4KP 1.0
+  :file: data/api4kp-1.0.yaml
+- :id: OMG ASCDPM 1.0
+  :file: data/ascdpm-1.0.yaml
+- :id: OMG ASCMM 1.0
+  :file: data/ascmm-1.0.yaml
+- :id: OMG ASCPEM 1.0
+  :file: data/ascpem-1.0.yaml
+- :id: OMG ASCRM 1.0
+  :file: data/ascrm-1.0.yaml
+- :id: OMG ASCRSM 1.0
+  :file: data/ascrsm-1.0.yaml
+- :id: OMG ASCSM 1.0
+  :file: data/ascsm-1.0.yaml
+- :id: OMG ASTM 1.0
+  :file: data/astm-1.0.yaml
+- :id: OMG ATC 1.0
+  :file: data/atc-1.0.yaml
+- :id: OMG ATDM 1.0
+  :file: data/atdm-1.0.yaml
+- :id: OMG ATDM2 1.0
+  :file: data/atdm2-1.0.yaml
+- :id: OMG ATLAS 1.0
+  :file: data/atlas-1.0.yaml
+- :id: OMG AVSTR 1.0
+  :file: data/avstr-1.0.yaml
+- :id: OMG BPDM 1.0
+  :file: data/bpdm-1.0.yaml
+- :id: OMG BPMM 1.0
+  :file: data/bpmm-1.0.yaml
+- :id: OMG BPMNProfile 1.0
+  :file: data/bpmnprofile-1.0.yaml
+- :id: OMG BQS 1.0
+  :file: data/bqs-1.0.yaml
+- :id: OMG BSA 1.0
+  :file: data/bsa-1.0.yaml
+- :id: OMG CCCMP 1.0
+  :file: data/cccmp-1.0.yaml
+- :id: OMG CCMP 1.0
+  :file: data/ccmp-1.0.yaml
+- :id: OMG CDSS 1.0
+  :file: data/cdss-1.0.yaml
+- :id: OMG COAS 1.0
+  :file: data/coas-1.0.yaml
+- :id: OMG COBOL 1.0
+  :file: data/cobol-1.0.yaml
+- :id: OMG COLL 1.0.1
+  :file: data/coll-1.0.1.yaml
+- :id: OMG CONC 1.0
+  :file: data/conc-1.0.yaml
+- :id: OMG CORBABINDING 1.0
+  :file: data/corbabinding-1.0.yaml
+- :id: OMG CORBAe 1.0
+  :file: data/corbae-1.0.yaml
+- :id: OMG CORP 1.0
+  :file: data/corp-1.0.yaml
+- :id: OMG CSAR 1.0
+  :file: data/csar-1.0.yaml
+- :id: OMG CURR 1.0
+  :file: data/curr-1.0.yaml
+- :id: OMG CWM 1.1
+  :file: data/cwm-1.1.yaml
+- :id: OMG DAF 1.0
+  :file: data/daf-1.0.yaml
+- :id: OMG DEPL 4.0
+  :file: data/depl-4.0.yaml
+- :id: OMG DOL 1.0
+  :file: data/dol-1.0.yaml
+- :id: OMG DPP 1.0
+  :file: data/dpp-1.0.yaml
+- :id: OMG DRAPI 1.0
+  :file: data/drapi-1.0.yaml
+- :id: OMG DTV 1.3
+  :file: data/dtv-1.3.yaml
+- :id: OMG EAI 1.0
+  :file: data/eai-1.0.yaml
+- :id: OMG EDOC 1.0
+  :file: data/edoc-1.0.yaml
+- :id: OMG EXT 1.0
+  :file: data/ext-1.0.yaml
+- :id: OMG FACE 1.0
+  :file: data/face-1.0.yaml
+- :id: OMG FSM4RTC 1.0
+  :file: data/fsm4rtc-1.0.yaml
+- :id: OMG FT 1.0
+  :file: data/ft-1.0.yaml
+- :id: OMG FTAM 1.0
+  :file: data/ftam-1.0.yaml
+- :id: OMG FTF 1.0
+  :file: data/ftf-1.0.yaml
+- :id: OMG GDDI 1.0
+  :file: data/gddi-1.0.yaml
+- :id: OMG GMAPS 1.0
+  :file: data/gmaps-1.0.yaml
+- :id: OMG HDAIS 1.0
+  :file: data/hdais-1.0.yaml
+- :id: OMG Hdata 1.0
+  :file: data/hdata-1.0.yaml
+- :id: OMG HUTN 1.0
+  :file: data/hutn-1.0.yaml
+- :id: OMG IEPPV 1.0
+  :file: data/ieppv-1.0.yaml
+- :id: OMG IFML 1.0
+  :file: data/ifml-1.0.yaml
+- :id: OMG ITFAC 1.0
+  :file: data/itfac-1.0.yaml
+- :id: OMG ITPMF 1.0
+  :file: data/itpmf-1.0.yaml
+- :id: OMG IXS 1.0.1
+  :file: data/ixs-1.0.1.yaml
+- :id: OMG KerML 1.0
+  :file: data/kerml-1.0.yaml
+- :id: OMG LECIS 1.0
+  :file: data/lecis-1.0.yaml
+- :id: OMG LEDG 1.0
+  :file: data/ledg-1.0.yaml
+- :id: OMG LIC 1.0
+  :file: data/lic-1.0.yaml
+- :id: OMG LIS 1.0
+  :file: data/lis-1.0.yaml
+- :id: OMG LISP 1.0
+  :file: data/lisp-1.0.yaml
+- :id: OMG LQS 1.0
+  :file: data/lqs-1.0.yaml
+- :id: OMG LSAE 1.0
+  :file: data/lsae-1.0.yaml
+- :id: OMG LtLOAD 1.0
+  :file: data/ltload-1.0.yaml
+- :id: OMG LtSVC 1.0
+  :file: data/ltsvc-1.0.yaml
+- :id: OMG LWFT 1.0
+  :file: data/lwft-1.0.yaml
+- :id: OMG MACSTR 1.0
+  :file: data/macstr-1.0.yaml
+- :id: OMG MED 1.0
+  :file: data/med-1.0.yaml
+- :id: OMG MEF 1.0
+  :file: data/mef-1.0.yaml
+- :id: OMG MIPS 1.0
+  :file: data/mips-1.0.yaml
+- :id: OMG MOBFAC 1.0
+  :file: data/mobfac-1.0.yaml
+- :id: OMG MOF2I 2.0
+  :file: data/mof2i-2.0.yaml
+- :id: OMG MOF2RDF 1.0
+  :file: data/mof2rdf-1.0.yaml
+- :id: OMG MOFFOL 2.0
+  :file: data/moffol-2.0.yaml
+- :id: OMG MOFM2T 1.0
+  :file: data/mofm2t-1.0.yaml
+- :id: OMG MOFVD 2.0
+  :file: data/mofvd-2.0.yaml
+- :id: OMG MPG 1.0
+  :file: data/mpg-1.0.yaml
+- :id: OMG NEG 1.0
+  :file: data/neg-1.0.yaml
+- :id: OMG NOTJMS 1.0
+  :file: data/notjms-1.0.yaml
+- :id: OMG ONUP 1.0
+  :file: data/onup-1.0.yaml
+- :id: OMG PARTY 1.0
+  :file: data/party-1.0.yaml
+- :id: OMG PC 1.0
+  :file: data/pc-1.0.yaml
+- :id: OMG PDME 1.3
+  :file: data/pdme-1.3.yaml
+- :id: OMG PKI 1.0
+  :file: data/pki-1.0.yaml
+- :id: OMG PL1 1.0
+  :file: data/pl1-1.0.yaml
+- :id: OMG PPMN 1.0
+  :file: data/ppmn-1.0.yaml
+- :id: OMG PROP 1.0
+  :file: data/prop-1.0.yaml
+- :id: OMG PRR 1.0
+  :file: data/prr-1.0.yaml
+- :id: OMG PSSM 1.0
+  :file: data/pssm-1.0.yaml
+- :id: OMG PSUM 1.0
+  :file: data/psum-1.0.yaml
+- :id: OMG QOSCCM 1.1
+  :file: data/qosccm-1.1.yaml
+- :id: OMG QUER 1.0
+  :file: data/quer-1.0.yaml
+- :id: OMG RAD 1.0
+  :file: data/rad-1.0.yaml
+- :id: OMG RAS 2.2
+  :file: data/ras-2.2.yaml
+- :id: OMG REL 1.0
+  :file: data/rel-1.0.yaml
+- :id: OMG RFLEC 1.0
+  :file: data/rflec-1.0.yaml
+- :id: OMG RLUS 1.0.1
+  :file: data/rlus-1.0.1.yaml
+- :id: OMG RMS 1.0
+  :file: data/rms-1.0.yaml
+- :id: OMG RT 1.2
+  :file: data/rt-1.2.yaml
+- :id: OMG SCCP 1.0
+  :file: data/sccp-1.0.yaml
+- :id: OMG SCE 1.0
+  :file: data/sce-1.0.yaml
+- :id: OMG SDMN 1.0
+  :file: data/sdmn-1.0.yaml
+- :id: OMG SDRP 1.0
+  :file: data/sdrp-1.0.yaml
+- :id: OMG SENSR 1.0
+  :file: data/sensr-1.0.yaml
+- :id: OMG ServD 1.0
+  :file: data/servd-1.0.yaml
+- :id: OMG SFPM 1.0
+  :file: data/sfpm-1.0.yaml
+- :id: OMG SMART 1.0
+  :file: data/smart-1.0.yaml
+- :id: OMG smartant 1.0
+  :file: data/smartant-1.0.yaml
+- :id: OMG SMOF 1.0
+  :file: data/smof-1.0.yaml
+- :id: OMG SNP 1.0
+  :file: data/snp-1.0.yaml
+- :id: OMG SoaML 1.0.1
+  :file: data/soaml-1.0.1.yaml
+- :id: OMG SoCP 1.0.1
+  :file: data/socp-1.0.1.yaml
+- :id: OMG SOPES 1.0
+  :file: data/sopes-1.0.yaml
+- :id: OMG SPDX 3.0
+  :file: data/spdx-3.0.yaml
+- :id: OMG ST 1.0
+  :file: data/st-1.0.yaml
+- :id: OMG STI 1.0
+  :file: data/sti-1.0.yaml
+- :id: OMG SURV 1.0
+  :file: data/surv-1.0.yaml
+- :id: OMG SyM 1.0
+  :file: data/sym-1.0.yaml
+- :id: OMG SystemsModelingAPI 1.0
+  :file: data/systemsmodelingapi-1.0.yaml
+- :id: OMG TCI 1.0
+  :file: data/tci-1.0.yaml
+- :id: OMG TelcoML 1.0
+  :file: data/telcoml-1.0.yaml
+- :id: OMG TestIF 1.0
+  :file: data/testif-1.0.yaml
+- :id: OMG TLOG 1.1.2
+  :file: data/tlog-1.1.2.yaml
+- :id: OMG TMN 1.0
+  :file: data/tmn-1.0.yaml
+- :id: OMG TRADE 1.0
+  :file: data/trade-1.0.yaml
+- :id: OMG TSAS 1.0
+  :file: data/tsas-1.0.yaml
+- :id: OMG TSKSES 1.0
+  :file: data/tskses-1.0.yaml
+- :id: OMG UMLDI 1.0
+  :file: data/umldi-1.0.yaml
+- :id: OMG UPR 1.0
+  :file: data/upr-1.0.yaml
+- :id: OMG VIDEOANALYTICS 1.0
+  :file: data/videoanalytics-1.0.yaml
+- :id: OMG VOICP 1.0
+  :file: data/voicp-1.0.yaml
+- :id: OMG WfMF 1.2
+  :file: data/wfmf-1.2.yaml
+- :id: OMG WSDL2C 1.0
+  :file: data/wsdl2c-1.0.yaml
+- :id: OMG XUSP 1.0
+  :file: data/xusp-1.0.yaml
+- :id: OMG ZIOP 1.0
+  :file: data/ziop-1.0.yaml

@@ -1,0 +1,32 @@
+---
+id: OMGMOF2RDF10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: MOF to RDF Mapping
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/MOF2RDF/1.0/About-MOF2RDF
+- type: pdf
+  content: https://www.omg.org/spec/MOF2RDF/1.0/PDF
+docidentifier:
+- content: OMG MOF2RDF 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2021-09-20'
+version:
+- content: 1.0 (2021-09-20)
+abstract:
+- language: en
+  script: Latn
+  content: This specification provides a lightweight approach to transform MOF-compliant metamodels into OWL Ontologies. The transformation is in principle bi-directional, however limitations imposed by MOF and/or OWL may apply. The primary transformation direction supported by this specification is from MOF to OWL and is made lossless through AnnotationProperties defined in the included MOF Support ontology.
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert

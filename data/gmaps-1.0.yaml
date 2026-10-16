@@ -1,0 +1,37 @@
+---
+id: OMGGMAPS10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Genomic Maps
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/GMAPS/1.0/About-GMAPS
+- type: pdf
+  content: https://www.omg.org/spec/GMAPS/1.0/PDF
+docidentifier:
+- content: OMG GMAPS 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2002-02-15'
+version:
+- content: 1.0 (2002-02-15)
+abstract:
+- language: en
+  script: Latn
+  content: This document describes a standard for representing genomic maps and their contents. It is able to deal with practically any type of chromosome map and marker that is likely to occur in the fast growing field of molecular genetics
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Lifesciences

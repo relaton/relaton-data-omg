@@ -1,0 +1,37 @@
+---
+id: OMGCSAR10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Chemical Structure and Access Representation
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/CSAR/1.0/About-CSAR
+- type: pdf
+  content: https://www.omg.org/spec/CSAR/1.0/PDF
+docidentifier:
+- content: OMG CSAR 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2007-01-01'
+version:
+- content: 1.0 (2007-01-01)
+abstract:
+- language: en
+  script: Latn
+  content: The Chemical Structure Access and Representation (CSAR) makes use of the representational and translational capabilities offered by CML and complement them with classes that facilitate searches and allow the creation of collections. Situations that are not described explicitly can be addressed by extending the types and using the conventions described in this document.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Lifesciences

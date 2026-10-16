@@ -1,0 +1,35 @@
+---
+id: OMGNOTJMS10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Notification/JMS Interworking Service
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/NOTJMS/1.0/About-NOTJMS
+- type: pdf
+  content: https://www.omg.org/spec/NOTJMS/1.0/PDF
+docidentifier:
+- content: OMG NOTJMS 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2004-10-29'
+version:
+- content: 1.0 (2004-10-29)
+abstract:
+- language: en
+  script: Latn
+  content: The Java Message Service (JMS) defines a standard API that provides a simplified and common way for Java clients to access message oriented middleware. More importantly, JMS is tightly integrated into J2EE and is the messaging standard for Enterprise Java Beans (EJB). Applications publishing a message are de-coupled from applications receiving them by means of a Queue or topic concept.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Services

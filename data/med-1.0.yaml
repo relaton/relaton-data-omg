@@ -1,0 +1,35 @@
+---
+id: OMGMED10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Management of Event Domains
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/MED/1.0/About-MED
+- type: pdf
+  content: https://www.omg.org/spec/MED/1.0/PDF
+docidentifier:
+- content: OMG MED 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2001-06-01'
+version:
+- content: 1.0 (2001-06-01)
+abstract:
+- language: en
+  script: Latn
+  content: This document specifies an architecture and interfaces for managing event domains. As used throughout this document, an event domain is a set of one or more event channels that are grouped together for the purposes of management, and/or for providing enhanced capabilities to the clients of those channels such as improved scalability.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Services

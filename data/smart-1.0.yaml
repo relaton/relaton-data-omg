@@ -1,0 +1,43 @@
+---
+id: OMGSMART10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Smart Transducers
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SMART/1.0/About-SMART
+- type: pdf
+  content: https://www.omg.org/spec/SMART/1.0/PDF
+docidentifier:
+- content: OMG SMART 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2003-01-30'
+version:
+- content: 1.0 (2003-01-30)
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This document describes the specification for a set of smart transducer interfaces that supports the following properties: 
+    The provision of a standardized set of functions, or service to a user in order to operate, configure and diagnose a generic transducer device. 
+    An encapsulation of the internal complexity of the generic smart-transducer hardware and software and the internal transducer failure modes to reduce the complexity at the system level.
+    Describe a canonical form of a communication service, or protocol with small delay and minimal jitter that is tailored to operate on low bandwidth channels given severely constrained environments.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Embedded Intelligence
+- vocab:
+    content: Industrial Systems
+- vocab:
+    content: Domain

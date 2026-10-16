@@ -1,0 +1,35 @@
+---
+id: OMGPSUM10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Precise Semantics for Uncertainty Modeling
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/PSUM/1.0/About-PSUM
+- type: pdf
+  content: https://www.omg.org/spec/PSUM/1.0/PDF
+docidentifier:
+- content: OMG PSUM 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2025-06-27'
+version:
+- content: 1.0 (2025-06-27)
+abstract:
+- language: en
+  script: Latn
+  content: "The Precise Semantics for Uncertainty Modeling (PSUM) version 1.0 builds the foundation for developing uncertainty modeling solutions, to guide the implementation of uncertainty modeling tools, to provide the basis for developing training materials and resources in the application of uncertainty modeling, and to serve as the cornerstone of proposing future revisions and extensions of uncertainty modeling solutions.\r\n\r\nThe PSUM metamodel is defined using the MOF meta-modeling language, to be consistent with other models defined by OMG."
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Platform

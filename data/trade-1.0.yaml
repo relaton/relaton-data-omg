@@ -1,0 +1,38 @@
+---
+id: OMGTRADE10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Trading Object Service
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/TRADE/1.0/About-TRADE
+- type: pdf
+  content: https://www.omg.org/spec/TRADE/1.0/PDF
+docidentifier:
+- content: OMG TRADE 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2000-06-01'
+version:
+- content: 1.0 (2000-06-01)
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The trading object service in an OMG environment allows interworking between traders and objects to:
+    - export (advertise) services
+    - import information about one or more exported services, according to some criteria
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Services

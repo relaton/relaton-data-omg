@@ -1,0 +1,35 @@
+---
+id: OMGITPMF10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: IT Portfolio Management Facility
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/ITPMF/1.0/About-ITPMF
+- type: pdf
+  content: https://www.omg.org/spec/ITPMF/1.0/PDF
+docidentifier:
+- content: OMG ITPMF 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2007-04-30'
+version:
+- content: 1.0 (2007-04-30)
+abstract:
+- language: en
+  script: Latn
+  content: The fundamental approach taken has been to supply only a core model that can be linked to any external model (or not at all). A Linkage package is specified for supporting this linking. In the future a user of a MOF 2.0 version of Interface Portfolio Management Facility (ITPMF) could use Model merging to incorporate the ITPMF classes directly into their metamodels.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain

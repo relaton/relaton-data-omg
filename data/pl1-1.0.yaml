@@ -1,0 +1,37 @@
+---
+id: OMGPL110
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: PL/1 Language Mapping
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/PL1/1.0/About-PL1
+- type: pdf
+  content: https://www.omg.org/spec/PL1/1.0/PDF
+docidentifier:
+- content: OMG PL1 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2002-09-02'
+version:
+- content: 1.0 (2002-09-02)
+abstract:
+- language: en
+  script: Latn
+  content: This specification gives a PL/I language mapping for IDL types and functionality. It is aligned with CORBA 2.3.1.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Language Mapping
+- vocab:
+    content: Platform

@@ -1,0 +1,35 @@
+---
+id: OMGATDM210
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Automated Technical Debt Measure V2
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/ATDM2/1.0/About-ATDM2
+- type: pdf
+  content: https://www.omg.org/spec/ATDM2/1.0/PDF
+docidentifier:
+- content: OMG ATDM2 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2025-09-20'
+version:
+- content: 1.0 (2025-09-20)
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of this specification is to establish a standard for automating a measure of Technical Debt that can be computed by source code analysis technologies which have implemented the CISQ Quality Characteristic measures.
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Platform

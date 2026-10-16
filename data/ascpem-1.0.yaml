@@ -1,0 +1,41 @@
+---
+id: OMGASCPEM10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Automated Source Code CISQ Performance Efficiency Measure
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/ASCPEM/1.0/About-ASCPEM
+- type: pdf
+  content: https://www.omg.org/spec/ASCPEM/1.0/PDF
+docidentifier:
+- content: OMG ASCPEM 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2015-12-31'
+version:
+- content: 1.0 (2015-12-31)
+abstract:
+- language: en
+  script: Latn
+  content: The purpose of this specification is to establish a standard measure of Performance Efficiency based on detecting violations of good architectural and coding practices that could result in inefficient operation such as performance degradation or excessive use of processor resources.
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Software Modernization
+- vocab:
+    content: Cisq
+- vocab:
+    content: Platform

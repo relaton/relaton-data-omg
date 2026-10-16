@@ -1,0 +1,37 @@
+---
+id: OMGHUTN10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: UML Human-Usable Textual Notation
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/HUTN/1.0/About-HUTN
+- type: pdf
+  content: https://www.omg.org/spec/HUTN/1.0/PDF
+docidentifier:
+- content: OMG HUTN 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2004-08-01'
+version:
+- content: 1.0 (2004-08-01)
+abstract:
+- language: en
+  script: Latn
+  content: Taking the goals of the RFP and MDA into account, this specification provides a generic solution, based on generating a textual language from a MOF model. This is the same approach taken by XMI, which generates a DTD or Schema from a MOF model.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Platform

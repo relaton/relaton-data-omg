@@ -1,0 +1,39 @@
+---
+id: OMGCCMP10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: UML Profile for CORBA Components
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/CCMP/1.0/About-CCMP
+- type: pdf
+  content: https://www.omg.org/spec/CCMP/1.0/PDF
+docidentifier:
+- content: OMG CCMP 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2005-07-05'
+version:
+- content: 1.0 (2005-07-05)
+abstract:
+- language: en
+  script: Latn
+  content: The CORBA Component Model (CCM) is a comprehensive component architecture based on the reliable and well-proven CORBA middleware. It contains concepts that allow multi-interface components, event based communication, port based configuration, and flexible implementation structures
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Uml Profile
+- vocab:
+    content: Middleware
+- vocab:
+    content: Component Architecture

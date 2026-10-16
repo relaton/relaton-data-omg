@@ -1,0 +1,35 @@
+---
+id: OMGSyM10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: SysML-Modelica Transformation
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SyM/1.0/About-SyM
+- type: pdf
+  content: https://www.omg.org/spec/SyM/1.0/PDF
+docidentifier:
+- content: OMG SyM 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2012-11-29'
+version:
+- content: 1.0 (2012-11-29)
+abstract:
+- language: en
+  script: Latn
+  content: OMG SysMLTM is a general-purpose systems modeling language that can be used to create and manage models of systems using well-defined constructs with underlying semantics and a graphical notation. SysML reuses a subset of UML 2 constructs and extends them by adding new modeling elements and two new diagram types.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain

@@ -1,0 +1,39 @@
+---
+id: OMGCWM11
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Common Warehouse Metamodel
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/CWM/1.1/About-CWM
+- type: pdf
+  content: https://www.omg.org/spec/CWM/1.1/PDF
+docidentifier:
+- content: OMG CWM 1.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2003-03-01'
+version:
+- content: 1.1 (2003-03-01)
+abstract:
+- language: en
+  script: Latn
+  content: 'This specification proposes that XML Metadata Interchange (XMI) is used to interchange data warehouse metadata based on the CWM metamodel. The CWM metamodel is specified using the Meta Object Facility (MOF) Model, allowing XMI to be used to: transform the CWM metamodel into a CWM Document Type Definition (DTD); transfer instances of warehouse metadata that conform to the CWM metamodel as XML documents, based on the CWM DTD; and transform the CWM metamodel itself into an XML document, based on the MOF DTD, for interchange between MOF-compliant repositories.'
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Business Modeling
+- vocab:
+    content: Data Warehousing

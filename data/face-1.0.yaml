@@ -1,0 +1,32 @@
+---
+id: OMGFACE10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: FACE Profile for UAF
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/FACE/1.0/About-FACE
+- type: pdf
+  content: https://www.omg.org/spec/FACE/1.0/PDF
+docidentifier:
+- content: OMG FACE 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2023-04-16'
+version:
+- content: 1.0 (2023-04-16)
+abstract:
+- language: en
+  script: Latn
+  content: The FACE Profile for UAF 1.0 provides a mechanism to model the Open Group's Future Airborne Capability Environment (FACE?) Edition 3.0 data architecture and components using UML-based tools.  It further enables representation of FACE components in the context of larger Unified Architecture Framework (UAF®) system-of-systems architectures to better identify interactions between FACE components and other components in the architecture.  Representation in the larger context enables analysis of the impact of incorporation of FACE components into the architecture, and the UML basis enables use of other profiles, such as the UML Profile for MARTE, to be used in this analysis.
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert

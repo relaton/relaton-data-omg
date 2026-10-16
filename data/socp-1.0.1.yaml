@@ -1,0 +1,50 @@
+---
+id: OMGSoCP101
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: UML Profile for System on a Chip
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SoCP/1.0.1/About-SoCP
+- type: pdf
+  content: https://www.omg.org/spec/SoCP/1.0.1/PDF
+docidentifier:
+- content: OMG SoCP 1.0.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2006-08-01'
+version:
+- content: 1.0.1 (2006-08-01)
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This specification defines a UML 2 profile for SoC (System on a Chip) design. The advantages of using this profile are listed below.
+    - This profile adds the SoC description capability to UML. This profile provides the following representation capabilities:
+    - Hierarchical representation of modules and channels, which are the fundamental elements of SoC.
+    - Roles of modules.
+    - Information transferred between modules using only one type of diagram.
+    - Most diagrams used for SoC are internal structure diagrams extended by the profile.
+    - Without the profile they had to be represented by description of class constructor function using sequence diagrams. This representation method lacks capability enough to explicitly show a module's role, which is fundamental information to analyze SoC.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Uml Profile
+- vocab:
+    content: Real Time
+- vocab:
+    content: Middleware
+- vocab:
+    content: Software Engineering
+- vocab:
+    content: Platform

@@ -1,0 +1,35 @@
+---
+id: OMGFT10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Fault Tolerant CORBA®
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/FT/1.0/About-FT
+- type: pdf
+  content: https://www.omg.org/spec/FT/1.0/PDF
+docidentifier:
+- content: OMG FT 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2010-04-30'
+version:
+- content: 1.0 (2010-04-30)
+abstract:
+- language: en
+  script: Latn
+  content: Many different kinds of applications, developed by the members of the OMG and the users of CORBA, have a need for fault tolerance. These applications range from very large critical systems (such as air traffic control and defense systems) to smaller critical systems (such as 911 and medical systems) to embedded applications (such as aircraft instrumentation and manufacturing control applications) to communication systems (such as telephony and networking systems) to enterprise applications (such as financial and supply chain applications).
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Corba Platform

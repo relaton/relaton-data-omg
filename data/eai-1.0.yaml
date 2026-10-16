@@ -1,0 +1,43 @@
+---
+id: OMGEAI10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: UML Profile for Enterprise Application Integration
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/EAI/1.0/About-EAI
+- type: pdf
+  content: https://www.omg.org/spec/EAI/1.0/PDF
+docidentifier:
+- content: OMG EAI 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2004-03-25'
+version:
+- content: 1.0 (2004-03-25)
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Enterprise Application Integration technology is being promoted to integrate legacy systems with new packages. But integrating legacy applications with new software is a difficult and expensive task due, in large part, to the necessity of customizing each connection that ties together two disparate applications. There is no single mechanism to describe how one application may allow itself to be invoked by another.
+    OMG intendes to solve this problem by defining and publishing a metadata interchange standard for information about accessing application interfaces. The goal is to simplify application integration by standardizing application metadata for invoking and translating application information. Once these standards exist, tools may be constructed to facilitate the development, execution, and management of these integration points.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Uml Profile
+- vocab:
+    content: Domain
+- vocab:
+    content: Modeling
+- vocab:
+    content: Platform

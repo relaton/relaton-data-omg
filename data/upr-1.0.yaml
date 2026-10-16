@@ -1,0 +1,32 @@
+---
+id: OMGUPR10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: UML Profile for ROSETTA
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/UPR/1.0/About-UPR
+- type: pdf
+  content: https://www.omg.org/spec/UPR/1.0/PDF
+docidentifier:
+- content: OMG UPR 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2019-01-01'
+version:
+- content: 1.0 (2019-01-01)
+abstract:
+- language: en
+  script: Latn
+  content: 'This specification of a UMLTM profile adds capabilities to UML for a comprehensive facility to structure information in support of model based analysis for architecture optimization and system design. This extension is called UPR: the UML profile for ROSETTA.'
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert

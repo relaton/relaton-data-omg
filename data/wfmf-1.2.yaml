@@ -1,0 +1,37 @@
+---
+id: OMGWfMF12
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Workflow Management Facility
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/WfMF/1.2/About-WfMF
+- type: pdf
+  content: https://www.omg.org/spec/WfMF/1.2/PDF
+docidentifier:
+- content: OMG WfMF 1.2
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2000-05-02'
+version:
+- content: 1.2 (2000-05-02)
+abstract:
+- language: en
+  script: Latn
+  content: The technology submitted in this specification is directly based upon the WFMC standards for workflow interfaces, which have been available in the public domain for a number of years and provide a stable base for the introduction of workflow technology into the OMG architecture.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Business Modeling
+- vocab:
+    content: Domain

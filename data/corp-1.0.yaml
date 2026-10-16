@@ -1,0 +1,39 @@
+---
+id: OMGCORP10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: UML Profile for CORBA
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/CORP/1.0/About-CORP
+- type: pdf
+  content: https://www.omg.org/spec/CORP/1.0/PDF
+docidentifier:
+- content: OMG CORP 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2002-04-01'
+version:
+- content: 1.0 (2002-04-01)
+abstract:
+- language: en
+  script: Latn
+  content: The UML Profile for CORBA specification was designed to provide a standard means for expressing the semantics of CORBA IDL using UML notation and thus to support expressing these semantics with UML tools.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Uml Profile
+- vocab:
+    content: Middleware
+- vocab:
+    content: Platform

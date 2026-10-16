@@ -1,0 +1,37 @@
+---
+id: OMGDOL10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Distributed Ontology, Model, and Specification Language
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/DOL/1.0/About-DOL
+- type: pdf
+  content: https://www.omg.org/spec/DOL/1.0/PDF
+docidentifier:
+- content: OMG DOL 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2018-03-30'
+version:
+- content: 1.0 (2018-03-30)
+abstract:
+- language: en
+  script: Latn
+  content: This OMG Specification specifies the Distributed Ontology, Modeling and Specification Language (DOL). DOL is designed to achieve integration and interoperability of ontologies, specifications and models (OMS for short). DOL is a language for distributed knowledge representation, system specification and model-driven development across multiple OMS, particularly OMS that have been formalized in different OMS languages.
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Platform

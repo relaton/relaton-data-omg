@@ -1,0 +1,37 @@
+---
+id: OMGMOFVD20
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: MOF2 Versioning and Development Lifecycle
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/MOFVD/2.0/About-MOFVD
+- type: pdf
+  content: https://www.omg.org/spec/MOFVD/2.0/PDF
+docidentifier:
+- content: OMG MOFVD 2.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2007-05-06'
+version:
+- content: 2.0 (2007-05-06)
+abstract:
+- language: en
+  script: Latn
+  content: This specification is also designed to reflect the experience gained from standardizing different versioning products as part of JSR 147 Workspace Versioning and Configuration Management.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Modeling
+- vocab:
+    content: Platform

@@ -1,0 +1,35 @@
+---
+id: OMGDAF10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Dependability Assurance Framework For Safety-Sensitive Consumer Devices
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/DAF/1.0/About-DAF
+- type: pdf
+  content: https://www.omg.org/spec/DAF/1.0/PDF
+docidentifier:
+- content: OMG DAF 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2016-02-01'
+version:
+- content: 1.0 (2016-02-01)
+abstract:
+- language: en
+  script: Latn
+  content: The objective of this document is to provide a new system assurance methodology for the dependability argumentation for consumer devices, which is achieved by integrating conventional system assurance approaches such as risk analysis and assessments with a new way of approaching unique characteristics of consumer devices. The scope of this specification supports the objectives of the integration, and includes the dependability case for argumentation, as well as the dependability development process to be newly defined.
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Domain

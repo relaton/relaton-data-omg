@@ -1,0 +1,35 @@
+---
+id: OMGSDMN10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Shared Data Model and Notation
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SDMN/1.0/About-SDMN
+- type: pdf
+  content: https://www.omg.org/spec/SDMN/1.0/PDF
+docidentifier:
+- content: OMG SDMN 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2026-06-26'
+version:
+- content: 1.0 (2026-06-26)
+abstract:
+- language: en
+  script: Latn
+  content: 'A Shared Data Model is a collection of DataItems and ItemDefinitions to be used (referenced) by the other BPM-Plus (BPM+) data elements: Such as BPMN Data Objects, CMMN Case File Items, DMN Data Inputs, etc. The DataItems and ItemDefinitions can be created once and maintained in a single location and can then be distributed across multiple models (This eliminates the manual synchronization burden of working with the BPM+ models without a Shared Data Model). A Shared Data Model is a model because there are relationships between the DataItems and ItemDefinitions (e.g., parent-child). Diagrams can be included to visualize the DataItems and their relationships or ItemDefinitions and their relationships. The primary goal of SDMN is to provide a set of structural elements that are common to other Object Management Group (OMG) specifications. SDMN has been structured to be dependent on the elements defined in Specification Common Elements (see the SCE specification for more information). Other Business Modeling and Integration (BMI) Task Force and Healthcare Domain Task Force (HDTF) specifications may also utilize the elements of SCE as they are updated in the future.'
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Domain

@@ -1,0 +1,37 @@
+---
+id: OMGLSAE10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Life Sciences Analysis Engine
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/LSAE/1.0/About-LSAE
+- type: pdf
+  content: https://www.omg.org/spec/LSAE/1.0/PDF
+docidentifier:
+- content: OMG LSAE 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2005-11-30'
+version:
+- content: 1.0 (2005-11-30)
+abstract:
+- language: en
+  script: Latn
+  content: In January 2000, the Biomolecular Sequence Analysis specification (BSA) was made available. It has two, almost independent parts. This specification modernizes and extends what was previously defined in the BSA part defining the components for supporting sequence analysis through a generic analysis design.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Lifesciences

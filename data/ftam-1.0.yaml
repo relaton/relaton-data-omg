@@ -1,0 +1,35 @@
+---
+id: OMGFTAM10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: CORBA FTAM/FTP Interworking
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/FTAM/1.0/About-FTAM
+- type: pdf
+  content: https://www.omg.org/spec/FTAM/1.0/PDF
+docidentifier:
+- content: OMG FTAM 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2002-03-03'
+version:
+- content: 1.0 (2002-03-03)
+abstract:
+- language: en
+  script: Latn
+  content: This specification describes a single set of IDL interfaces that will allow any OSS to perform its file management operations on underlying Network Elements regardless of the type of file management mechanism the underlying node is using.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Platform

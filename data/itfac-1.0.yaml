@@ -1,0 +1,35 @@
+---
+id: OMGITFAC10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Internationalization and Time
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/ITFAC/1.0/About-ITFAC
+- type: pdf
+  content: https://www.omg.org/spec/ITFAC/1.0/PDF
+docidentifier:
+- content: OMG ITFAC 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2000-01-01'
+version:
+- content: 1.0 (2000-01-01)
+abstract:
+- language: en
+  script: Latn
+  content: Users of the same application, perhaps even on the same server, may have very different preferences as to language and linguistic representation of certain items. Cultures differ widely on the preferred representation of dates, times and numbers, and even languages which use the same character set may have different conventions as to collating, punctuation, capitalization and so on. It therefore behooves the prudent system developer to provide a means for localizing the representation of data according to the cultural preferences of users.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Corba Facilities

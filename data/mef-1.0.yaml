@@ -1,0 +1,32 @@
+---
+id: OMGMEF10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Metamodel Extension Facility
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/MEF/1.0/About-MEF
+- type: pdf
+  content: https://www.omg.org/spec/MEF/1.0/PDF
+docidentifier:
+- content: OMG MEF 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2021-09-03'
+version:
+- content: 1.0 (2021-09-03)
+abstract:
+- language: en
+  script: Latn
+  content: The Metamodel Extension Facility (MEF) provides an alternative, and more advanced and flexible way to create Profiles for modeling languages / systems defined as MOF meta model, including UML and its derivates. MEF is designed to be on the surface compatible with the existing Stereotype notation, but translates Stereotype definitions into SMOF-based multiple classifications.
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert

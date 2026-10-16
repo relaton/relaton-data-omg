@@ -1,0 +1,37 @@
+---
+id: OMGPDME13
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Product Data Management Enablers
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/PDME/1.3/About-PDME
+- type: pdf
+  content: https://www.omg.org/spec/PDME/1.3/PDF
+docidentifier:
+- content: OMG PDME 1.3
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2000-11-01'
+version:
+- content: 1.3 (2000-11-01)
+abstract:
+- language: en
+  script: Latn
+  content: This specification  is intended to provide standard interfaces to Product Data Management systems, or other systems providing similar services, from other manufacturing software systems, primarily those supporting various aspects of product and process engineering, and those supporting manufacturing planning.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Manufacturing

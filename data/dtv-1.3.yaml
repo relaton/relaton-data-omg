@@ -1,0 +1,41 @@
+---
+id: OMGDTV13
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Date-Time Vocabulary
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/DTV/1.3/About-DTV
+- type: pdf
+  content: https://www.omg.org/spec/DTV/1.3/PDF
+docidentifier:
+- content: OMG DTV 1.3
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2017-05-14'
+version:
+- content: 1.3 (2017-05-14)
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This vocabulary attempts to satisfy several goals that tend to conflict.
+    - Provide a Standard Business Vocabulary for Date and Time Concepts: Provide a vocabulary of date and time concepts that business users can share and exploit in their business domain vocabularies and rules; 
+    - Support Machine Reasoning about Time: Provide a formal ontology that enables machine interpretation and reasoning. This means that processing by automated reasoners is possible, based on a well-grounded formal representation; and 
+    - Enable implementation: Enable tool vendors and other software developers to implement the date and time vocabulary with a 'reasonable' amount of development effort, meaning that the value obtained is commensurate with the development cost.
+status:
+  stage:
+    content: formal
+license:
+- RF-Limited
+keyword:
+- vocab:
+    content: Business Modeling
+- vocab:
+    content: Modeling

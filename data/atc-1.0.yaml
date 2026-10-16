@@ -1,0 +1,39 @@
+---
+id: OMGATC10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Air Traffic Control
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/ATC/1.0/About-ATC
+- type: pdf
+  content: https://www.omg.org/spec/ATC/1.0/PDF
+docidentifier:
+- content: OMG ATC 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2000-05-02'
+version:
+- content: 1.0 (2000-05-02)
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The purpose of this paradigm is to separate ATC conceptual objects (Model) from the presentation objects (View) and from the input processing (Controller). It provides maximum independence between
+    the involved objects.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Transport

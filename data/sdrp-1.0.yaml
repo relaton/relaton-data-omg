@@ -1,0 +1,45 @@
+---
+id: OMGSDRP10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Software Radio Components
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SDRP/1.0/About-SDRP
+- type: pdf
+  content: https://www.omg.org/spec/SDRP/1.0/PDF
+docidentifier:
+- content: OMG SDRP 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2007-03-01'
+version:
+- content: 1.0 (2007-03-01)
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The PIM and PSM for Software Radio Components Specification is physically partitioned into 5 volumes:
+    Communication Channel and Equipment (formal/07-03-02);
+    Component Document Type Definitions (formal/07-03-03);
+    Component Framework (formal/07-03-04);
+    Common and Data Link Layer Facilities (formal/07-03-05); and 
+    POSIX Profiles (formal/07-03-06).
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Uml Profile
+- vocab:
+    content: Communications
+- vocab:
+    content: Domain

@@ -1,0 +1,37 @@
+---
+id: OMGIXS101
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Identity Cross Reference Service
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/IXS/1.0.1/About-IXS
+- type: pdf
+  content: https://www.omg.org/spec/IXS/1.0.1/PDF
+docidentifier:
+- content: OMG IXS 1.0.1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2011-05-28'
+version:
+- content: 1.0.1 (2011-05-28)
+abstract:
+- language: en
+  script: Latn
+  content: These service interfaces are intended to be used within a healthcare setting, in which the security of data exchanges is both important and regulated by laws such as HIPAA in the United States.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Healthcare

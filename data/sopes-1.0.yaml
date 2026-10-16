@@ -1,0 +1,37 @@
+---
+id: OMGSOPES10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Shared Operational Picture Exchange Services
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SOPES/1.0/About-SOPES
+- type: pdf
+  content: https://www.omg.org/spec/SOPES/1.0/PDF
+docidentifier:
+- content: OMG SOPES 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2011-05-03'
+version:
+- content: 1.0 (2011-05-03)
+abstract:
+- language: en
+  script: Latn
+  content: Through the SOPES effort, the DTF seeks to advance and promote specifications that will provide affordable information interoperability solutions. These solutions would be integrated into commercially available products and not require the current amounts of custom development and integration prevalent in the military systems, and in interoperability solutions generally
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: C4i

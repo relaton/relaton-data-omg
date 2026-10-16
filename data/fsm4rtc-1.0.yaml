@@ -1,0 +1,43 @@
+---
+id: OMGFSM4RTC10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Finite State Machine Component for RTC
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/FSM4RTC/1.0/About-FSM4RTC
+- type: pdf
+  content: https://www.omg.org/spec/FSM4RTC/1.0/PDF
+docidentifier:
+- content: OMG FSM4RTC 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2016-04-01'
+version:
+- content: 1.0 (2016-04-01)
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This specification defines the following items by extending the RTC specifications:
+    1. Service interface which provides FSM component meta data including an FSM structure together with appropriate data models.
+    2. Service interface which provides the current state of the FSM component.
+    3. Service interface which notifies internal actions of the FSM component including state transitions.
+    4. Extended RTC::PortService which receives structured event data from outside.
+    5. Data model to describe structured event data including events with parameters.
+status:
+  stage:
+    content: formal
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Robotics

@@ -1,0 +1,37 @@
+---
+id: OMGMPG10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Model for Performance-driven Government
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/MPG/1.0/About-MPG
+- type: pdf
+  content: https://www.omg.org/spec/MPG/1.0/PDF
+docidentifier:
+- content: OMG MPG 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2013-12-01'
+version:
+- content: 1.0 (2013-12-01)
+abstract:
+- language: en
+  script: Latn
+  content: The Model for Performance-Driven Government (MPG) specifies a model that provides a uniform basis for agencies within the U.S. Federal Government to represent, analyze, and report on their enterprise-level transformation activities. It specifies how key transformation elements such as segment architecture, performance architecture, and investment planning model content are to be represented. It supports repository maintenance of that content and the fundamental information required to meet transparency and accountability goals.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Government

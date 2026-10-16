@@ -1,0 +1,37 @@
+---
+id: OMGLIS10
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: Life Sciences Identifiers
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/LIS/1.0/About-LIS
+- type: pdf
+  content: https://www.omg.org/spec/LIS/1.0/PDF
+docidentifier:
+- content: OMG LIS 1.0
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2004-12-02'
+version:
+- content: 1.0 (2004-12-02)
+abstract:
+- language: en
+  script: Latn
+  content: This specification addresses the need for a standardized naming schema for biological entities in the Life Sciences domains, the need for a service assigning unique identifiers complying with such naming schema, and the need for a resolving service that specifies how to retrieve the entities identified by such naming schema from repositories.
+status:
+  stage:
+    content: formal
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Lifesciences
