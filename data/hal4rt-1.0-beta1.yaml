@@ -1,0 +1,38 @@
+---
+id: OMGHAL4RT10betaBeta1
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: 'Hardware Abstraction Layer For Robotic Technology: Beta1'
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/HAL4RT/1.0/Beta1/PDF
+docidentifier:
+- content: OMG HAL4RT 1.0 beta Beta1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2016-01-08'
+version:
+- content: 1.0 beta (2016-01-08)
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This specification defines the Platform-Independent Model (PIM) of a Hardware Abstraction Layer for robotic systems that is capable to support at least the following devices:
+    - Sensors. Besides the actual, normalized measurement, sensor kind and unit of measure should be provided.
+    - Actuators. Commands to perform motions, and motion feedback information should be provided.
+status:
+  stage:
+    content: beta
+license:
+- ''
+keyword:
+- vocab:
+    content: Domain
+- vocab:
+    content: Robotics

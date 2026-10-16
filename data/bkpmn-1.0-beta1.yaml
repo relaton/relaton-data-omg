@@ -1,0 +1,29 @@
+---
+id: OMGBKPMN10betaBeta1
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: 'BPM+ Knowledge Package Model and Notation: Beta1'
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/BKPMN/1.0/Beta1/PDF
+docidentifier:
+- content: OMG BKPMN 1.0 beta Beta1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2022-01-01'
+version:
+- content: 1.0 beta (2022-01-01)
+abstract:
+- language: en
+  script: Latn
+status:
+  stage:
+    content: beta
+license:
+- Non-Assert

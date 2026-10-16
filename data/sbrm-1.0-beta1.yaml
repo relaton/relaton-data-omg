@@ -1,0 +1,30 @@
+---
+id: OMGSBRM10betaBeta1
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: 'Standard Business Report Model: Beta1'
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SBRM/1.0/Beta1/PDF
+docidentifier:
+- content: OMG SBRM 1.0 beta Beta1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2025-01-08'
+version:
+- content: 1.0 beta (2025-01-08)
+abstract:
+- language: en
+  script: Latn
+  content: The Standard Business Reporting Model (SBRM)  provides a  set of modeling constructs for representing business and regulatory reporting that are reusable in different modeling and data deployment environments. It acts as a Platform Independent Model for report documents and data structures, complementing established platform-specific models such as  eXtensible Business Reporting Language (XBRL).
+status:
+  stage:
+    content: beta
+license:
+- Non-Assert

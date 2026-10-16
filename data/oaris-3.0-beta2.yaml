@@ -1,0 +1,55 @@
+---
+id: OMGOARIS30beta2Beta2
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: 'Open Architecture Radar Interface Standard: Beta2'
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/OARIS/3.0/Beta2/PDF
+docidentifier:
+- content: OMG OARIS 3.0 beta 2 Beta2
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2024-12-20'
+version:
+- content: 3.0 beta 2 (2024-12-20)
+abstract:
+- language: en
+  script: Latn
+  content: This specification primarily defines the interface between the CMS and a Radar system within a modular combat system architecture for naval platforms. However, it is structured to align with the objective of dividing the interface into three categories, namely subsystem services (interfaces applicable to any module within a combat system), sensor services (interfaces applicable to any sensor component within a combat system) and radar services.
+status:
+  stage:
+    content: beta
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG OARIS 2.0
+    docidentifier:
+    - content: OMG OARIS 2.0
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG OARIS 1.1
+    docidentifier:
+    - content: OMG OARIS 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG OARIS 1.0
+    docidentifier:
+    - content: OMG OARIS 1.0
+      type: OMG
+license:
+- RAND
+keyword:
+- vocab:
+    content: Domain

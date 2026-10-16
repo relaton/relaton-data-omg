@@ -1,0 +1,48 @@
+---
+id: OMGBACM12betaBeta1
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: 'Business Architecture Core Metamodel: Beta1'
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/BACM/1.2/Beta1/PDF
+docidentifier:
+- content: OMG BACM 1.2 beta Beta1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2026-09-28'
+version:
+- content: 1.2 beta (2026-09-28)
+abstract:
+- language: en
+  script: Latn
+  content: "The specification defines metamodel concepts for modeling businesses and other kinds of organizations intended for strategy formulation and planning, business transformation and business analysis. It is intended for use in conjunction with other OMG business-related specifications such as BMM, VDML, BPMN etc., and with common business methodologies.\r\nIts primary concept is the business capability - an abstraction representing what a business does but not how. It surrounds business capability with concepts of value delivery (value streams), customer behavior, products, organization design and strategy impact. It provides a means to associate information from other models and business documents with concepts in the business architecture model."
+status:
+  stage:
+    content: beta
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG BACM 1.1
+    docidentifier:
+    - content: OMG BACM 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG BACM 1.0
+    docidentifier:
+    - content: OMG BACM 1.0
+      type: OMG
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Domain

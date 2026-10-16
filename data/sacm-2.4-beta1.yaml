@@ -1,0 +1,76 @@
+---
+id: OMGSACM24betaBeta1
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: 'Structured Assurance Case Metamodel: Beta1'
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SACM/2.4/Beta1/PDF
+docidentifier:
+- content: OMG SACM 2.4 beta Beta1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2026-09-16'
+version:
+- content: 2.4 beta (2026-09-16)
+abstract:
+- language: en
+  script: Latn
+  content: This specification defines a metamodel and UML profile for that metamodel for representing structured assurance cases and a graphical notation for depicting an Assurance Case and allowing System Engineering tools to incorporate Assurance Cases into their environment. An Assurance Case is a set of auditable claims, arguments, and evidence created to support the claim that a defined system/service will satisfy the particular requirements. An Assurance Case facilitates information exchange between various system stakeholders such as suppliers and acquirers, and between the operator and regulator, where the knowledge related to the safety and security of the system is communicated in a clear and defendable way.
+status:
+  stage:
+    content: beta
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG SACM 2.3
+    docidentifier:
+    - content: OMG SACM 2.3
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG SACM 2.2
+    docidentifier:
+    - content: OMG SACM 2.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG SACM 2.1
+    docidentifier:
+    - content: OMG SACM 2.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG SACM 2.0
+    docidentifier:
+    - content: OMG SACM 2.0
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG SACM 1.1
+    docidentifier:
+    - content: OMG SACM 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG SACM 1.0
+    docidentifier:
+    - content: OMG SACM 1.0
+      type: OMG
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Platform

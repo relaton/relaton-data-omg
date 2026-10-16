@@ -1,0 +1,76 @@
+---
+id: OMGUTP223betaBeta1
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: 'UML Testing Profile 2: Beta1'
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/UTP2/2.3/Beta1/PDF
+docidentifier:
+- content: OMG UTP2 2.3 beta Beta1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2025-03-24'
+version:
+- content: 2.3 beta (2025-03-24)
+abstract:
+- language: en
+  script: Latn
+  content: The UML Testing Profile (UTP) is a part of the UML ecosystem. As such, it can be combined with other profiles of that ecosystem in order to associate test-related artifacts with other relevant system artifacts, e.g., requirements, risks, use cases, business processes, system specifications etc. This enables requirements engineers, system engineers and test engineers to bridge the communication gap among different engineering disciplines.
+status:
+  stage:
+    content: beta
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG UTP2 2.2
+    docidentifier:
+    - content: OMG UTP2 2.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG UTP2 2.1
+    docidentifier:
+    - content: OMG UTP2 2.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG UTP2 2.0
+    docidentifier:
+    - content: OMG UTP2 2.0
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG UTP 1.2
+    docidentifier:
+    - content: OMG UTP 1.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG UTP 1.1
+    docidentifier:
+    - content: OMG UTP 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG UTP 1.0
+    docidentifier:
+    - content: OMG UTP 1.0
+      type: OMG
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Platform

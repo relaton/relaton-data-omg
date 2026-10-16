@@ -1,0 +1,55 @@
+---
+id: OMGEssence20beta2Beta2
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: 'Essence Kernel & Language for Engineering Methods: Beta2'
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/Essence/2.0/Beta2/PDF
+docidentifier:
+- content: OMG Essence 2.0 beta 2 Beta2
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2026-03-15'
+version:
+- content: 2.0 beta 2 (2026-03-15)
+abstract:
+- language: en
+  script: Latn
+  content: The Essence Kernel provides the common ground for defining engineering practices. It includes the essential elements that are always prevalent in every engineering endeavor, such as Requirements, System, Team, and Work. These elements have states representing progress and health, so as the endeavor moves forward the states associated with these elements progress.
+status:
+  stage:
+    content: beta
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG Essence 1.2
+    docidentifier:
+    - content: OMG Essence 1.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG Essence 1.1
+    docidentifier:
+    - content: OMG Essence 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG Essence 1.0
+    docidentifier:
+    - content: OMG Essence 1.0
+      type: OMG
+license:
+- RAND
+keyword:
+- vocab:
+    content: Platform

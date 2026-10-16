@@ -1,0 +1,35 @@
+---
+id: OMGDPROD10beta2Beta2
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: 'Data Products Ontology: Beta2'
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/DPROD/1.0/Beta2/PDF
+docidentifier:
+- content: OMG DPROD 1.0 beta 2 Beta2
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2026-09-16'
+version:
+- content: 1.0 beta 2 (2026-09-16)
+abstract:
+- language: en
+  script: Latn
+  content: The Data Product (DPROD) specification is a profile of the Data Catalog (DCAT) Vocabulary, designed to describe Data Products. This document defines the schema and provides examples of its use. DPROD extends DCAT to enable publishers to describe Data Products and data services in a decentralized way. By using a standard model and ontology, DPROD facilitates the consumption and aggregation of metadata from multiple Data Marketplaces. This approach increases the discoverability of products and services, supports decentralized data publishing, and enables federated search across multiple sites using a uniform query mechanism and structure.
+status:
+  stage:
+    content: beta
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Platform
+- vocab:
+    content: Modeling

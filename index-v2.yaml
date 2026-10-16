@@ -1114,3 +1114,99 @@
     acronym: XTCE
     version: '1.3'
   :file: data/xtce-1.3.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: ALMAS
+    version: 1.5 beta
+    part: Beta1
+  :file: data/almas-1.5-beta1.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: BACM
+    version: 1.2 beta
+    part: Beta1
+  :file: data/bacm-1.2-beta1.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: BKPMN
+    version: 1.0 beta
+    part: Beta1
+  :file: data/bkpmn-1.0-beta1.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: DMN
+    version: 1.7 beta
+    part: Beta1
+  :file: data/dmn-1.7-beta1.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: DPROD
+    version: 1.0 beta 2
+    part: Beta2
+  :file: data/dprod-1.0-beta2.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: Essence
+    version: 2.0 beta 2
+    part: Beta2
+  :file: data/essence-2.0-beta2.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: FACEv2
+    version: 1.0 beta 2
+    part: Beta2
+  :file: data/facev2-1.0-beta2.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: GEMS
+    version: 1.7 beta
+    part: Beta1
+  :file: data/gems-1.7-beta1.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: HAL4RT
+    version: 1.0 beta
+    part: Beta1
+  :file: data/hal4rt-1.0-beta1.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: MDMI
+    version: 2.0 beta 2
+    part: Beta2
+  :file: data/mdmi-2.0-beta2.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: OARIS
+    version: 3.0 beta 2
+    part: Beta2
+  :file: data/oaris-3.0-beta2.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: RAAML
+    version: 1.2 beta
+    part: Beta1
+  :file: data/raaml-1.2-beta1.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: SACM
+    version: 2.4 beta
+    part: Beta1
+  :file: data/sacm-2.4-beta1.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: SBRM
+    version: 1.0 beta
+    part: Beta1
+  :file: data/sbrm-1.0-beta1.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: TDAI
+    version: 1.1 beta
+    part: Beta1
+  :file: data/tdai-1.1-beta1.yaml
+- :id:
+    _type: pubid:omg:specification
+    acronym: UTP2
+    version: 2.3 beta
+    part: Beta1
+  :file: data/utp2-2.3-beta1.yaml

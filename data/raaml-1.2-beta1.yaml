@@ -1,0 +1,48 @@
+---
+id: OMGRAAML12betaBeta1
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: 'Risk Analysis and Assessment Modeling Language: Beta1'
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/RAAML/1.2/Beta1/PDF
+docidentifier:
+- content: OMG RAAML 1.2 beta Beta1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2026-09-16'
+version:
+- content: 1.2 beta (2026-09-16)
+abstract:
+- language: en
+  script: Latn
+  content: "The RAAML Version 1.2 specification defines extensions to SysML needed to support safety, reliability and security analysis. It provides the modeling capabilities for tool vendors to build safety, reliability, and security modeling tools that provide traditional representations (e.g. trees, tables, etc.) while using a modern model-based approach.\r\nThe RAAML specification can provide the foundation for conducting various safety and quality engineering activities including safety, reliability and security analysis methods. Besides the method support, linkages to the SysML model-of-interest are provided, enabling integration with and traceability to the analyses.\r\nThe spec describes the RAAML core concepts and shows:\r\n- That simple concepts are powerful enough to unite all safety, reliability and security information across a variety of analysis methods,\r\n- The approach to automating several safety and reliability analyses, which is built on leveraging existing SysML functionalities to ensure that the profile and library is usable with existing tooling,\r\n- Specific safety and reliability analysis methods and application domains that are supported, including FMEA, FTA, STPA, GSN, RBD, FHA, ISO 26262 Road Vehicles Functional Safety, and Extension Mechanisms that are typically needed by the industry to apply the specification in practice."
+status:
+  stage:
+    content: beta
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG RAAML 1.1
+    docidentifier:
+    - content: OMG RAAML 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG RAAML 1.0
+    docidentifier:
+    - content: OMG RAAML 1.0
+      type: OMG
+license:
+- Non-Assert
+keyword:
+- vocab:
+    content: Platform

@@ -1,0 +1,69 @@
+---
+id: OMGALMAS15betaBeta1
+schema_version: v1.5.6
+fetched: '2026-10-16'
+title:
+- language: en
+  script: Latn
+  content: 'Alert Management Service: Beta1'
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/ALMAS/1.5/Beta1/PDF
+docidentifier:
+- content: OMG ALMAS 1.5 beta Beta1
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2026-08-17'
+version:
+- content: 1.5 beta (2026-08-17)
+abstract:
+- language: en
+  script: Latn
+  content: The domain of naval Combat Management Systems is characterized by a huge variety of underlying computing platforms, with different and often incompatible means of managing and reporting alerts. Standards-based alert management services are essential for interoperable and open systems. This specification is a standard for ALert MAnagement Service (ALMAS) in CMS systems, consisting of a standard alerts data model and a model for an alert delivery and lifecycle management service.
+status:
+  stage:
+    content: beta
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG ALMAS 1.4 beta
+    docidentifier:
+    - content: OMG ALMAS 1.4 beta
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG ALMAS 1.3
+    docidentifier:
+    - content: OMG ALMAS 1.3
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG ALMAS 1.2
+    docidentifier:
+    - content: OMG ALMAS 1.2
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG ALMAS 1.1
+    docidentifier:
+    - content: OMG ALMAS 1.1
+      type: OMG
+- type: obsoletes
+  bibitem:
+    formattedref:
+      content: OMG ALMAS 1.0
+    docidentifier:
+    - content: OMG ALMAS 1.0
+      type: OMG
+license:
+- RAND
+keyword:
+- vocab:
+    content: Domain
