@@ -1,17 +1,19 @@
 ---
-id: OMGMDMI20beta2Beta2
+id: OMGMDMI20beta2
 schema_version: v1.5.6
-fetched: '2026-10-18'
+fetched: '2026-10-19'
 title:
 - language: en
   script: Latn
-  content: 'Model Driven Message Interoperability: Beta2'
+  content: Model Driven Message Interoperability
   type: main
 source:
 - type: src
+  content: https://www.omg.org/spec/MDMI/2.0/Beta2/About-MDMI
+- type: pdf
   content: https://www.omg.org/spec/MDMI/2.0/Beta2/PDF
 docidentifier:
-- content: OMG MDMI 2.0 beta 2 Beta2
+- content: OMG MDMI 2.0 beta 2
   type: OMG
   primary: true
 date:

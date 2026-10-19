@@ -1,17 +1,19 @@
 ---
-id: OMGTDAI11betaBeta1
+id: OMGTDAI11beta
 schema_version: v1.5.6
-fetched: '2026-10-18'
+fetched: '2026-10-19'
 title:
 - language: en
   script: Latn
-  content: 'Tactical Decision Aids Interface: Beta1'
+  content: Tactical Decision Aids Interface
   type: main
 source:
 - type: src
+  content: https://www.omg.org/spec/TDAI/1.1/Beta1/About-TDAI
+- type: pdf
   content: https://www.omg.org/spec/TDAI/1.1/Beta1/PDF
 docidentifier:
-- content: OMG TDAI 1.1 beta Beta1
+- content: OMG TDAI 1.1 beta
   type: OMG
   primary: true
 date:

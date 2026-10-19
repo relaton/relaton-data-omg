@@ -1,17 +1,19 @@
 ---
-id: OMGHAL4RT10betaBeta1
+id: OMGHAL4RT10beta
 schema_version: v1.5.6
-fetched: '2026-10-18'
+fetched: '2026-10-19'
 title:
 - language: en
   script: Latn
-  content: 'Hardware Abstraction Layer For Robotic Technology: Beta1'
+  content: Hardware Abstraction Layer For Robotic Technology
   type: main
 source:
 - type: src
+  content: https://www.omg.org/spec/HAL4RT/1.0/Beta1/About-HAL4RT
+- type: pdf
   content: https://www.omg.org/spec/HAL4RT/1.0/Beta1/PDF
 docidentifier:
-- content: OMG HAL4RT 1.0 beta Beta1
+- content: OMG HAL4RT 1.0 beta
   type: OMG
   primary: true
 date:

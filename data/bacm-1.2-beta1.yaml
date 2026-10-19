@@ -1,17 +1,19 @@
 ---
-id: OMGBACM12betaBeta1
+id: OMGBACM12beta
 schema_version: v1.5.6
-fetched: '2026-10-18'
+fetched: '2026-10-19'
 title:
 - language: en
   script: Latn
-  content: 'Business Architecture Core Metamodel: Beta1'
+  content: Business Architecture Core Metamodel
   type: main
 source:
 - type: src
+  content: https://www.omg.org/spec/BACM/1.2/Beta1/About-BACM
+- type: pdf
   content: https://www.omg.org/spec/BACM/1.2/Beta1/PDF
 docidentifier:
-- content: OMG BACM 1.2 beta Beta1
+- content: OMG BACM 1.2 beta
   type: OMG
   primary: true
 date:

@@ -1,17 +1,19 @@
 ---
-id: OMGDMN17betaBeta1
+id: OMGDMN17beta
 schema_version: v1.5.6
-fetched: '2026-10-18'
+fetched: '2026-10-19'
 title:
 - language: en
   script: Latn
-  content: 'Decision Model and Notation: Beta1'
+  content: Decision Model and Notation
   type: main
 source:
 - type: src
+  content: https://www.omg.org/spec/DMN/1.7/Beta1/About-DMN
+- type: pdf
   content: https://www.omg.org/spec/DMN/1.7/Beta1/PDF
 docidentifier:
-- content: OMG DMN 1.7 beta Beta1
+- content: OMG DMN 1.7 beta
   type: OMG
   primary: true
 date:

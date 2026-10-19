@@ -1,17 +1,19 @@
 ---
-id: OMGALMAS15betaBeta1
+id: OMGALMAS15beta
 schema_version: v1.5.6
-fetched: '2026-10-18'
+fetched: '2026-10-19'
 title:
 - language: en
   script: Latn
-  content: 'Alert Management Service: Beta1'
+  content: Alert Management Service
   type: main
 source:
 - type: src
+  content: https://www.omg.org/spec/ALMAS/1.5/Beta1/About-ALMAS
+- type: pdf
   content: https://www.omg.org/spec/ALMAS/1.5/Beta1/PDF
 docidentifier:
-- content: OMG ALMAS 1.5 beta Beta1
+- content: OMG ALMAS 1.5 beta
   type: OMG
   primary: true
 date:

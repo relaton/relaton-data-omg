@@ -1,17 +1,19 @@
 ---
-id: OMGFACEv210beta2Beta2
+id: OMGFACEv210beta2
 schema_version: v1.5.6
-fetched: '2026-10-18'
+fetched: '2026-10-19'
 title:
 - language: en
   script: Latn
-  content: 'UAF Profile for FACE 2.0: Beta2'
+  content: UAF Profile for FACE 2.0
   type: main
 source:
 - type: src
+  content: https://www.omg.org/spec/FACEv2/1.0/Beta2/About-FACEv2
+- type: pdf
   content: https://www.omg.org/spec/FACEv2/1.0/Beta2/PDF
 docidentifier:
-- content: OMG FACEv2 1.0 beta 2 Beta2
+- content: OMG FACEv2 1.0 beta 2
   type: OMG
   primary: true
 date:

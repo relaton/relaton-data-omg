@@ -1,17 +1,19 @@
 ---
-id: OMGEssence20beta2Beta2
+id: OMGEssence20beta2
 schema_version: v1.5.6
-fetched: '2026-10-18'
+fetched: '2026-10-19'
 title:
 - language: en
   script: Latn
-  content: 'Essence Kernel & Language for Engineering Methods: Beta2'
+  content: Essence Kernel & Language for Engineering Methods
   type: main
 source:
 - type: src
+  content: https://www.omg.org/spec/Essence/2.0/Beta2/About-Essence
+- type: pdf
   content: https://www.omg.org/spec/Essence/2.0/Beta2/PDF
 docidentifier:
-- content: OMG Essence 2.0 beta 2 Beta2
+- content: OMG Essence 2.0 beta 2
   type: OMG
   primary: true
 date:

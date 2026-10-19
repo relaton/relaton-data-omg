@@ -1,17 +1,19 @@
 ---
-id: OMGGEMS17betaBeta1
+id: OMGGEMS17beta
 schema_version: v1.5.6
-fetched: '2026-10-18'
+fetched: '2026-10-19'
 title:
 - language: en
   script: Latn
-  content: 'Ground Equipment Monitoring Service: Beta1'
+  content: Ground Equipment Monitoring Service
   type: main
 source:
 - type: src
+  content: https://www.omg.org/spec/GEMS/1.7/Beta1/About-GEMS
+- type: pdf
   content: https://www.omg.org/spec/GEMS/1.7/Beta1/PDF
 docidentifier:
-- content: OMG GEMS 1.7 beta Beta1
+- content: OMG GEMS 1.7 beta
   type: OMG
   primary: true
 date:

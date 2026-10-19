@@ -1,17 +1,19 @@
 ---
-id: OMGRAAML12betaBeta1
+id: OMGRAAML12beta
 schema_version: v1.5.6
-fetched: '2026-10-18'
+fetched: '2026-10-19'
 title:
 - language: en
   script: Latn
-  content: 'Risk Analysis and Assessment Modeling Language: Beta1'
+  content: Risk Analysis and Assessment Modeling Language
   type: main
 source:
 - type: src
+  content: https://www.omg.org/spec/RAAML/1.2/Beta1/About-RAAML
+- type: pdf
   content: https://www.omg.org/spec/RAAML/1.2/Beta1/PDF
 docidentifier:
-- content: OMG RAAML 1.2 beta Beta1
+- content: OMG RAAML 1.2 beta
   type: OMG
   primary: true
 date:

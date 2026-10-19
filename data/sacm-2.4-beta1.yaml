@@ -1,17 +1,19 @@
 ---
-id: OMGSACM24betaBeta1
+id: OMGSACM24beta
 schema_version: v1.5.6
-fetched: '2026-10-18'
+fetched: '2026-10-19'
 title:
 - language: en
   script: Latn
-  content: 'Structured Assurance Case Metamodel: Beta1'
+  content: Structured Assurance Case Metamodel
   type: main
 source:
 - type: src
+  content: https://www.omg.org/spec/SACM/2.4/Beta1/About-SACM
+- type: pdf
   content: https://www.omg.org/spec/SACM/2.4/Beta1/PDF
 docidentifier:
-- content: OMG SACM 2.4 beta Beta1
+- content: OMG SACM 2.4 beta
   type: OMG
   primary: true
 date:

@@ -1,0 +1,32 @@
+---
+id: OMGSPECTRA10beta
+schema_version: v1.5.6
+fetched: '2026-10-19'
+title:
+- language: en
+  script: Latn
+  content: System Profile for Effective Cyber Threat-based Risk Assessments
+  type: main
+source:
+- type: src
+  content: https://www.omg.org/spec/SPECTRA/1.0/Beta1/About-SPECTRA
+- type: pdf
+  content: https://www.omg.org/spec/SPECTRA/1.0/Beta1/Volume1/PDF
+docidentifier:
+- content: OMG SPECTRA 1.0 beta
+  type: OMG
+  primary: true
+date:
+- type: published
+  at: '2025-05-02'
+version:
+- content: 1.0 beta (2025-05-02)
+abstract:
+- language: en
+  script: Latn
+  content: "SPECTRA is a language for describing cyber and cyber-physical systems for the purposes of risk assessments, cybersecurity assessments and vulnerability assessments. System descriptions - including models, consist of many artifacts which are of importance for one or more lifecycle phases. \r\nFor the purposes of a cybersecurity assessment, certain artifacts are of essence - for example, what are the parts of the system, how these parts are connected to convey\r\ninformation, what information is being conveyed, and what is the nature of the parts. Cybersecurity implies a filter for the level of technical detail, compared to other disciplines involved in the system lifecycle. \r\nEffectively extracting only the relevant cybersecurity assertions for a system description is a challenging task. The SPECTRA language - a set of conceptual entities and relations, collectively referred to as Core Assertions for cybersecurity - extends Systems Engineering languages with the means to identify the core entities and their relationships to support the task of interpreting and postprocessing a system description by automated tools and enabling cybersecurity analytics.\r\n\r\nSPECTRA facilitates ingesting normalized machine-consumable system descriptions into compliant tools for big data analytics in cybersecurity.\r\nSPECTRAs objective is to provide a standard compliance reference for acquisition contracts soliciting models for various assessments, as well as tools and services for performing such assessments automatically.\r\n\r\nThis specification defines a SysML v1 profile to unambiguously identify Core Assertion in a SysML model."
+status:
+  stage:
+    content: beta
+license:
+- Non-Assert

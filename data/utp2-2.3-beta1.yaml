@@ -1,17 +1,19 @@
 ---
-id: OMGUTP223betaBeta1
+id: OMGUTP223beta
 schema_version: v1.5.6
-fetched: '2026-10-18'
+fetched: '2026-10-19'
 title:
 - language: en
   script: Latn
-  content: 'UML Testing Profile 2: Beta1'
+  content: UML Testing Profile 2
   type: main
 source:
 - type: src
+  content: https://www.omg.org/spec/UTP2/2.3/Beta1/About-UTP2
+- type: pdf
   content: https://www.omg.org/spec/UTP2/2.3/Beta1/PDF
 docidentifier:
-- content: OMG UTP2 2.3 beta Beta1
+- content: OMG UTP2 2.3 beta
   type: OMG
   primary: true
 date:
