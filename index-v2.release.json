@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "index": "index-v2",
+  "sha256": "3e30d583c60a6d8ae9d120fbca9e36437c1d63627429d26a125d356d5eb78e2a",
+  "bytes": 2967,
+  "count": 261,
+  "generated": "2026-10-27T19:04:10Z",
+  "source_revision": "f566ac142827747de0a1d409e6e4cdd6a34e60dd",
+  "run_id": "40565341236",
+  "repository": "relaton/relaton-data-omg"
+}
