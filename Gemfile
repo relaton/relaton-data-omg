@@ -24,11 +24,10 @@ gem "pubid",
 # crawler.rb compresses index*.yaml → index*.zip.
 gem "rubyzip", "~> 3.7"
 
-# The relaton gemspec's leptris floor floats; unpinned fresh resolutions
-# land on broken or yanked lines (leptris#1738; 1.9.366/367 are yanked and
-# 1.9.362.1 is the only published line). Pin the exact line, as the relaton
-# root and relaton-cli bundles do.
-gem "leptris", "1.9.362.1"
+# The former exact pin ("1.9.362.1 is the only published line") died in the
+# yank wave that removed the whole 1.9.36x line — fresh resolution failed
+# daily from 2026-11-13. relaton main's gemspec now floors leptris
+# `~> 1.9.391`, a live published line; no local pin needed.
 
 group :development, :test do
   gem "rspec", "~> 3.13"
