@@ -1,7 +1,7 @@
 ---
 id: OMGEVNT12
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,8 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: 'The Event Service decouples the communication between objects. The Event Service defines two roles for objects: the supplier role and the consumer role.'
+  content: 'The Event Service decouples the communication between objects. The Event
+    Service defines two roles for objects: the supplier role and the consumer role.'
 status:
   stage:
     content: formal

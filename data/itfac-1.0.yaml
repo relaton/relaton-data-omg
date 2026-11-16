@@ -1,7 +1,7 @@
 ---
 id: OMGITFAC10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,13 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: Users of the same application, perhaps even on the same server, may have very different preferences as to language and linguistic representation of certain items. Cultures differ widely on the preferred representation of dates, times and numbers, and even languages which use the same character set may have different conventions as to collating, punctuation, capitalization and so on. It therefore behooves the prudent system developer to provide a means for localizing the representation of data according to the cultural preferences of users.
+  content: Users of the same application, perhaps even on the same server, may have
+    very different preferences as to language and linguistic representation of certain
+    items. Cultures differ widely on the preferred representation of dates, times
+    and numbers, and even languages which use the same character set may have different
+    conventions as to collating, punctuation, capitalization and so on. It therefore
+    behooves the prudent system developer to provide a means for localizing the representation
+    of data according to the cultural preferences of users.
 status:
   stage:
     content: formal

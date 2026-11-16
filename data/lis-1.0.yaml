@@ -1,7 +1,7 @@
 ---
 id: OMGLIS10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,11 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification addresses the need for a standardized naming schema for biological entities in the Life Sciences domains, the need for a service assigning unique identifiers complying with such naming schema, and the need for a resolving service that specifies how to retrieve the entities identified by such naming schema from repositories.
+  content: This specification addresses the need for a standardized naming schema
+    for biological entities in the Life Sciences domains, the need for a service assigning
+    unique identifiers complying with such naming schema, and the need for a resolving
+    service that specifies how to retrieve the entities identified by such naming
+    schema from repositories.
 status:
   stage:
     content: formal

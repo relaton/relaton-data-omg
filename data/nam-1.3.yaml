@@ -1,7 +1,7 @@
 ---
 id: OMGNAM13
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,15 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The Naming Service provides the principal mechanism through which most clients of an ORB-based system locate objects that they intend to use (make requests of). Given an initial naming context, clients navigate naming contexts retrieving lists of the names bound to that context. In conjunction with properties and security services, clients look for objects with certain 'externally visible' characteristics, for example, for objects with recognized names or objects with a certain time-last-modified (all subject to security considerations). All objects used in such a scheme register their externally visible characteristics with other services (a name service, a properties service, and so on).
+  content: The Naming Service provides the principal mechanism through which most
+    clients of an ORB-based system locate objects that they intend to use (make requests
+    of). Given an initial naming context, clients navigate naming contexts retrieving
+    lists of the names bound to that context. In conjunction with properties and security
+    services, clients look for objects with certain 'externally visible' characteristics,
+    for example, for objects with recognized names or objects with a certain time-last-modified
+    (all subject to security considerations). All objects used in such a scheme register
+    their externally visible characteristics with other services (a name service,
+    a properties service, and so on).
 status:
   stage:
     content: formal

@@ -1,7 +1,7 @@
 ---
 id: OMGHdata10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,11 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The hData RESTful application programming interface (API) specification defines remote operations for accessing components of a Health Record and sending messages to an EHR system. 'RESTful' refers to a style of web services in which resources are identified by URLs and clients use stateless HTTP operations to perform operations on those resources.
+  content: The hData RESTful application programming interface (API) specification
+    defines remote operations for accessing components of a Health Record and sending
+    messages to an EHR system. 'RESTful' refers to a style of web services in which
+    resources are identified by URLs and clients use stateless HTTP operations to
+    perform operations on those resources.
 status:
   stage:
     content: formal

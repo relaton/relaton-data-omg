@@ -1,7 +1,7 @@
 ---
 id: OMGEXT10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,12 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The Externalization Service specification defines protocols and conventions for externalizing and internalizing objects. To externalize an object is to record the object's state in a stream of data. Objects which support the appropriate interfaces and whose implementations adhere to the proper conventions can be externalized to a stream (in memory, on a disk file, across the network, etc.) and subsequently be internalized into a new object in the same or a different process
+  content: The Externalization Service specification defines protocols and conventions
+    for externalizing and internalizing objects. To externalize an object is to record
+    the object's state in a stream of data. Objects which support the appropriate
+    interfaces and whose implementations adhere to the proper conventions can be externalized
+    to a stream (in memory, on a disk file, across the network, etc.) and subsequently
+    be internalized into a new object in the same or a different process
 status:
   stage:
     content: formal

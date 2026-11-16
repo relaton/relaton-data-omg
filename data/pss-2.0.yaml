@@ -1,7 +1,7 @@
 ---
 id: OMGPSS20
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,9 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The Persistent State Service provides a service to programmers ('you') who develop CORBA object implementations. A client has no way to tell if the implementation of an object uses this service.
+  content: The Persistent State Service provides a service to programmers ('you')
+    who develop CORBA object implementations. A client has no way to tell if the implementation
+    of an object uses this service.
 status:
   stage:
     content: formal

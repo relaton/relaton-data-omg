@@ -1,7 +1,7 @@
 ---
 id: OMGSysPhS11
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,12 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: Extends SysML with additional information needed to model physical interaction and signal flow simulation independently of simulation platforms.  Provides a human-usable textual syntax for mathematical expressions.  Includes a platform-independent SysML library of simulation elements that can be reused in system models.  Gives translations between SysML as extended above and two widely-used simulation languages and tools for physical interaction and signal flow simulation.
+  content: Extends SysML with additional information needed to model physical interaction
+    and signal flow simulation independently of simulation platforms.  Provides a
+    human-usable textual syntax for mathematical expressions.  Includes a platform-independent
+    SysML library of simulation elements that can be reused in system models.  Gives
+    translations between SysML as extended above and two widely-used simulation languages
+    and tools for physical interaction and signal flow simulation.
 status:
   stage:
     content: formal

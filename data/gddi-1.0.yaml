@@ -1,7 +1,7 @@
 ---
 id: OMGGDDI10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,12 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The Ground Data Delivery Interface (GDDI) specification defines a lightweight message interface standard to encapsulate spacecraft data and metadata for transfer between ground applications within a common network using a model-driven approach. The purpose of GDDI is to standardize the data/bearer-plane for digital baseband data within satellite ground systems, facilitating interoperability between endpoints that agree to use compatible metadata definitions.
+  content: The Ground Data Delivery Interface (GDDI) specification defines a lightweight
+    message interface standard to encapsulate spacecraft data and metadata for transfer
+    between ground applications within a common network using a model-driven approach.
+    The purpose of GDDI is to standardize the data/bearer-plane for digital baseband
+    data within satellite ground systems, facilitating interoperability between endpoints
+    that agree to use compatible metadata definitions.
 status:
   stage:
     content: formal

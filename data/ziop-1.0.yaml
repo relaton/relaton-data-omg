@@ -1,7 +1,7 @@
 ---
 id: OMGZIOP10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification defines a compression mechanism for the CORBA GIOP protocol. Such a mechanism provides a way for servers to publish objects that accept compressed requests and for clients to make compressed invocations. Pluggable compression algorithms could additionally be defined by clients.
+  content: This specification defines a compression mechanism for the CORBA GIOP protocol.
+    Such a mechanism provides a way for servers to publish objects that accept compressed
+    requests and for clients to make compressed invocations. Pluggable compression
+    algorithms could additionally be defined by clients.
 status:
   stage:
     content: formal

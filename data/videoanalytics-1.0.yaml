@@ -1,7 +1,7 @@
 ---
 id: OMGVIDEOANALYTICS10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,9 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: Video Analytics is the emerging technology where computer vision is used to capture behavior and events as well as filter and manage real time video for security and store intelligence.
+  content: Video Analytics is the emerging technology where computer vision is used
+    to capture behavior and events as well as filter and manage real time video for
+    security and store intelligence.
 status:
   stage:
     content: formal

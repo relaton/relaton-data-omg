@@ -1,7 +1,7 @@
 ---
 id: OMGBPDM10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,9 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This section presents the normative specification for the common infrastructure metamodel. It begins with an overview of the metamodel structure followed by a description of each sub-package.
+  content: This section presents the normative specification for the common infrastructure
+    metamodel. It begins with an overview of the metamodel structure followed by a
+    description of each sub-package.
 status:
   stage:
     content: formal

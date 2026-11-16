@@ -1,7 +1,7 @@
 ---
 id: OMGWSDL2C10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,12 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification defines a mapping between WSDL specifications, with a SOAP Binding, to a corresponding set of OMG IDL interface specifications. This specification is applicable to the domain of WSDL specifications that use only the constructs that result from the CORBA to WSDL-SOAP specification. This simplifies the mapping and allows for mapping from a restricted WSDLSOAP subset to CORBA IDL interfaces.
+  content: This specification defines a mapping between WSDL specifications, with
+    a SOAP Binding, to a corresponding set of OMG IDL interface specifications. This
+    specification is applicable to the domain of WSDL specifications that use only
+    the constructs that result from the CORBA to WSDL-SOAP specification. This simplifies
+    the mapping and allows for mapping from a restricted WSDLSOAP subset to CORBA
+    IDL interfaces.
 status:
   stage:
     content: formal

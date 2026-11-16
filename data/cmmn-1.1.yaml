@@ -1,7 +1,7 @@
 ---
 id: OMGCMMN11
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,9 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification defines a common meta-model and notation for modeling and graphically expressing a Case, as well as an interchange format for exchanging Case models among different tools.
+  content: This specification defines a common meta-model and notation for modeling
+    and graphically expressing a Case, as well as an interchange format for exchanging
+    Case models among different tools.
 status:
   stage:
     content: formal

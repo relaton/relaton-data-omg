@@ -1,7 +1,7 @@
 ---
 id: OMGATLAS10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,9 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: An ATLAS only delivers authorization tokens for one privilege scope. A service that issues authorization tokens of a variety of different token formats and different scopes is outside of this specification.
+  content: An ATLAS only delivers authorization tokens for one privilege scope. A
+    service that issues authorization tokens of a variety of different token formats
+    and different scopes is outside of this specification.
 status:
   stage:
     content: formal

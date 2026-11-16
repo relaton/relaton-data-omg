@@ -1,7 +1,7 @@
 ---
 id: OMGCOAS10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This model presumes that all entities within a healthcare domain can be modeled as composite or atomic observations. The word observation has been a long struggle from the beginning because of the fact that it carried different connotations for various groups and individuals.
+  content: This model presumes that all entities within a healthcare domain can be
+    modeled as composite or atomic observations. The word observation has been a long
+    struggle from the beginning because of the fact that it carried different connotations
+    for various groups and individuals.
 status:
   stage:
     content: formal

@@ -1,7 +1,7 @@
 ---
 id: OMGCONC10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,9 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of the Concurrency Control Service is to mediate concurrent access to an object such that the consistency of the object is not compromised when accessed by concurrently executing computations.
+  content: The purpose of the Concurrency Control Service is to mediate concurrent
+    access to an object such that the consistency of the object is not compromised
+    when accessed by concurrently executing computations.
 status:
   stage:
     content: formal

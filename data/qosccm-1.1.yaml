@@ -1,7 +1,7 @@
 ---
 id: OMGQOSCCM11
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,9 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The specification describes the essential extensions that need to be made to the container architecture to allow the support of separation of functional and non-functional properties of CORBA components.
+  content: The specification describes the essential extensions that need to be made
+    to the container architecture to allow the support of separation of functional
+    and non-functional properties of CORBA components.
 status:
   stage:
     content: formal

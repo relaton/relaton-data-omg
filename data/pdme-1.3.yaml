@@ -1,7 +1,7 @@
 ---
 id: OMGPDME13
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification  is intended to provide standard interfaces to Product Data Management systems, or other systems providing similar services, from other manufacturing software systems, primarily those supporting various aspects of product and process engineering, and those supporting manufacturing planning.
+  content: This specification  is intended to provide standard interfaces to Product
+    Data Management systems, or other systems providing similar services, from other
+    manufacturing software systems, primarily those supporting various aspects of
+    product and process engineering, and those supporting manufacturing planning.
 status:
   stage:
     content: formal

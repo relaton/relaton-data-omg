@@ -1,7 +1,7 @@
 ---
 id: OMGCSRM11
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,11 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The CubeSat System Reference Model Profile (CSRM Profile) defines the necessary stereotypes (extends SysML) for logical CubeSat space-ground architectures. The profile is intended to promote consistency and interoperability of logical CubeSat space/ground architectures models. The profile is intended to be used as-is or extended.
+  content: The CubeSat System Reference Model Profile (CSRM Profile) defines the necessary
+    stereotypes (extends SysML) for logical CubeSat space-ground architectures. The
+    profile is intended to promote consistency and interoperability of logical CubeSat
+    space/ground architectures models. The profile is intended to be used as-is or
+    extended.
 status:
   stage:
     content: formal

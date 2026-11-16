@@ -1,7 +1,7 @@
 ---
 id: OMGAMSM11
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,14 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: Within the wide domain of C4I systems, we distinguish the domain of naval Combat Management Systems. C4I systems are located on a naval ship, that assist the command team in its responsibility for execution of a mission. The Naval CMS systems' main capabilities encompass awareness of situation around the ship (or a group of ships within a naval force or theater) using sensors, exchange and fusion of this information into a tactical picture to support recognition of threats and response to those threats using actuators such as torpedo, missile, and gun systems.
+  content: Within the wide domain of C4I systems, we distinguish the domain of naval
+    Combat Management Systems. C4I systems are located on a naval ship, that assist
+    the command team in its responsibility for execution of a mission. The Naval CMS
+    systems' main capabilities encompass awareness of situation around the ship (or
+    a group of ships within a naval force or theater) using sensors, exchange and
+    fusion of this information into a tactical picture to support recognition of threats
+    and response to those threats using actuators such as torpedo, missile, and gun
+    systems.
 status:
   stage:
     content: formal

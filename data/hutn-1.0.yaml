@@ -1,7 +1,7 @@
 ---
 id: OMGHUTN10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: Taking the goals of the RFP and MDA into account, this specification provides a generic solution, based on generating a textual language from a MOF model. This is the same approach taken by XMI, which generates a DTD or Schema from a MOF model.
+  content: Taking the goals of the RFP and MDA into account, this specification provides
+    a generic solution, based on generating a textual language from a MOF model. This
+    is the same approach taken by XMI, which generates a DTD or Schema from a MOF
+    model.
 status:
   stage:
     content: formal

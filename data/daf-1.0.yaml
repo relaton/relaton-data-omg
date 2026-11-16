@@ -1,7 +1,7 @@
 ---
 id: OMGDAF10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,13 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The objective of this document is to provide a new system assurance methodology for the dependability argumentation for consumer devices, which is achieved by integrating conventional system assurance approaches such as risk analysis and assessments with a new way of approaching unique characteristics of consumer devices. The scope of this specification supports the objectives of the integration, and includes the dependability case for argumentation, as well as the dependability development process to be newly defined.
+  content: The objective of this document is to provide a new system assurance methodology
+    for the dependability argumentation for consumer devices, which is achieved by
+    integrating conventional system assurance approaches such as risk analysis and
+    assessments with a new way of approaching unique characteristics of consumer devices.
+    The scope of this specification supports the objectives of the integration, and
+    includes the dependability case for argumentation, as well as the dependability
+    development process to be newly defined.
 status:
   stage:
     content: formal

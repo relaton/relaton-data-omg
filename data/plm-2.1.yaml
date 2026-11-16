@@ -1,7 +1,7 @@
 ---
 id: OMGPLM21
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,11 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification defines a Platform Independent Model (PIM) for Product Lifecycle Management Services V2.0. Its informational model is derived from the ISO 10303-214 STEP model by an EXPRESS-X mapping specification and an EXPRESS-to-XMI mapping process. The functional model is derived from the OMG PDM Enablers V1.3 and to fulfill requirements of the RFP.
+  content: This specification defines a Platform Independent Model (PIM) for Product
+    Lifecycle Management Services V2.0. Its informational model is derived from the
+    ISO 10303-214 STEP model by an EXPRESS-X mapping specification and an EXPRESS-to-XMI
+    mapping process. The functional model is derived from the OMG PDM Enablers V1.3
+    and to fulfill requirements of the RFP.
 status:
   stage:
     content: formal

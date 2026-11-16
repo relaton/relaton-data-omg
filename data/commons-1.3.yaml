@@ -1,7 +1,7 @@
 ---
 id: OMGCommons13
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,16 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The Commons Ontology Library provides a set of small ontologies designed to provide a useful set of modeling constructs that are reusable in different modeling and data deployment environments with minimal commitments. It is intended to be extensible such that new ontologies and potentially other models (for example, UML models corresponding to the ontologies) can be added as cross-domain requirements present themselves. These requirements may come from other OMG standards efforts, such as the Multiple Vocabulary Facility (MVF), Languages, Countries and Codes (LCC), APIs for Knowledge Platforms (API4KP) platform specifications as well as from domain specifications such as the Retail Industry Ontology (RIO) and Financial Industry Business Ontology (FIBO), or potentially from external users of the library.
+  content: The Commons Ontology Library provides a set of small ontologies designed
+    to provide a useful set of modeling constructs that are reusable in different
+    modeling and data deployment environments with minimal commitments. It is intended
+    to be extensible such that new ontologies and potentially other models (for example,
+    UML models corresponding to the ontologies) can be added as cross-domain requirements
+    present themselves. These requirements may come from other OMG standards efforts,
+    such as the Multiple Vocabulary Facility (MVF), Languages, Countries and Codes
+    (LCC), APIs for Knowledge Platforms (API4KP) platform specifications as well as
+    from domain specifications such as the Retail Industry Ontology (RIO) and Financial
+    Industry Business Ontology (FIBO), or potentially from external users of the library.
 status:
   stage:
     content: formal

@@ -1,7 +1,7 @@
 ---
 id: OMGSMART10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,11 +24,7 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This document describes the specification for a set of smart transducer interfaces that supports the following properties: 
-    The provision of a standardized set of functions, or service to a user in order to operate, configure and diagnose a generic transducer device. 
-    An encapsulation of the internal complexity of the generic smart-transducer hardware and software and the internal transducer failure modes to reduce the complexity at the system level.
-    Describe a canonical form of a communication service, or protocol with small delay and minimal jitter that is tailored to operate on low bandwidth channels given severely constrained environments.
+  content: "This document describes the specification for a set of smart transducer interfaces that supports the following properties: \nThe provision of a standardized set of functions, or service to a user in order to operate, configure and diagnose a generic transducer device. \nAn encapsulation of the internal complexity of the generic smart-transducer hardware and software and the internal transducer failure modes to reduce the complexity at the system level.\nDescribe a canonical form of a communication service, or protocol with small delay and minimal jitter that is tailored to operate on low bandwidth channels given severely constrained environments."
 status:
   stage:
     content: formal

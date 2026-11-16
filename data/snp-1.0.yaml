@@ -1,7 +1,7 @@
 ---
 id: OMGSNP10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,11 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification addresses the need for a standardized data exchange format for Single Nucleotide Polymorphisms (SNPs) entities in the Life Sciences domains. As a result of recent advances in SNPs research, a large amount of experimental data has been accumulating. Standardization is required to facilitate exchanging these data and developing interoperable systems for managing and analyzing them.
+  content: This specification addresses the need for a standardized data exchange
+    format for Single Nucleotide Polymorphisms (SNPs) entities in the Life Sciences
+    domains. As a result of recent advances in SNPs research, a large amount of experimental
+    data has been accumulating. Standardization is required to facilitate exchanging
+    these data and developing interoperable systems for managing and analyzing them.
 status:
   stage:
     content: formal

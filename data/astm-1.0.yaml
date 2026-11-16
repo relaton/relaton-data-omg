@@ -1,7 +1,7 @@
 ---
 id: OMGASTM10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,12 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The Abstract Syntax Tree Metamodeling (ASTM) and the Knowledge Discovery Metamodeling (KDM) are two complementary modeling specifications developed by the OMG Architecture Driven Modernization Task Force. Their relationship can be clearly understood by recognizing that the KDM establishes a specification for abstract semantic graph models, while the ASTM establishes a specification for abstract syntax tree models.
+  content: The Abstract Syntax Tree Metamodeling (ASTM) and the Knowledge Discovery
+    Metamodeling (KDM) are two complementary modeling specifications developed by
+    the OMG Architecture Driven Modernization Task Force. Their relationship can be
+    clearly understood by recognizing that the KDM establishes a specification for
+    abstract semantic graph models, while the ASTM establishes a specification for
+    abstract syntax tree models.
 status:
   stage:
     content: formal

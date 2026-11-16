@@ -1,7 +1,7 @@
 ---
 id: OMGXTCE13
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: 'The XML Telemetric and Command Exchange (XTCE) data specification presents a robust information model and data exchange format for describing telemetry and commanding in all phases of the spacecraft, payload, and ground segment lifecycle: system design, development, test, validation, and mission operations.'
+  content: 'The XML Telemetric and Command Exchange (XTCE) data specification presents
+    a robust information model and data exchange format for describing telemetry and
+    commanding in all phases of the spacecraft, payload, and ground segment lifecycle:
+    system design, development, test, validation, and mission operations.'
 status:
   stage:
     content: formal

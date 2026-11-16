@@ -1,7 +1,7 @@
 ---
 id: OMGQUER10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: 'The Query Service can be used to return collections of objects that may be: Selected from source collections based on whether their member objects satisfy a given predicate; or produced by query evaluators based on the evaluation of a given predicate. These query evaluators may manage implicit collections of objects.'
+  content: 'The Query Service can be used to return collections of objects that may
+    be: Selected from source collections based on whether their member objects satisfy
+    a given predicate; or produced by query evaluators based on the evaluation of
+    a given predicate. These query evaluators may manage implicit collections of objects.'
 status:
   stage:
     content: formal

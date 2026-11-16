@@ -1,7 +1,7 @@
 ---
 id: OMGMIPS10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of the Common Warehouse Metamodel specification is to define a common interchange specification for metadata in a data warehouse. This definition provides a common language and metamodel definitions for the objects in the data warehouse.
+  content: The purpose of the Common Warehouse Metamodel specification is to define
+    a common interchange specification for metadata in a data warehouse. This definition
+    provides a common language and metamodel definitions for the objects in the data
+    warehouse.
 status:
   stage:
     content: formal

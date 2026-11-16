@@ -1,7 +1,7 @@
 ---
 id: OMGITPMF10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,11 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The fundamental approach taken has been to supply only a core model that can be linked to any external model (or not at all). A Linkage package is specified for supporting this linking. In the future a user of a MOF 2.0 version of Interface Portfolio Management Facility (ITPMF) could use Model merging to incorporate the ITPMF classes directly into their metamodels.
+  content: The fundamental approach taken has been to supply only a core model that
+    can be linked to any external model (or not at all). A Linkage package is specified
+    for supporting this linking. In the future a user of a MOF 2.0 version of Interface
+    Portfolio Management Facility (ITPMF) could use Model merging to incorporate the
+    ITPMF classes directly into their metamodels.
 status:
   stage:
     content: formal

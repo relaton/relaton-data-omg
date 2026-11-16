@@ -1,7 +1,7 @@
 ---
 id: OMGSysML20
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,15 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: SysML is a general-purpose modeling language for modeling systems that is intended to facilitate a model-based systems engineering (MBSE) approach to engineer systems. It provides the capability to create and visualize models that represent many different aspects of a system. This includes representing the requirements, structure, and behavior of the system, and the specification of analysis cases and verification cases used to analyze and verify the system. The language is intended to support multiple systems engineering methods and practices. The specific methods and practices may impose additional constraints on how the language is used.
+  content: SysML is a general-purpose modeling language for modeling systems that
+    is intended to facilitate a model-based systems engineering (MBSE) approach to
+    engineer systems. It provides the capability to create and visualize models that
+    represent many different aspects of a system. This includes representing the requirements,
+    structure, and behavior of the system, and the specification of analysis cases
+    and verification cases used to analyze and verify the system. The language is
+    intended to support multiple systems engineering methods and practices. The specific
+    methods and practices may impose additional constraints on how the language is
+    used.
 status:
   stage:
     content: formal

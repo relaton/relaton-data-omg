@@ -1,7 +1,7 @@
 ---
 id: OMGBQS10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,9 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This module specifies the bibliographic domain data. It is independent of other modules found in this specification, therefore it can be used everywhere where only the data model is needed, without query capabilities.
+  content: This module specifies the bibliographic domain data. It is independent
+    of other modules found in this specification, therefore it can be used everywhere
+    where only the data model is needed, without query capabilities.
 status:
   stage:
     content: formal

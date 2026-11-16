@@ -1,7 +1,7 @@
 ---
 id: OMGReqIF12
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,12 +24,7 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This document is created to inform:
-    - Persons interested in exchanging requirements data between organizations that do not have a possibility to share the same repository.
-    - Requirements authoring tool vendors who want to support the Requirements Interchange Format (ReqIF) with export and import interfaces for their requirements authoring tools. 
-    - Tool vendors other than requirements authoring tool vendors who wish to interchange requirements for documentation or other purposes.
-    - Anyone interested in defining, interchanging, storing, etc., requirements in a standard interchange format.
+  content: "This document is created to inform:\n- Persons interested in exchanging requirements data between organizations that do not have a possibility to share the same repository.\n- Requirements authoring tool vendors who want to support the Requirements Interchange Format (ReqIF) with export and import interfaces for their requirements authoring tools. \n- Tool vendors other than requirements authoring tool vendors who wish to interchange requirements for documentation or other purposes.\n- Anyone interested in defining, interchanging, storing, etc., requirements in a standard interchange format."
 status:
   stage:
     content: formal

@@ -1,7 +1,7 @@
 ---
 id: OMGDAIS11
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The DAIS API is intended for transfer of process data on subscription basis. Process data consists of quality tagged and time stamped scalar values. The API is intended to efficiently transfer large amounts of data simultaneously to many clients (subscribers)
+  content: The DAIS API is intended for transfer of process data on subscription basis.
+    Process data consists of quality tagged and time stamped scalar values. The API
+    is intended to efficiently transfer large amounts of data simultaneously to many
+    clients (subscribers)
 status:
   stage:
     content: formal

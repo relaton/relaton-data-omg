@@ -1,7 +1,7 @@
 ---
 id: OMGRLS11
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,11 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification defines a localization (RoLo) service that can handle data and usages specific to use in robotics. It includes a platform independent model (PIM) as well as a mapping of this PIM to platform specific model (PSM) defined by C++. In addition, two informative annexes are provided for the filter condition functionality.
+  content: This specification defines a localization (RoLo) service that can handle
+    data and usages specific to use in robotics. It includes a platform independent
+    model (PIM) as well as a mapping of this PIM to platform specific model (PSM)
+    defined by C++. In addition, two informative annexes are provided for the filter
+    condition functionality.
 status:
   stage:
     content: formal

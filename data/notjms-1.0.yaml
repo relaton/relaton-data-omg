@@ -1,7 +1,7 @@
 ---
 id: OMGNOTJMS10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,11 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The Java Message Service (JMS) defines a standard API that provides a simplified and common way for Java clients to access message oriented middleware. More importantly, JMS is tightly integrated into J2EE and is the messaging standard for Enterprise Java Beans (EJB). Applications publishing a message are de-coupled from applications receiving them by means of a Queue or topic concept.
+  content: The Java Message Service (JMS) defines a standard API that provides a simplified
+    and common way for Java clients to access message oriented middleware. More importantly,
+    JMS is tightly integrated into J2EE and is the messaging standard for Enterprise
+    Java Beans (EJB). Applications publishing a message are de-coupled from applications
+    receiving them by means of a Queue or topic concept.
 status:
   stage:
     content: formal

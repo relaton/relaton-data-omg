@@ -1,7 +1,7 @@
 ---
 id: OMGSOPES10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,11 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: Through the SOPES effort, the DTF seeks to advance and promote specifications that will provide affordable information interoperability solutions. These solutions would be integrated into commercially available products and not require the current amounts of custom development and integration prevalent in the military systems, and in interoperability solutions generally
+  content: Through the SOPES effort, the DTF seeks to advance and promote specifications
+    that will provide affordable information interoperability solutions. These solutions
+    would be integrated into commercially available products and not require the current
+    amounts of custom development and integration prevalent in the military systems,
+    and in interoperability solutions generally
 status:
   stage:
     content: formal

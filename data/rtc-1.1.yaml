@@ -1,7 +1,7 @@
 ---
 id: OMGRTC11
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This document defines a component model and certain important infrastructure services applicable to the domain of robotics software development. It includes a Platform-Independent Model (PIM) expressed in UML and Platform-Specific Models (PSMs) expressed in OMG IDL.
+  content: This document defines a component model and certain important infrastructure
+    services applicable to the domain of robotics software development. It includes
+    a Platform-Independent Model (PIM) expressed in UML and Platform-Specific Models
+    (PSMs) expressed in OMG IDL.
 status:
   stage:
     content: formal

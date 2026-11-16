@@ -1,7 +1,7 @@
 ---
 id: OMGServD10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The Services Directory (ServD) specification provides an SOA model to support the discovery of, and access to, service provider, individual, and organizational information including; locations, associations, contact details, services, identifiers, and many other relevant characteristics/attributes.
+  content: The Services Directory (ServD) specification provides an SOA model to support
+    the discovery of, and access to, service provider, individual, and organizational
+    information including; locations, associations, contact details, services, identifiers,
+    and many other relevant characteristics/attributes.
 status:
   stage:
     content: formal

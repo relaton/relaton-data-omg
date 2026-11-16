@@ -1,7 +1,7 @@
 ---
 id: OMGLSAE10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: In January 2000, the Biomolecular Sequence Analysis specification (BSA) was made available. It has two, almost independent parts. This specification modernizes and extends what was previously defined in the BSA part defining the components for supporting sequence analysis through a generic analysis design.
+  content: In January 2000, the Biomolecular Sequence Analysis specification (BSA)
+    was made available. It has two, almost independent parts. This specification modernizes
+    and extends what was previously defined in the BSA part defining the components
+    for supporting sequence analysis through a generic analysis design.
 status:
   stage:
     content: formal

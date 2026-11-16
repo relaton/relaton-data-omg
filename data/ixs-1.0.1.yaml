@@ -1,7 +1,7 @@
 ---
 id: OMGIXS101
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,9 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: These service interfaces are intended to be used within a healthcare setting, in which the security of data exchanges is both important and regulated by laws such as HIPAA in the United States.
+  content: These service interfaces are intended to be used within a healthcare setting,
+    in which the security of data exchanges is both important and regulated by laws
+    such as HIPAA in the United States.
 status:
   stage:
     content: formal

@@ -1298,25 +1298,25 @@
 - :id:
     _type: pubid:omg:specification
     acronym: DPROD
-    version: '[{digit: "2"}]'
+    version: '2'
   :file: data/dprod-1.0-beta2.yaml
 - :id:
     _type: pubid:omg:specification
     acronym: Essence
-    version: '[{digit: "2"}]'
+    version: '2'
   :file: data/essence-2.0-beta2.yaml
 - :id:
     _type: pubid:omg:specification
     acronym: FACEv2
-    version: '[{digit: "2"}]'
+    version: '2'
   :file: data/facev2-1.0-beta2.yaml
 - :id:
     _type: pubid:omg:specification
     acronym: MDMI
-    version: '[{digit: "2"}]'
+    version: '2'
   :file: data/mdmi-2.0-beta2.yaml
 - :id:
     _type: pubid:omg:specification
     acronym: OARIS
-    version: '[{digit: "2"}]'
+    version: '2'
   :file: data/oaris-3.0-beta2.yaml

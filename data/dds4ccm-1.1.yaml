@@ -1,7 +1,7 @@
 ---
 id: OMGDDS4CCM11
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,8 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification defines how CCM1  components may interact using DDS and how related DDS entities may be configured using CCM configuration mechanisms.
+  content: This specification defines how CCM1  components may interact using DDS
+    and how related DDS entities may be configured using CCM configuration mechanisms.
 status:
   stage:
     content: formal

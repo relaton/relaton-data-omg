@@ -1,7 +1,7 @@
 ---
 id: OMGUMS201
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: We will use the umbrella term Utility Management System (UMS) to refer to this class of system. It covers Water Quality and Energy Management Systems (WQEMS) in the water sector, and Energy Management Systems (EMS) or Distribution Management Systems (DMS) in the power sector.
+  content: We will use the umbrella term Utility Management System (UMS) to refer
+    to this class of system. It covers Water Quality and Energy Management Systems
+    (WQEMS) in the water sector, and Energy Management Systems (EMS) or Distribution
+    Management Systems (DMS) in the power sector.
 status:
   stage:
     content: formal

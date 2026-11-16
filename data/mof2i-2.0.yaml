@@ -1,7 +1,7 @@
 ---
 id: OMGMOF2I20
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification outlines a new MOF 2 IDL mapping. It defines mapping rules for elements of a MOF 2.0 compliant model to the CORBA Component Model (CCM). The mapping rules basically depend on the state of the MOF2.0 Core documents and the adopted UML Infrastructure.
+  content: This specification outlines a new MOF 2 IDL mapping. It defines mapping
+    rules for elements of a MOF 2.0 compliant model to the CORBA Component Model (CCM).
+    The mapping rules basically depend on the state of the MOF2.0 Core documents and
+    the adopted UML Infrastructure.
 status:
   stage:
     content: formal

@@ -1,7 +1,7 @@
 ---
 id: OMGRLUS101
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,12 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The Retrieve, Locate, and Update Service (RLUS) web service specification seeks to define, at a service level, appropriate interfaces to locate, retrieve, and update resources among and between healthcare organizations. It is not intended to replace existing systems or implementations, but to create an interface standard for a service-oriented layer to expose those healthcare assets and resources within an organization that are needed to meet business or medical needs.
+  content: The Retrieve, Locate, and Update Service (RLUS) web service specification
+    seeks to define, at a service level, appropriate interfaces to locate, retrieve,
+    and update resources among and between healthcare organizations. It is not intended
+    to replace existing systems or implementations, but to create an interface standard
+    for a service-oriented layer to expose those healthcare assets and resources within
+    an organization that are needed to meet business or medical needs.
 status:
   stage:
     content: formal

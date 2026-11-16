@@ -1,7 +1,7 @@
 ---
 id: OMGLFCYC12
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,11 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: Life Cycle Service defines services and conventions for creating, deleting, copying and moving objects. Because CORBA-based environments support distributed objects, the Life Cycle Service defines conventions that allow clients to perform life cycle operations on objects in different locations. This overview describes the life cycle problem for distributed object systems.
+  content: Life Cycle Service defines services and conventions for creating, deleting,
+    copying and moving objects. Because CORBA-based environments support distributed
+    objects, the Life Cycle Service defines conventions that allow clients to perform
+    life cycle operations on objects in different locations. This overview describes
+    the life cycle problem for distributed object systems.
 status:
   stage:
     content: formal

@@ -1,7 +1,7 @@
 ---
 id: OMGST10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: 'The CORBA Language Mapping specifications contain language mapping information for the following languages: Ada; C; C++; COBOL; IDL to Java; Java to IDL; and Smalltalk.  Each language is described in a separate stand-alone volume.  This volume describes Smalltalk.'
+  content: 'The CORBA Language Mapping specifications contain language mapping information
+    for the following languages: Ada; C; C++; COBOL; IDL to Java; Java to IDL; and
+    Smalltalk.  Each language is described in a separate stand-alone volume.  This
+    volume describes Smalltalk.'
 status:
   stage:
     content: formal

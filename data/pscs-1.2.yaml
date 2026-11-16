@@ -1,7 +1,7 @@
 ---
 id: OMGPSCS12
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,8 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification defines an extension of fUML syntax and semantics to enable modeling and execution of UML composite structures.
+  content: This specification defines an extension of fUML syntax and semantics to
+    enable modeling and execution of UML composite structures.
 status:
   stage:
     content: formal

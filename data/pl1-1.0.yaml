@@ -1,7 +1,7 @@
 ---
 id: OMGPL110
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,8 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification gives a PL/I language mapping for IDL types and functionality. It is aligned with CORBA 2.3.1.
+  content: This specification gives a PL/I language mapping for IDL types and functionality.
+    It is aligned with CORBA 2.3.1.
 status:
   stage:
     content: formal

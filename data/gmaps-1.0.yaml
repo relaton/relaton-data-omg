@@ -1,7 +1,7 @@
 ---
 id: OMGGMAPS10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,9 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This document describes a standard for representing genomic maps and their contents. It is able to deal with practically any type of chromosome map and marker that is likely to occur in the fast growing field of molecular genetics
+  content: This document describes a standard for representing genomic maps and their
+    contents. It is able to deal with practically any type of chromosome map and marker
+    that is likely to occur in the fast growing field of molecular genetics
 status:
   stage:
     content: formal

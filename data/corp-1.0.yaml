@@ -1,7 +1,7 @@
 ---
 id: OMGCORP10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,9 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The UML Profile for CORBA specification was designed to provide a standard means for expressing the semantics of CORBA IDL using UML notation and thus to support expressing these semantics with UML tools.
+  content: The UML Profile for CORBA specification was designed to provide a standard
+    means for expressing the semantics of CORBA IDL using UML notation and thus to
+    support expressing these semantics with UML tools.
 status:
   stage:
     content: formal

@@ -1,7 +1,7 @@
 ---
 id: OMGKDM14
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,13 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification defines a meta-model for representing existing software, its elements, associations, and operational environments, referred to as the Knowledge Discovery Meta-model (KDM). This is the first in the series of specifications related to Software Assurance (SwA) and Architecture-Driven Modernization (ADM) activities. KDM facilitates projects that involve existing software systems by insuring interoperability and exchange of data between tools provided by different vendors.
+  content: This specification defines a meta-model for representing existing software,
+    its elements, associations, and operational environments, referred to as the Knowledge
+    Discovery Meta-model (KDM). This is the first in the series of specifications
+    related to Software Assurance (SwA) and Architecture-Driven Modernization (ADM)
+    activities. KDM facilitates projects that involve existing software systems by
+    insuring interoperability and exchange of data between tools provided by different
+    vendors.
 status:
   stage:
     content: formal

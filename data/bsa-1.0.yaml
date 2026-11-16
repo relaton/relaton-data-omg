@@ -1,7 +1,7 @@
 ---
 id: OMGBSA10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The interface Alignment and ancillary types are used for representing comparisons between sequences or sequence families. It is also used in describing SimilaritySearchHits (i.e., matches found in sequence database, and Assemblies). SearchHit and SearchResult are used primarily for representing the results of similarity searches.
+  content: The interface Alignment and ancillary types are used for representing comparisons
+    between sequences or sequence families. It is also used in describing SimilaritySearchHits
+    (i.e., matches found in sequence database, and Assemblies). SearchHit and SearchResult
+    are used primarily for representing the results of similarity searches.
 status:
   stage:
     content: formal

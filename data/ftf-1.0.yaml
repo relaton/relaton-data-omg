@@ -1,7 +1,7 @@
 ---
 id: OMGFTF10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,11 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The specification is designed to move the evolution of the Federal Transition Framework into the general community of the OMG (industrial, governmental, and academic). The initial standard is therefore based on the existing release of the Federal Transition Framework released by the President's Office of Management and Budget.
+  content: The specification is designed to move the evolution of the Federal Transition
+    Framework into the general community of the OMG (industrial, governmental, and
+    academic). The initial standard is therefore based on the existing release of
+    the Federal Transition Framework released by the President's Office of Management
+    and Budget.
 status:
   stage:
     content: formal

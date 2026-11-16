@@ -1,7 +1,7 @@
 ---
 id: OMGDSS20
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,9 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The Facility for Distributed Simulation Systems is a mechanism for combining computer models or simulations so that they interoperate to create one larger simulation.
+  content: The Facility for Distributed Simulation Systems is a mechanism for combining
+    computer models or simulations so that they interoperate to create one larger
+    simulation.
 status:
   stage:
     content: formal

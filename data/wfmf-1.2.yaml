@@ -1,7 +1,7 @@
 ---
 id: OMGWfMF12
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The technology submitted in this specification is directly based upon the WFMC standards for workflow interfaces, which have been available in the public domain for a number of years and provide a stable base for the introduction of workflow technology into the OMG architecture.
+  content: The technology submitted in this specification is directly based upon the
+    WFMC standards for workflow interfaces, which have been available in the public
+    domain for a number of years and provide a stable base for the introduction of
+    workflow technology into the OMG architecture.
 status:
   stage:
     content: formal

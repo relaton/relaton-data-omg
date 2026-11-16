@@ -1,7 +1,7 @@
 ---
 id: OMGAEP10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of this specification is to establish an automated sizing measure, Automated Enhancement Points, which solves specific problems with the OMG approved specification for Automated Function Points when used to measure maintenance and enhancement work performed between two revisions of the software.
+  content: The purpose of this specification is to establish an automated sizing measure,
+    Automated Enhancement Points, which solves specific problems with the OMG approved
+    specification for Automated Function Points when used to measure maintenance and
+    enhancement work performed between two revisions of the software.
 status:
   stage:
     content: formal

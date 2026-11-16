@@ -1,7 +1,7 @@
 ---
 id: OMGSMOF10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,9 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This extension to MOF modifies MOF 2 to support dynamically mutable multiple classifications of elements and to declare the circumstances under which such multiple classifications are allowed, required, and prohibited.
+  content: This extension to MOF modifies MOF 2 to support dynamically mutable multiple
+    classifications of elements and to declare the circumstances under which such
+    multiple classifications are allowed, required, and prohibited.
 status:
   stage:
     content: formal

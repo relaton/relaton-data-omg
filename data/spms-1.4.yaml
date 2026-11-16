@@ -1,7 +1,7 @@
 ---
 id: OMGSPMS14
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The Structured Patterns Metamodel Standard (SPMS) specification defines a common standard for the definition and description of patterns as used in architecting, designing, and implementing software systems, working with software faults or security issues, and any situation where a pattern is appropriately applied.
+  content: The Structured Patterns Metamodel Standard (SPMS) specification defines
+    a common standard for the definition and description of patterns as used in architecting,
+    designing, and implementing software systems, working with software faults or
+    security issues, and any situation where a pattern is appropriately applied.
 status:
   stage:
     content: formal

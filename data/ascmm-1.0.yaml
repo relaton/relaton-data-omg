@@ -1,7 +1,7 @@
 ---
 id: OMGASCMM10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of this specification is to establish a standard measure of Maintainability based on detecting violations of good architectural and coding practices that could result in unreliable operation such as outages, data corruption, and lengthy recovery from system failures.
+  content: The purpose of this specification is to establish a standard measure of
+    Maintainability based on detecting violations of good architectural and coding
+    practices that could result in unreliable operation such as outages, data corruption,
+    and lengthy recovery from system failures.
 status:
   stage:
     content: formal

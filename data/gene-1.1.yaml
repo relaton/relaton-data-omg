@@ -1,7 +1,7 @@
 ---
 id: OMGGENE11
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This document is a standard that addresses the representation of gene expression data and relevant annotations, as well as mechanisms for exchanging these data. The field of gene expression experiments has several distinct technologies that a standard must include (e.g., single vs. dual channel experiments, cDNA vs. oligonucleotides).
+  content: This document is a standard that addresses the representation of gene expression
+    data and relevant annotations, as well as mechanisms for exchanging these data.
+    The field of gene expression experiments has several distinct technologies that
+    a standard must include (e.g., single vs. dual channel experiments, cDNA vs. oligonucleotides).
 status:
   stage:
     content: formal

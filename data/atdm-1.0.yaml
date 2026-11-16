@@ -1,7 +1,7 @@
 ---
 id: OMGATDM10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,9 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of this specification is to establish a standard for automating a measure of Technical Debt that can be computed by source code analysis technologies which have implemented the CISQ Quality Characteristic measures.
+  content: The purpose of this specification is to establish a standard for automating
+    a measure of Technical Debt that can be computed by source code analysis technologies
+    which have implemented the CISQ Quality Characteristic measures.
 status:
   stage:
     content: formal

@@ -1,7 +1,7 @@
 ---
 id: OMGDTV13
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,11 +24,7 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This vocabulary attempts to satisfy several goals that tend to conflict.
-    - Provide a Standard Business Vocabulary for Date and Time Concepts: Provide a vocabulary of date and time concepts that business users can share and exploit in their business domain vocabularies and rules; 
-    - Support Machine Reasoning about Time: Provide a formal ontology that enables machine interpretation and reasoning. This means that processing by automated reasoners is possible, based on a well-grounded formal representation; and 
-    - Enable implementation: Enable tool vendors and other software developers to implement the date and time vocabulary with a 'reasonable' amount of development effort, meaning that the value obtained is commensurate with the development cost.
+  content: "This vocabulary attempts to satisfy several goals that tend to conflict.\n- Provide a Standard Business Vocabulary for Date and Time Concepts: Provide a vocabulary of date and time concepts that business users can share and exploit in their business domain vocabularies and rules; \n- Support Machine Reasoning about Time: Provide a formal ontology that enables machine interpretation and reasoning. This means that processing by automated reasoners is possible, based on a well-grounded formal representation; and \n- Enable implementation: Enable tool vendors and other software developers to implement the date and time vocabulary with a 'reasonable' amount of development effort, meaning that the value obtained is commensurate with the development cost."
 status:
   stage:
     content: formal

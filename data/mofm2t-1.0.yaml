@@ -1,7 +1,7 @@
 ---
 id: OMGMOFM2T10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,8 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification defines the MOF to Text Template Language (Mof2Text), version 1.0. Mof2Text is aligned with UML 2.0, MOF 2.0, and OCL 2.0.
+  content: This specification defines the MOF to Text Template Language (Mof2Text),
+    version 1.0. Mof2Text is aligned with UML 2.0, MOF 2.0, and OCL 2.0.
 status:
   stage:
     content: formal

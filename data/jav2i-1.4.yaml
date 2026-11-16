@@ -1,7 +1,7 @@
 ---
 id: OMGJAV2I14
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The CORBA Language Mapping specifications contain language mapping information for several languages. Each language is described in a separate stand-alone volume. This particular specification explains how OMG IDL constructs are mapped to the constructs of the Java to IDL programming language.
+  content: The CORBA Language Mapping specifications contain language mapping information
+    for several languages. Each language is described in a separate stand-alone volume.
+    This particular specification explains how OMG IDL constructs are mapped to the
+    constructs of the Java to IDL programming language.
 status:
   stage:
     content: formal

@@ -1,7 +1,7 @@
 ---
 id: OMGQFTP11
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,11 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification defines a set of UML extensions to represent Quality of Service and Fault-Tolerance concepts. These extensions reduce the problems of UML 2.0 for the description of Quality of Service and Fault-Tolerance properties, and integrate the extensions in two basic general frameworks (QoS Modeling Framework, and FT Modeling Framework).
+  content: This specification defines a set of UML extensions to represent Quality
+    of Service and Fault-Tolerance concepts. These extensions reduce the problems
+    of UML 2.0 for the description of Quality of Service and Fault-Tolerance properties,
+    and integrate the extensions in two basic general frameworks (QoS Modeling Framework,
+    and FT Modeling Framework).
 status:
   stage:
     content: formal

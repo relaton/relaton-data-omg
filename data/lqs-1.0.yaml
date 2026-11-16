@@ -1,7 +1,7 @@
 ---
 id: OMGLQS10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,9 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The scope of this specification is to specify a set of common, read-only methods for accessing the content of medical terminology systems. The focus was to determine what could be construed to be common elements of terminology systems
+  content: The scope of this specification is to specify a set of common, read-only
+    methods for accessing the content of medical terminology systems. The focus was
+    to determine what could be construed to be common elements of terminology systems
 status:
   stage:
     content: formal

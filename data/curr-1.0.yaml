@@ -1,7 +1,7 @@
 ---
 id: OMGCURR10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,9 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This document specifies a set of business objects and related abstractions as a proposed standard to support international currency. It describes the objectives and business requirements for each object of the component.
+  content: This document specifies a set of business objects and related abstractions
+    as a proposed standard to support international currency. It describes the objectives
+    and business requirements for each object of the component.
 status:
   stage:
     content: formal

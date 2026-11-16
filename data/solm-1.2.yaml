@@ -1,7 +1,7 @@
 ---
 id: OMGSOLM12
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,8 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: Updated SpacePython implementation changes that allow for pluggable UI and data backing implementations.
+  content: Updated SpacePython implementation changes that allow for pluggable UI
+    and data backing implementations.
 status:
   stage:
     content: formal

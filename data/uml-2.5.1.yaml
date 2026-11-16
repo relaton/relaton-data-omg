@@ -1,7 +1,7 @@
 ---
 id: OMGUML251
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,8 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: A specification defining a graphical language for visualizing, specifying, constructing, and documenting the artifacts of distributed object systems.
+  content: A specification defining a graphical language for visualizing, specifying,
+    constructing, and documenting the artifacts of distributed object systems.
 status:
   stage:
     content: formal

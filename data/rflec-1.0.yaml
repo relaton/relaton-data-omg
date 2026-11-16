@@ -1,7 +1,7 @@
 ---
 id: OMGRFLEC10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,12 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification defines reflective operations for CORBA objects. Such operations provide a way for applications to obtain metadata describing an object's interface directly from the object itself, rather than requiring the presence of a separate metadata service such as an Interface Repository. This specification provides a general approach to metadata discovery based on object narrowing, and it supports multiple metadata formats in an easily extensible manner.
+  content: This specification defines reflective operations for CORBA objects. Such
+    operations provide a way for applications to obtain metadata describing an object's
+    interface directly from the object itself, rather than requiring the presence
+    of a separate metadata service such as an Interface Repository. This specification
+    provides a general approach to metadata discovery based on object narrowing, and
+    it supports multiple metadata formats in an easily extensible manner.
 status:
   stage:
     content: formal

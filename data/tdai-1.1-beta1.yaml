@@ -1,7 +1,7 @@
 ---
 id: OMGTDAI11beta
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,11 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The goal of the Tactical Decision Aids Interface specification is to support the on-going need to extend and upgrade C2 Systems, particularly to meet growing demand for automation and the exploitation of machine intelligence. This specification addresses the need to insert functionality into command and control systems that supports the user?s decision-making process.
+  content: The goal of the Tactical Decision Aids Interface specification is to support
+    the on-going need to extend and upgrade C2 Systems, particularly to meet growing
+    demand for automation and the exploitation of machine intelligence. This specification
+    addresses the need to insert functionality into command and control systems that
+    supports the user?s decision-making process.
 status:
   stage:
     content: beta

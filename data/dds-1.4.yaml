@@ -1,7 +1,7 @@
 ---
 id: OMGDDS14
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,13 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The DDS specification describes a Data-Centric Publish-Subscribe (DCPS) model for distributed application communication and integration. This specification defines both the Application Interfaces (APIs) and the Communication Semantics (behavior and quality of service) that enable the efficient delivery of information from information producers to matching consumers. The purpose of the DDS specification can be summarized as enabling the 'Efficient and Robust Delivery of the Right Information to the Right Place at the Right Time.'
+  content: The DDS specification describes a Data-Centric Publish-Subscribe (DCPS)
+    model for distributed application communication and integration. This specification
+    defines both the Application Interfaces (APIs) and the Communication Semantics
+    (behavior and quality of service) that enable the efficient delivery of information
+    from information producers to matching consumers. The purpose of the DDS specification
+    can be summarized as enabling the 'Efficient and Robust Delivery of the Right
+    Information to the Right Place at the Right Time.'
 status:
   stage:
     content: formal

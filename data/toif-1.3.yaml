@@ -1,7 +1,7 @@
 ---
 id: OMGTOIF13
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This document provides specification of the Tools Output Integration Framework (TOIF) XMI schema - the common reporting format of source/machine code weaknesses. TOIF XMI is the core part of a protocol that integrates weakness findings, from multiple static code analysis tools, related to a single system under assessment
+  content: This document provides specification of the Tools Output Integration Framework
+    (TOIF) XMI schema - the common reporting format of source/machine code weaknesses.
+    TOIF XMI is the core part of a protocol that integrates weakness findings, from
+    multiple static code analysis tools, related to a single system under assessment
 status:
   stage:
     content: formal

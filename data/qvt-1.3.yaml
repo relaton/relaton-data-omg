@@ -1,7 +1,7 @@
 ---
 id: OMGQVT13
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: 'This specification provides the architecture, languages, operational mappings, and core language for the MOF 2.0 Query, View, and Transformation (QVT) specification. The specification defines three related transformation languages: Relations, Operational Mappings, and Core.'
+  content: 'This specification provides the architecture, languages, operational mappings,
+    and core language for the MOF 2.0 Query, View, and Transformation (QVT) specification.
+    The specification defines three related transformation languages: Relations, Operational
+    Mappings, and Core.'
 status:
   stage:
     content: formal

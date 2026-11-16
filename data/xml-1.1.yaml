@@ -1,7 +1,7 @@
 ---
 id: OMGXML11
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,13 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification provides two essential scenarios for using XML to create IDL valuetypes. The first scenario, where dynamic information is present, leverages existing standards to provide access to the full contents of an XML document in terms of IDL valuetypes. The second scenario builds upon the first where additional static information is present from XML DTDs and (in the future) XML Schemas. The DTDs / Schemas are metadata used to generate Valuetypes that match the types of information expected to be present in XML documents.
+  content: This specification provides two essential scenarios for using XML to create
+    IDL valuetypes. The first scenario, where dynamic information is present, leverages
+    existing standards to provide access to the full contents of an XML document in
+    terms of IDL valuetypes. The second scenario builds upon the first where additional
+    static information is present from XML DTDs and (in the future) XML Schemas. The
+    DTDs / Schemas are metadata used to generate Valuetypes that match the types of
+    information expected to be present in XML documents.
 status:
   stage:
     content: formal

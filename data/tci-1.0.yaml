@@ -1,7 +1,7 @@
 ---
 id: OMGTCI10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The domain of Combat Management Systems is characterized by a huge variety of underlying computing platforms, with different and often incompatible means of providing interactive displays. Standards-based services are essential for interoperable and open systems.
+  content: The domain of Combat Management Systems is characterized by a huge variety
+    of underlying computing platforms, with different and often incompatible means
+    of providing interactive displays. Standards-based services are essential for
+    interoperable and open systems.
 status:
   stage:
     content: formal

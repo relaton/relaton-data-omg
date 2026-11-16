@@ -1,7 +1,7 @@
 ---
 id: OMGBMM13
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,8 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The Business Motivation Model provides a scheme or structure for developing, communicating, and managing business plans in an organized manner.
+  content: The Business Motivation Model provides a scheme or structure for developing,
+    communicating, and managing business plans in an organized manner.
 status:
   stage:
     content: formal

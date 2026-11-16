@@ -1,7 +1,7 @@
 ---
 id: OMGMOFVD20
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,9 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification is also designed to reflect the experience gained from standardizing different versioning products as part of JSR 147 Workspace Versioning and Configuration Management.
+  content: This specification is also designed to reflect the experience gained from
+    standardizing different versioning products as part of JSR 147 Workspace Versioning
+    and Configuration Management.
 status:
   stage:
     content: formal

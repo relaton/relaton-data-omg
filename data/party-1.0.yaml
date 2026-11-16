@@ -1,7 +1,7 @@
 ---
 id: OMGPARTY10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,12 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification defines specific interfaces for Party Management that each of the other (future) finance related components will request information from. The goal of this specification and the Party Management Facility (PMF) in general is to define these interfaces at a level where, for example, an insurance company can easily replace their current OMG-compliant PMF component with a new one in a seamless manner.
+  content: This specification defines specific interfaces for Party Management that
+    each of the other (future) finance related components will request information
+    from. The goal of this specification and the Party Management Facility (PMF) in
+    general is to define these interfaces at a level where, for example, an insurance
+    company can easily replace their current OMG-compliant PMF component with a new
+    one in a seamless manner.
 status:
   stage:
     content: formal

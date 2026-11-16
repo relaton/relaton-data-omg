@@ -1,7 +1,7 @@
 ---
 id: OMGMOFFOL20
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification separates out those aspects of MOF related to communicating with and managing the facilities responsible for providing the capabilities covered by the other MOF specifications. These facilities may be at many different levels, from a modeling tool to a full multi-user, multi-model repository.
+  content: This specification separates out those aspects of MOF related to communicating
+    with and managing the facilities responsible for providing the capabilities covered
+    by the other MOF specifications. These facilities may be at many different levels,
+    from a modeling tool to a full multi-user, multi-model repository.
 status:
   stage:
     content: formal

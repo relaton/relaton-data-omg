@@ -1,7 +1,7 @@
 ---
 id: OMGMOF251
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,12 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This International Standard provides the basis for metamodel definition in the OMG family of MDA languages and is based on a simplification of the UML2 class modeling capabilities.  In addition to providing the means for metamodel definition it adds core capabilities for model management in general, including Identifiers, a simple generic Tag capability and Reflective operations that are defined generically and can be applied regardless of metamodel.
+  content: This International Standard provides the basis for metamodel definition
+    in the OMG family of MDA languages and is based on a simplification of the UML2
+    class modeling capabilities.  In addition to providing the means for metamodel
+    definition it adds core capabilities for model management in general, including
+    Identifiers, a simple generic Tag capability and Reflective operations that are
+    defined generically and can be applied regardless of metamodel.
 status:
   stage:
     content: formal

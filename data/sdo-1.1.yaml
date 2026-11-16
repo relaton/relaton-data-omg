@@ -1,7 +1,7 @@
 ---
 id: OMGSDO11
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,11 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: A Super Distributed Object (SDO) is a logical representation of a hardware device or a software component that provides well-known functionality and services. One of the key characteristics in super distribution is to incorporate a massive number of objects, each of which performs its own task autonomously or cooperatively with other objects.
+  content: A Super Distributed Object (SDO) is a logical representation of a hardware
+    device or a software component that provides well-known functionality and services.
+    One of the key characteristics in super distribution is to incorporate a massive
+    number of objects, each of which performs its own task autonomously or cooperatively
+    with other objects.
 status:
   stage:
     content: formal

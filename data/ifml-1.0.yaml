@@ -1,7 +1,7 @@
 ---
 id: OMGIFML10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,16 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: 'This specification defines the Interaction Flow Modeling Language (IFML). The objective of IFML is to provide system architects, software engineers, and software developers with tools for the definition of Interaction Flow Models that describe the principal dimensions of an application front-end: the view part of the application, made of view containers and view components; the objects that embody the state of the application, and the references to business logic actions that can be executed; the binding of view components to data objects and events; the control logic that determines the actions to be executed after an event occurrence; and the distribution of control, data, and business logic at the different tiers of the architecture.'
+  content: 'This specification defines the Interaction Flow Modeling Language (IFML).
+    The objective of IFML is to provide system architects, software engineers, and
+    software developers with tools for the definition of Interaction Flow Models that
+    describe the principal dimensions of an application front-end: the view part of
+    the application, made of view containers and view components; the objects that
+    embody the state of the application, and the references to business logic actions
+    that can be executed; the binding of view components to data objects and events;
+    the control logic that determines the actions to be executed after an event occurrence;
+    and the distribution of control, data, and business logic at the different tiers
+    of the architecture.'
 status:
   stage:
     content: formal

@@ -1,7 +1,7 @@
 ---
 id: OMGPPMN10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,11 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: A Pedigree and Provenance Model and Notation (PPMN) model is a repository of elements capturing the lineage, custody and/or ownership of entities of interest. PPMN models may include elements representing the history of the entities of interest as well as specifications of expected events and processes (herein eferred to generally as 'occurrences') related to types of entities of interest.
+  content: A Pedigree and Provenance Model and Notation (PPMN) model is a repository
+    of elements capturing the lineage, custody and/or ownership of entities of interest.
+    PPMN models may include elements representing the history of the entities of interest
+    as well as specifications of expected events and processes (herein eferred to
+    generally as 'occurrences') related to types of entities of interest.
 status:
   stage:
     content: formal

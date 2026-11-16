@@ -1,7 +1,7 @@
 ---
 id: OMGASCRSM10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,11 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This specification is derived from the Automated Source Code Performance Efficiency Measure and Automated Source Code Reliability Measure both included in the Automated Source Code Quality Measures (ASCQM) specification (https://www.omg.org/spec/ASCQM/1.0/ and ISO/IEC 5055:2021) to cover common weaknesses (CWEs) that affect the use of energy and other resources.
+  content: This specification is derived from the Automated Source Code Performance
+    Efficiency Measure and Automated Source Code Reliability Measure both included
+    in the Automated Source Code Quality Measures (ASCQM) specification (https://www.omg.org/spec/ASCQM/1.0/
+    and ISO/IEC 5055:2021) to cover common weaknesses (CWEs) that affect the use of
+    energy and other resources.
 status:
   stage:
     content: formal

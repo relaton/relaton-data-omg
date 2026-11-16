@@ -1,7 +1,7 @@
 ---
 id: OMGCPP1117
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: This version is made available for informational purposes. The formal version is the final approved specification and is the version that should be followed for compliance with this specification. Access to change bars between versions are available only to OMG members.
+  content: This version is made available for informational purposes. The formal version
+    is the final approved specification and is the version that should be followed
+    for compliance with this specification. Access to change bars between versions
+    are available only to OMG members.
 status:
   stage:
     content: formal

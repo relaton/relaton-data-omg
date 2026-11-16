@@ -1,7 +1,7 @@
 ---
 id: OMGTelcoML10
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,8 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The objective of this specification is to define a UML Profile for designing advanced and integrated Telecommunication services.
+  content: The objective of this specification is to define a UML Profile for designing
+    advanced and integrated Telecommunication services.
 status:
   stage:
     content: formal

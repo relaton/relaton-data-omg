@@ -1,7 +1,7 @@
 ---
 id: OMGDD11
 schema_version: v1.5.6
-fetched: '2026-10-30'
+fetched: '2026-11-16'
 title:
 - language: en
   script: Latn
@@ -24,7 +24,10 @@ version:
 abstract:
 - language: en
   script: Latn
-  content: The DD specification provides a framework for other modeling language specifications to define their diagrams. Therefore, the DD specification does not have conformance criteria to vendors and tools directly, but rather to the modeling language specifications using it.
+  content: The DD specification provides a framework for other modeling language specifications
+    to define their diagrams. Therefore, the DD specification does not have conformance
+    criteria to vendors and tools directly, but rather to the modeling language specifications
+    using it.
 status:
   stage:
     content: formal
