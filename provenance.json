@@ -1,9 +1,9 @@
 {
   "repository": "relaton/relaton-data-omg",
   "workflow": "Crawler",
-  "run_id": "44945401406",
+  "run_id": "45066742301",
   "run_attempt": "1",
-  "source_revision": "8d31199cfd54e8ed1e432363b60729c653c07de8",
+  "source_revision": "31543f27fb9d6e6cdc79a8bde929265c00017d7b",
   "crawler": "bundle exec ruby crawler.rb",
-  "crawled_at": "2026-11-21T20:19:31Z"
+  "crawled_at": "2026-11-22T20:32:14Z"
 }
