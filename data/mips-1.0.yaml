@@ -1,7 +1,7 @@
 ---
 id: OMGMIPS10
 schema_version: v1.5.6
-fetched: '2026-11-25'
+fetched: '2026-11-26'
 title:
 - language: en
   script: Latn
@@ -35,8 +35,8 @@ license:
 - ''
 keyword:
 - vocab:
-    content: Modeling
+  - content: Modeling
 - vocab:
-    content: Business Modeling
+  - content: Business Modeling
 - vocab:
-    content: Data Warehousing
+  - content: Data Warehousing

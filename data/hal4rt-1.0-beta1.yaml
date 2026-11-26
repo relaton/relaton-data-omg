@@ -1,7 +1,7 @@
 ---
 id: OMGHAL4RT10beta
 schema_version: v1.5.6
-fetched: '2026-11-25'
+fetched: '2026-11-26'
 title:
 - language: en
   script: Latn
@@ -35,6 +35,6 @@ license:
 - ''
 keyword:
 - vocab:
-    content: Domain
+  - content: Domain
 - vocab:
-    content: Robotics
+  - content: Robotics

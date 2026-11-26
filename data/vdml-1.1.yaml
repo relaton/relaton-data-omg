@@ -1,7 +1,7 @@
 ---
 id: OMGVDML11
 schema_version: v1.5.6
-fetched: '2026-11-25'
+fetched: '2026-11-26'
 title:
 - language: en
   script: Latn
@@ -45,6 +45,6 @@ license:
 - Non-Assert
 keyword:
 - vocab:
-    content: Business Modeling
+  - content: Business Modeling
 - vocab:
-    content: Domain
+  - content: Domain

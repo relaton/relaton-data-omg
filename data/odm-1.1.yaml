@@ -1,7 +1,7 @@
 ---
 id: OMGODM11
 schema_version: v1.5.6
-fetched: '2026-11-25'
+fetched: '2026-11-26'
 title:
 - language: en
   script: Latn
@@ -45,6 +45,6 @@ license:
 - RF-Limited
 keyword:
 - vocab:
-    content: Modeling
+  - content: Modeling
 - vocab:
-    content: Platform
+  - content: Platform

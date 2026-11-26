@@ -1,7 +1,7 @@
 ---
 id: OMGAMI4CCM11
 schema_version: v1.5.6
-fetched: '2026-11-25'
+fetched: '2026-11-26'
 title:
 - language: en
   script: Latn
@@ -41,8 +41,8 @@ license:
 - RF-Limited
 keyword:
 - vocab:
-    content: Corba Platform
+  - content: Corba Platform
 - vocab:
-    content: Component Architecture
+  - content: Component Architecture
 - vocab:
-    content: Domain
+  - content: Domain

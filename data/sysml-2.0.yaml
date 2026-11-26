@@ -1,7 +1,7 @@
 ---
 id: OMGSysML20
 schema_version: v1.5.6
-fetched: '2026-11-25'
+fetched: '2026-11-26'
 title:
 - language: en
   script: Latn
@@ -97,8 +97,8 @@ license:
 - Non-Assert
 keyword:
 - vocab:
-    content: Modeling
+  - content: Modeling
 - vocab:
-    content: Systems Engineering
+  - content: Systems Engineering
 - vocab:
-    content: Platform
+  - content: Platform

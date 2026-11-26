@@ -1,7 +1,7 @@
 ---
 id: OMGSDRP10
 schema_version: v1.5.6
-fetched: '2026-11-25'
+fetched: '2026-11-26'
 title:
 - language: en
   script: Latn
@@ -32,8 +32,8 @@ license:
 - ''
 keyword:
 - vocab:
-    content: Uml Profile
+  - content: Uml Profile
 - vocab:
-    content: Communications
+  - content: Communications
 - vocab:
-    content: Domain
+  - content: Domain

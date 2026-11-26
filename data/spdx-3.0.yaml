@@ -1,7 +1,7 @@
 ---
 id: OMGSPDX30
 schema_version: v1.5.6
-fetched: '2026-11-25'
+fetched: '2026-11-26'
 title:
 - language: en
   script: Latn
@@ -32,4 +32,4 @@ license:
 - Non-Assert
 keyword:
 - vocab:
-    content: Platform
+  - content: Platform
